@@ -1,0 +1,57 @@
+name: HAE Auto-Ingest
+on:
+  repository_dispatch:
+    types: [hae-push]
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Write health-latest.json
+        env:
+          PAYLOAD: ${{ toJson(github.event.client_payload) }}
+        run: |
+          set -e
+          mkdir -p health-history
+          STAMP=$(date -u +%Y-%m-%dT%H-%M-%SZ)
+
+          # write the latest snapshot (PWA reads this)
+          printf '%s' "$PAYLOAD" > health-latest.json
+
+          # also append to history (one file per push, useful for debugging / re-imports)
+          printf '%s' "$PAYLOAD" > "health-history/$STAMP.json"
+
+          # prune history older than 30 days to keep repo small
+          find health-history -name '*.json' -mtime +30 -delete || true
+
+          # record the sync timestamp
+          jq -n --arg t "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            --arg bytes "$(wc -c < health-latest.json | tr -d ' ')" \
+            '{last_hae_push_at:$t, last_payload_bytes:($bytes|tonumber)}' > hae-sync.json
+
+          git config user.name "lock-in-bot"
+          git config user.email "bot@lockin.local"
+          git add health-latest.json hae-sync.json health-history/
+          git diff --cached --quiet || git commit -m "HAE ingest $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+
+      - name: Trigger weekly insight if checkin pending
+        env:
+          PAT: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # if there's been a fresh checkin (last_checkin == today) and no insight yet this week, fire it
+          if [ -f state.json ]; then
+            LAST_CK=$(jq -r '.last_checkin // ""' state.json)
+            TODAY=$(date -u +%Y-%m-%d)
+            if [ "$LAST_CK" = "$TODAY" ]; then
+              curl -s -X POST \
+                -H "Authorization: token $PAT" \
+                -H "Accept: application/vnd.github+json" \
+                "https://api.github.com/repos/${{ github.repository }}/dispatches" \
+                -d '{"event_type":"checkin-done"}' || true
+            fi
+          fi

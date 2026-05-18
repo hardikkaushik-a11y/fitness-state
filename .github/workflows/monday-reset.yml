@@ -1,0 +1,26 @@
+name: Monday Reset
+on:
+  schedule:
+    - cron: '5 23 * * 0'  # Sunday 23:05 UTC ≈ Monday 00:05 Berlin (DST drift acceptable)
+  workflow_dispatch:
+
+jobs:
+  reset:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Reset weekly counter
+        run: |
+          set -e
+          jq '.this_week_sessions = 0
+              | .this_week_session_dates = []
+              | .current_week_start = (now | strftime("%Y-%m-%d"))
+              | .sleep_intent_set_at = null' state.json > tmp.json
+          mv tmp.json state.json
+          git config user.name "lock-in-bot"
+          git config user.email "bot@lockin.local"
+          git add state.json
+          git diff --cached --quiet || git commit -m "Monday reset"
+          git push

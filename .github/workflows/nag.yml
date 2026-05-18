@@ -1,0 +1,93 @@
+name: Lock-In Nag
+on:
+  schedule:
+    - cron: '*/10 7-13 * * *'    # gym nag 09:00-15:59 Berlin summer
+    - cron: '*/15 21-23 * * *'   # sleep nag 22:00-00:59 Berlin
+    - cron: '0,30 8-13 * * 0'    # Sunday checkin nag 10:00-15:00 Berlin
+  workflow_dispatch:
+
+jobs:
+  nag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install pywebpush
+        run: pip install pywebpush --quiet
+
+      - name: Run nag logic
+        env:
+          VAPID_PRIVATE: ${{ secrets.VAPID_PRIVATE }}
+        run: |
+          export TZ=Europe/Berlin
+          python3 <<'PYEOF'
+          import os, json, datetime, time, sys
+          from pywebpush import webpush, WebPushException
+          from py_vapid import Vapid
+
+          if not os.path.exists('state.json'):
+              print('state.json missing'); sys.exit(0)
+          if not os.path.exists('push_subscription.json'):
+              print('push_subscription.json missing — PWA must run once on phone first'); sys.exit(0)
+
+          state = json.load(open('state.json'))
+          sub   = json.load(open('push_subscription.json'))
+          import base64
+          priv_b64 = os.environ['VAPID_PRIVATE']
+          print(f'VAPID secret length: {len(priv_b64)}', flush=True)
+          pem_bytes = base64.b64decode(priv_b64)
+          vapid = Vapid.from_pem(pem_bytes)
+          priv = vapid  # pywebpush accepts Vapid instance directly
+
+          os.environ['TZ'] = 'Europe/Berlin'
+          time.tzset()
+          now = datetime.datetime.now()
+          stamp = now.strftime('%H:%M')
+
+          def push(title, body):
+              try:
+                  webpush(
+                      subscription_info=sub,
+                      data=json.dumps({'title': title, 'body': body, 'tag': f'lockin-{int(time.time())}'}),
+                      vapid_private_key=priv,
+                      vapid_claims={'sub': 'mailto:hardik.kaushik@gmail.com'},
+                  )
+                  print(f'pushed: {title} — {body}')
+              except WebPushException as e:
+                  print(f'push failed ({title}): {e}')
+                  if e.response and e.response.status_code in (404, 410):
+                      print('subscription is gone — PWA needs to re-register')
+
+          sessions = state.get('this_week_sessions', 0)
+          last_ck  = state.get('last_checkin') or ''
+          sleep_intent = state.get('sleep_intent_set_at') or ''
+
+          # GYM NAG
+          if now.hour >= 9 and sessions < 4:
+              push(f'Gym [{stamp}]', f'Hardik, go to the gym. {sessions}/4 this week.')
+
+          # CHECKIN NAG (Sundays)
+          if now.weekday() == 6 and now.hour >= 10:
+              if last_ck:
+                  days = (now.date() - datetime.date.fromisoformat(last_ck[:10])).days
+              else:
+                  days = 999
+              if days > 6:
+                  push(f'Check-In [{stamp}]', 'DO THE CHECK-IN')
+
+          # SLEEP NAG (22:30-00:30 window)
+          mins = now.hour * 60 + now.minute
+          in_window = mins >= (22*60 + 30) or mins < 30
+          if in_window:
+              should_nag = True
+              if sleep_intent:
+                  try:
+                      intent = datetime.datetime.fromisoformat(sleep_intent.replace('Z', '+00:00'))
+                      age_sec = (datetime.datetime.now(intent.tzinfo) - intent).total_seconds()
+                      if age_sec < 12 * 3600:
+                          should_nag = False
+                  except Exception as e:
+                      print(f'sleep_intent parse failed: {e}')
+              if should_nag:
+                  push(f'Sleep [{stamp}]', 'Hardik, go to sleep.')
+          PYEOF
