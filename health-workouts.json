@@ -2,125 +2,763 @@
   "data" : {
     "workouts" : [
       {
-        "intensity" : {
-          "units" : "kcal\/hr·kg",
-          "qty" : 4.7674801564205387
+        "id" : "EAB07BDA-E490-46A7-B875-737DFB1A51E1",
+        "start" : "2026-05-26 09:10:53 +0200",
+        "metadata" : {
+
         },
-        "duration" : 3169.0578589439392,
+        "end" : "2026-05-26 10:03:42 +0200",
+        "activeEnergyBurned" : {
+          "units" : "kJ",
+          "qty" : 1216.0628640000011
+        },
+        "avgHeartRate" : {
+          "units" : "count\/min",
+          "qty" : 108.2543444281736
+        },
+        "temperature" : {
+          "qty" : 21.478418350217339,
+          "units" : "degC"
+        },
+        "heartRateRecovery" : [
+          {
+            "Min" : 123.99999999999999,
+            "units" : "count\/min",
+            "Max" : 123.99999999999999,
+            "date" : "2026-05-26 10:03:44 +0200",
+            "Avg" : 123.99999999999999,
+            "source" : "Bluetooth Device"
+          },
+          {
+            "Avg" : 127,
+            "source" : "Bluetooth Device",
+            "date" : "2026-05-26 10:03:51 +0200",
+            "units" : "count\/min",
+            "Min" : 127,
+            "Max" : 127
+          },
+          {
+            "source" : "Bluetooth Device",
+            "date" : "2026-05-26 10:03:56 +0200",
+            "Min" : 125.00000000000001,
+            "Max" : 125.00000000000001,
+            "units" : "count\/min",
+            "Avg" : 125.00000000000001
+          },
+          {
+            "Max" : 123.99999999999999,
+            "Min" : 123.99999999999999,
+            "date" : "2026-05-26 10:04:01 +0200",
+            "Avg" : 123.99999999999999,
+            "source" : "Bluetooth Device",
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 123.99999999999999,
+            "units" : "count\/min",
+            "date" : "2026-05-26 10:04:02 +0200",
+            "source" : "Bluetooth Device",
+            "Min" : 123.99999999999999,
+            "Avg" : 123.99999999999999
+          },
+          {
+            "date" : "2026-05-26 10:04:07 +0200",
+            "Max" : 120,
+            "Avg" : 120,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device",
+            "Min" : 120
+          },
+          {
+            "source" : "Bluetooth Device",
+            "units" : "count\/min",
+            "date" : "2026-05-26 10:04:12 +0200",
+            "Min" : 115,
+            "Avg" : 115,
+            "Max" : 115
+          },
+          {
+            "source" : "Bluetooth Device",
+            "Min" : 116,
+            "Max" : 116,
+            "Avg" : 116,
+            "date" : "2026-05-26 10:04:17 +0200",
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 119,
+            "source" : "Bluetooth Device",
+            "date" : "2026-05-26 10:04:24 +0200",
+            "Avg" : 119,
+            "units" : "count\/min",
+            "Min" : 119
+          },
+          {
+            "Avg" : 119,
+            "source" : "Bluetooth Device",
+            "date" : "2026-05-26 10:04:27 +0200",
+            "Max" : 119,
+            "Min" : 119,
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 116,
+            "Max" : 116,
+            "date" : "2026-05-26 10:04:34 +0200",
+            "source" : "Bluetooth Device",
+            "Avg" : 116,
+            "units" : "count\/min"
+          },
+          {
+            "date" : "2026-05-26 10:04:39 +0200",
+            "source" : "Bluetooth Device",
+            "Avg" : 115,
+            "units" : "count\/min",
+            "Max" : 115,
+            "Min" : 115
+          },
+          {
+            "Avg" : 117,
+            "Max" : 117,
+            "date" : "2026-05-26 10:04:42 +0200",
+            "units" : "count\/min",
+            "Min" : 117,
+            "source" : "Bluetooth Device"
+          },
+          {
+            "Min" : 117,
+            "date" : "2026-05-26 10:04:47 +0200",
+            "units" : "count\/min",
+            "Max" : 117,
+            "source" : "Bluetooth Device",
+            "Avg" : 117
+          },
+          {
+            "Min" : 118,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device",
+            "Max" : 118,
+            "date" : "2026-05-26 10:04:56 +0200",
+            "Avg" : 118
+          },
+          {
+            "Avg" : 117,
+            "units" : "count\/min",
+            "Max" : 117,
+            "date" : "2026-05-26 10:04:59 +0200",
+            "Min" : 117,
+            "source" : "Bluetooth Device"
+          },
+          {
+            "Min" : 119,
+            "date" : "2026-05-26 10:05:02 +0200",
+            "Max" : 119,
+            "Avg" : 119,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device"
+          },
+          {
+            "date" : "2026-05-26 10:05:09 +0200",
+            "Max" : 122,
+            "source" : "Bluetooth Device",
+            "units" : "count\/min",
+            "Min" : 122,
+            "Avg" : 122
+          },
+          {
+            "Min" : 120,
+            "Avg" : 120,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device",
+            "Max" : 120,
+            "date" : "2026-05-26 10:05:16 +0200"
+          },
+          {
+            "Max" : 120,
+            "date" : "2026-05-26 10:05:19 +0200",
+            "source" : "Bluetooth Device",
+            "Min" : 120,
+            "Avg" : 120,
+            "units" : "count\/min"
+          },
+          {
+            "units" : "count\/min",
+            "Max" : 125.00000000000001,
+            "date" : "2026-05-26 10:05:26 +0200",
+            "Min" : 125.00000000000001,
+            "Avg" : 125.00000000000001,
+            "source" : "Bluetooth Device"
+          },
+          {
+            "units" : "count\/min",
+            "Max" : 123.99999999999999,
+            "source" : "Bluetooth Device",
+            "Min" : 123.99999999999999,
+            "Avg" : 123.99999999999999,
+            "date" : "2026-05-26 10:05:27 +0200"
+          },
+          {
+            "Max" : 121,
+            "source" : "Bluetooth Device",
+            "date" : "2026-05-26 10:05:33 +0200",
+            "Min" : 121,
+            "Avg" : 121,
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 112,
+            "Min" : 112,
+            "date" : "2026-05-26 10:05:34 +0200",
+            "Avg" : 112,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device|Gabit"
+          }
+        ],
+        "name" : "Traditional Strength Training",
+        "maxHeartRate" : {
+          "units" : "count\/min",
+          "qty" : 136
+        },
+        "heartRateData" : [
+          {
+            "Max" : 86,
+            "Min" : 65,
+            "Avg" : 74.198067532182435,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device",
+            "date" : "2026-05-26 09:10:53 +0200"
+          },
+          {
+            "units" : "count\/min",
+            "Min" : 77,
+            "source" : "Bluetooth Device",
+            "date" : "2026-05-26 09:11:53 +0200",
+            "Max" : 98,
+            "Avg" : 87.068432909722958
+          },
+          {
+            "Max" : 98,
+            "date" : "2026-05-26 09:12:53 +0200",
+            "Min" : 94,
+            "Avg" : 96.309487268055435,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device"
+          },
+          {
+            "date" : "2026-05-26 09:13:53 +0200",
+            "Min" : 101,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device",
+            "Max" : 104,
+            "Avg" : 102.50704358610415
+          },
+          {
+            "Max" : 114,
+            "date" : "2026-05-26 09:14:53 +0200",
+            "source" : "Bluetooth Device|Gabit",
+            "Min" : 89,
+            "Avg" : 100.33093836110852,
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 80,
+            "date" : "2026-05-26 09:15:53 +0200",
+            "units" : "count\/min",
+            "Avg" : 85.66666920766643,
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 90
+          },
+          {
+            "date" : "2026-05-26 09:16:53 +0200",
+            "Min" : 76,
+            "Avg" : 79.479159440518771,
+            "units" : "count\/min",
+            "Max" : 89,
+            "source" : "Bluetooth Device|Gabit"
+          },
+          {
+            "Min" : 78,
+            "units" : "count\/min",
+            "Max" : 82,
+            "source" : "Bluetooth Device|Gabit",
+            "date" : "2026-05-26 09:17:53 +0200",
+            "Avg" : 79.405941164395671
+          },
+          {
+            "date" : "2026-05-26 09:18:53 +0200",
+            "Avg" : 102.73001974434349,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 121,
+            "Min" : 80
+          },
+          {
+            "units" : "count\/min",
+            "Min" : 87,
+            "source" : "Bluetooth Device|Gabit",
+            "date" : "2026-05-26 09:19:53 +0200",
+            "Max" : 125.00000000000001,
+            "Avg" : 112.94325517953017
+          },
+          {
+            "Max" : 106,
+            "source" : "Bluetooth Device|Gabit",
+            "Min" : 90,
+            "date" : "2026-05-26 09:20:53 +0200",
+            "Avg" : 95.029121986575149,
+            "units" : "count\/min"
+          },
+          {
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 89,
+            "date" : "2026-05-26 09:21:53 +0200",
+            "Min" : 87,
+            "Avg" : 88.25000038742877,
+            "units" : "count\/min"
+          },
+          {
+            "Avg" : 90.177071730802453,
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 101,
+            "date" : "2026-05-26 09:22:53 +0200",
+            "Min" : 83,
+            "units" : "count\/min"
+          },
+          {
+            "source" : "Bluetooth Device|Gabit",
+            "Min" : 90,
+            "Max" : 122,
+            "date" : "2026-05-26 09:23:53 +0200",
+            "Avg" : 110.18825507382921,
+            "units" : "count\/min"
+          },
+          {
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 117,
+            "date" : "2026-05-26 09:24:53 +0200",
+            "Min" : 96,
+            "Avg" : 114.71710170783444,
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 122.99999999999999,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device|Gabit",
+            "date" : "2026-05-26 09:25:53 +0200",
+            "Min" : 114,
+            "Avg" : 117.73267475390313
+          },
+          {
+            "Avg" : 112.2187401845018,
+            "source" : "Bluetooth Device|Gabit",
+            "units" : "count\/min",
+            "date" : "2026-05-26 09:26:53 +0200",
+            "Max" : 118,
+            "Min" : 105
+          },
+          {
+            "Max" : 112,
+            "Avg" : 105.35789798564876,
+            "date" : "2026-05-26 09:27:53 +0200",
+            "Min" : 97,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device|Gabit"
+          },
+          {
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 118,
+            "date" : "2026-05-26 09:28:53 +0200",
+            "Min" : 101,
+            "Avg" : 109.34655033497611,
+            "units" : "count\/min"
+          },
+          {
+            "date" : "2026-05-26 09:29:53 +0200",
+            "Max" : 103,
+            "source" : "Bluetooth Device|Gabit",
+            "Min" : 97,
+            "Avg" : 100.19614452819074,
+            "units" : "count\/min"
+          },
+          {
+            "date" : "2026-05-26 09:30:53 +0200",
+            "Min" : 93,
+            "units" : "count\/min",
+            "Max" : 101,
+            "source" : "Bluetooth Device|Gabit",
+            "Avg" : 95.683658480235877
+          },
+          {
+            "Avg" : 105.07000656899415,
+            "Min" : 96,
+            "units" : "count\/min",
+            "date" : "2026-05-26 09:31:53 +0200",
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 114
+          },
+          {
+            "Min" : 95,
+            "units" : "count\/min",
+            "date" : "2026-05-26 09:32:53 +0200",
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 115,
+            "Avg" : 106.12000393018079
+          },
+          {
+            "units" : "count\/min",
+            "Max" : 108,
+            "date" : "2026-05-26 09:33:53 +0200",
+            "Min" : 100,
+            "source" : "Bluetooth Device|Gabit",
+            "Avg" : 105.48958307150271
+          },
+          {
+            "Min" : 82,
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 134,
+            "Avg" : 115.44339298072789,
+            "units" : "count\/min",
+            "date" : "2026-05-26 09:34:53 +0200"
+          },
+          {
+            "source" : "Bluetooth Device|Gabit",
+            "date" : "2026-05-26 09:35:53 +0200",
+            "Avg" : 108.85437262419111,
+            "units" : "count\/min",
+            "Min" : 103,
+            "Max" : 112
+          },
+          {
+            "date" : "2026-05-26 09:36:53 +0200",
+            "Min" : 107,
+            "Avg" : 117.27000959056102,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 136
+          },
+          {
+            "Max" : 133,
+            "Avg" : 118.65263834931605,
+            "source" : "Bluetooth Device|Gabit",
+            "date" : "2026-05-26 09:37:53 +0200",
+            "Min" : 106,
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 117,
+            "source" : "Bluetooth Device|Gabit",
+            "Avg" : 106.3564343278473,
+            "Min" : 100,
+            "date" : "2026-05-26 09:38:53 +0200",
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 90,
+            "Max" : 118,
+            "Avg" : 103.36123464307116,
+            "date" : "2026-05-26 09:39:53 +0200",
+            "units" : "count\/min",
+            "source" : "Bluetooth Device|Gabit"
+          },
+          {
+            "units" : "count\/min",
+            "Max" : 117,
+            "date" : "2026-05-26 09:40:53 +0200",
+            "Min" : 110,
+            "source" : "Bluetooth Device|Gabit",
+            "Avg" : 113.9883733194786
+          },
+          {
+            "date" : "2026-05-26 09:41:53 +0200",
+            "Min" : 101,
+            "Max" : 117,
+            "source" : "Bluetooth Device|Gabit",
+            "Avg" : 109.30769752227397,
+            "units" : "count\/min"
+          },
+          {
+            "date" : "2026-05-26 09:42:53 +0200",
+            "Max" : 108,
+            "Min" : 93,
+            "Avg" : 101.22771265320303,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device|Gabit"
+          },
+          {
+            "date" : "2026-05-26 09:43:53 +0200",
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 128,
+            "Min" : 111,
+            "Avg" : 119.35789907652317,
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 131,
+            "Min" : 106,
+            "source" : "Bluetooth Device|Gabit",
+            "Avg" : 119.96534769095021,
+            "date" : "2026-05-26 09:44:53 +0200",
+            "units" : "count\/min"
+          },
+          {
+            "source" : "Bluetooth Device|Gabit",
+            "units" : "count\/min",
+            "date" : "2026-05-26 09:45:53 +0200",
+            "Min" : 106,
+            "Max" : 116,
+            "Avg" : 109.64583519716581
+          },
+          {
+            "Max" : 127,
+            "Min" : 103,
+            "Avg" : 114.17999874921048,
+            "units" : "count\/min",
+            "date" : "2026-05-26 09:46:53 +0200",
+            "source" : "Bluetooth Device|Gabit"
+          },
+          {
+            "date" : "2026-05-26 09:47:53 +0200",
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 128,
+            "Min" : 106,
+            "units" : "count\/min",
+            "Avg" : 118.13132210660706
+          },
+          {
+            "date" : "2026-05-26 09:48:53 +0200",
+            "Avg" : 116.77226669657688,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device|Gabit",
+            "Min" : 106,
+            "Max" : 126
+          },
+          {
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 122,
+            "Min" : 103,
+            "Avg" : 118.45059847229365,
+            "units" : "count\/min",
+            "date" : "2026-05-26 09:49:53 +0200"
+          },
+          {
+            "date" : "2026-05-26 09:50:53 +0200",
+            "Min" : 107,
+            "Avg" : 115.08850222439682,
+            "source" : "Bluetooth Device|Gabit",
+            "units" : "count\/min",
+            "Max" : 122.99999999999999
+          },
+          {
+            "Avg" : 113.5684091462329,
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 118,
+            "date" : "2026-05-26 09:51:53 +0200",
+            "units" : "count\/min",
+            "Min" : 110
+          },
+          {
+            "date" : "2026-05-26 09:52:53 +0200",
+            "Max" : 110,
+            "Min" : 103,
+            "source" : "Bluetooth Device|Gabit",
+            "Avg" : 107.5833341382076,
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 113,
+            "source" : "Bluetooth Device|Gabit",
+            "date" : "2026-05-26 09:53:53 +0200",
+            "Min" : 106,
+            "Avg" : 108.92079196356218,
+            "units" : "count\/min"
+          },
+          {
+            "source" : "Bluetooth Device|Gabit",
+            "Min" : 105,
+            "Avg" : 117.95125178983574,
+            "date" : "2026-05-26 09:54:53 +0200",
+            "units" : "count\/min",
+            "Max" : 122.99999999999999
+          },
+          {
+            "Min" : 122,
+            "units" : "count\/min",
+            "date" : "2026-05-26 09:55:53 +0200",
+            "source" : "Bluetooth Device|Gabit",
+            "Avg" : 131.04651873147037,
+            "Max" : 136
+          },
+          {
+            "Max" : 128,
+            "source" : "Bluetooth Device|Gabit",
+            "date" : "2026-05-26 09:56:53 +0200",
+            "units" : "count\/min",
+            "Min" : 118,
+            "Avg" : 123.86316198437591
+          },
+          {
+            "Avg" : 125.60395206776451,
+            "units" : "count\/min",
+            "date" : "2026-05-26 09:57:53 +0200",
+            "Min" : 116,
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 134
+          },
+          {
+            "Max" : 126,
+            "Min" : 116,
+            "date" : "2026-05-26 09:58:53 +0200",
+            "Avg" : 120.65789288159255,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device|Gabit"
+          },
+          {
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 128,
+            "Min" : 99,
+            "units" : "count\/min",
+            "Avg" : 113.5,
+            "date" : "2026-05-26 09:59:53 +0200"
+          },
+          {
+            "Min" : 125.00000000000001,
+            "date" : "2026-05-26 10:00:53 +0200",
+            "units" : "count\/min",
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 130,
+            "Avg" : 126.36458066326013
+          },
+          {
+            "Min" : 119,
+            "Avg" : 124.12621284940963,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device|Gabit",
+            "Max" : 130,
+            "date" : "2026-05-26 10:01:53 +0200"
+          },
+          {
+            "Max" : 125.00000000000001,
+            "date" : "2026-05-26 10:02:53 +0200",
+            "Avg" : 122.02468713486309,
+            "units" : "count\/min",
+            "Min" : 119,
+            "source" : "Bluetooth Device|Gabit"
+          }
+        ],
         "activeEnergy" : [
           {
+            "source" : "Hardik’s iPhone",
             "qty" : 18.895217567385366,
             "date" : "2026-05-26 09:10:53 +0200",
-            "source" : "Hardik’s iPhone",
             "units" : "kJ"
           },
           {
-            "qty" : 19.017091470419018,
-            "units" : "kJ",
             "date" : "2026-05-26 09:11:53 +0200",
+            "units" : "kJ",
+            "qty" : 19.017091470419018,
             "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-05-26 09:12:53 +0200",
             "qty" : 19.539018793293625,
+            "date" : "2026-05-26 09:12:53 +0200",
             "units" : "kJ",
             "source" : "Hardik’s iPhone|Gabit"
           },
           {
-            "source" : "Hardik’s iPhone|Gabit",
             "date" : "2026-05-26 09:13:53 +0200",
-            "qty" : 21.932960691409413,
-            "units" : "kJ"
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 21.932960691409413
           },
           {
             "qty" : 20.47105547749258,
-            "date" : "2026-05-26 09:14:53 +0200",
+            "units" : "kJ",
             "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ"
+            "date" : "2026-05-26 09:14:53 +0200"
           },
           {
             "date" : "2026-05-26 09:15:53 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
             "units" : "kJ",
-            "qty" : 18.895849545484111
+            "qty" : 18.895849545484111,
+            "source" : "Hardik’s iPhone|Gabit"
           },
           {
+            "date" : "2026-05-26 09:16:53 +0200",
             "qty" : 18.920142847780635,
             "units" : "kJ",
-            "date" : "2026-05-26 09:16:53 +0200",
             "source" : "Hardik’s iPhone|Gabit"
           },
           {
-            "qty" : 18.949593027151572,
-            "units" : "kJ",
+            "source" : "Hardik’s iPhone|Gabit",
             "date" : "2026-05-26 09:17:53 +0200",
-            "source" : "Hardik’s iPhone|Gabit"
+            "qty" : 18.949593027151572,
+            "units" : "kJ"
           },
           {
-            "units" : "kJ",
             "qty" : 23.219124292882199,
-            "date" : "2026-05-26 09:18:53 +0200",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "qty" : 26.502020928966232,
             "units" : "kJ",
             "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:18:53 +0200"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 26.502020928966232,
             "date" : "2026-05-26 09:19:53 +0200"
           },
           {
             "date" : "2026-05-26 09:20:53 +0200",
             "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "qty" : 18.9204071614427
+            "qty" : 18.9204071614427,
+            "units" : "kJ"
           },
           {
+            "date" : "2026-05-26 09:21:53 +0200",
             "qty" : 18.950402591831718,
             "units" : "kJ",
-            "date" : "2026-05-26 09:21:53 +0200",
             "source" : "Hardik’s iPhone|Gabit"
           },
           {
-            "qty" : 18.932927824398398,
             "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:22:53 +0200",
-            "units" : "kJ"
+            "units" : "kJ",
+            "qty" : 18.932927824398398,
+            "date" : "2026-05-26 09:22:53 +0200"
           },
           {
-            "units" : "kJ",
+            "date" : "2026-05-26 09:23:53 +0200",
             "qty" : 24.559907610647212,
             "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:23:53 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "date" : "2026-05-26 09:24:53 +0200",
-            "qty" : 25.267916601683872
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-05-26 09:25:53 +0200",
-            "qty" : 20.111644961308627,
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "date" : "2026-05-26 09:26:53 +0200",
-            "qty" : 20.809471939550392,
-            "source" : "Hardik’s iPhone|Gabit",
             "units" : "kJ"
           },
           {
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:27:53 +0200",
             "units" : "kJ",
-            "qty" : 19.070229747753725
+            "date" : "2026-05-26 09:24:53 +0200",
+            "qty" : 25.267916601683872,
+            "source" : "Hardik’s iPhone|Gabit"
+          },
+          {
+            "qty" : 20.111644961308627,
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "kJ",
+            "date" : "2026-05-26 09:25:53 +0200"
+          },
+          {
+            "qty" : 20.809471939550392,
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "kJ",
+            "date" : "2026-05-26 09:26:53 +0200"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-05-26 09:27:53 +0200",
+            "qty" : 19.070229747753725,
+            "source" : "Hardik’s iPhone|Gabit"
           },
           {
             "qty" : 20.218513738558539,
-            "units" : "kJ",
+            "date" : "2026-05-26 09:28:53 +0200",
             "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:28:53 +0200"
+            "units" : "kJ"
           },
           {
             "source" : "Hardik’s iPhone|Gabit",
@@ -129,166 +767,166 @@
             "date" : "2026-05-26 09:29:53 +0200"
           },
           {
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
             "date" : "2026-05-26 09:30:53 +0200",
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone|Gabit",
             "qty" : 18.936713457863792
           },
           {
             "date" : "2026-05-26 09:31:53 +0200",
-            "units" : "kJ",
             "qty" : 19.09781991169551,
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 20.567382047639782,
+            "date" : "2026-05-26 09:32:53 +0200",
+            "units" : "kJ",
             "source" : "Hardik’s iPhone|Gabit"
           },
           {
-            "units" : "kJ",
-            "qty" : 20.567382047639782,
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:32:53 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
             "qty" : 20.101445655428634,
+            "source" : "Hardik’s iPhone|Gabit",
             "date" : "2026-05-26 09:33:53 +0200",
             "units" : "kJ"
           },
           {
-            "units" : "kJ",
             "source" : "Hardik’s iPhone|Gabit",
+            "units" : "kJ",
             "qty" : 24.956671516897369,
             "date" : "2026-05-26 09:34:53 +0200"
           },
           {
             "qty" : 20.762417953146159,
-            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "kJ",
             "date" : "2026-05-26 09:35:53 +0200",
-            "units" : "kJ"
-          },
-          {
-            "qty" : 22.5082265778364,
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:36:53 +0200",
-            "units" : "kJ"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 24.885488359087695,
-            "date" : "2026-05-26 09:37:53 +0200"
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-05-26 09:38:53 +0200",
-            "qty" : 19.801538628034599,
             "source" : "Hardik’s iPhone|Gabit"
           },
           {
-            "date" : "2026-05-26 09:39:53 +0200",
+            "qty" : 22.5082265778364,
+            "date" : "2026-05-26 09:36:53 +0200",
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone|Gabit"
+          },
+          {
             "units" : "kJ",
             "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:37:53 +0200",
+            "qty" : 24.885488359087695
+          },
+          {
+            "date" : "2026-05-26 09:38:53 +0200",
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "kJ",
+            "qty" : 19.801538628034599
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:39:53 +0200",
             "qty" : 20.677439933215428
           },
           {
             "units" : "kJ",
-            "date" : "2026-05-26 09:40:53 +0200",
+            "source" : "Hardik’s iPhone|Gabit",
             "qty" : 23.055774313402967,
-            "source" : "Hardik’s iPhone|Gabit"
+            "date" : "2026-05-26 09:40:53 +0200"
           },
           {
-            "units" : "kJ",
+            "qty" : 19.604520559126517,
             "date" : "2026-05-26 09:41:53 +0200",
             "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 19.604520559126517
+            "units" : "kJ"
           },
           {
+            "source" : "Hardik’s iPhone|Gabit",
             "qty" : 19.342807807549583,
-            "units" : "kJ",
             "date" : "2026-05-26 09:42:53 +0200",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "qty" : 22.432874826621532,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:43:53 +0200"
+            "units" : "kJ"
           },
           {
             "units" : "kJ",
-            "qty" : 28.987243802505958,
+            "date" : "2026-05-26 09:43:53 +0200",
             "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:44:53 +0200"
+            "qty" : 22.432874826621532
           },
           {
             "units" : "kJ",
+            "date" : "2026-05-26 09:44:53 +0200",
             "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 28.987243802505958
+          },
+          {
             "date" : "2026-05-26 09:45:53 +0200",
-            "qty" : 18.954926178692453
+            "qty" : 18.954926178692453,
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "kJ"
           },
           {
-            "units" : "kJ",
-            "date" : "2026-05-26 09:46:53 +0200",
             "qty" : 21.619280804077722,
-            "source" : "Hardik’s iPhone|Gabit"
+            "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:46:53 +0200",
+            "units" : "kJ"
           },
           {
-            "qty" : 28.479526422745547,
-            "units" : "kJ",
             "date" : "2026-05-26 09:47:53 +0200",
+            "units" : "kJ",
+            "qty" : 28.479526422745547,
             "source" : "Hardik’s iPhone|Gabit"
           },
           {
+            "qty" : 26.021258476290956,
             "date" : "2026-05-26 09:48:53 +0200",
             "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 26.021258476290956
+            "source" : "Hardik’s iPhone|Gabit"
           },
           {
-            "source" : "Hardik’s iPhone|Gabit",
             "qty" : 25.716804506806099,
+            "source" : "Hardik’s iPhone|Gabit",
             "date" : "2026-05-26 09:49:53 +0200",
             "units" : "kJ"
           },
           {
-            "units" : "kJ",
+            "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:50:53 +0200",
             "qty" : 22.426276013258402,
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:50:53 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "qty" : 21.835314924733066,
-            "date" : "2026-05-26 09:51:53 +0200"
-          },
-          {
-            "qty" : 20.945316877025732,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:52:53 +0200"
-          },
-          {
-            "qty" : 21.450107964284211,
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:53:53 +0200",
             "units" : "kJ"
           },
           {
             "units" : "kJ",
+            "date" : "2026-05-26 09:51:53 +0200",
             "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 21.835314924733066
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 20.945316877025732,
+            "date" : "2026-05-26 09:52:53 +0200"
+          },
+          {
+            "qty" : 21.450107964284211,
+            "date" : "2026-05-26 09:53:53 +0200",
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:54:53 +0200",
             "qty" : 24.723688645697763,
-            "date" : "2026-05-26 09:54:53 +0200"
+            "units" : "kJ"
           },
           {
             "qty" : 34.401543643683127,
             "date" : "2026-05-26 09:55:53 +0200",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit"
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "kJ"
           },
           {
-            "date" : "2026-05-26 09:56:53 +0200",
-            "units" : "kJ",
+            "source" : "Hardik’s iPhone|Gabit",
             "qty" : 31.252777580788184,
-            "source" : "Hardik’s iPhone|Gabit"
+            "date" : "2026-05-26 09:56:53 +0200",
+            "units" : "kJ"
           },
           {
             "qty" : 30.822535061881663,
@@ -297,16 +935,16 @@
             "date" : "2026-05-26 09:57:53 +0200"
           },
           {
-            "units" : "kJ",
-            "date" : "2026-05-26 09:58:53 +0200",
             "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:58:53 +0200",
+            "units" : "kJ",
             "qty" : 27.982948644139235
           },
           {
-            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 37.747430772144057,
             "units" : "kJ",
-            "date" : "2026-05-26 09:59:53 +0200",
-            "qty" : 37.747430772144057
+            "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:59:53 +0200"
           },
           {
             "date" : "2026-05-26 10:00:53 +0200",
@@ -316,21 +954,263 @@
           },
           {
             "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit",
             "qty" : 31.049716437911449,
-            "date" : "2026-05-26 10:01:53 +0200"
+            "date" : "2026-05-26 10:01:53 +0200",
+            "source" : "Hardik’s iPhone|Gabit"
           },
           {
             "date" : "2026-05-26 10:02:53 +0200",
-            "units" : "kJ",
+            "qty" : 19.309713240126637,
             "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 19.309713240126637
+            "units" : "kJ"
           }
         ],
+        "stepCount" : [
+          {
+            "qty" : 45.271474307775499,
+            "units" : "count",
+            "source" : "Gabit",
+            "date" : "2026-05-26 09:12:53 +0200"
+          },
+          {
+            "units" : "count",
+            "date" : "2026-05-26 09:13:53 +0200",
+            "qty" : 5.7285256922245011,
+            "source" : "Gabit"
+          },
+          {
+            "units" : "count",
+            "date" : "2026-05-26 09:24:53 +0200",
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 10.594856301218693
+          },
+          {
+            "date" : "2026-05-26 09:25:53 +0200",
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 16.246617533688504,
+            "units" : "count"
+          },
+          {
+            "date" : "2026-05-26 09:26:53 +0200",
+            "qty" : 16.246617533688504,
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "count"
+          },
+          {
+            "qty" : 16.2466175336885,
+            "units" : "count",
+            "date" : "2026-05-26 09:27:53 +0200",
+            "source" : "Hardik’s iPhone|Gabit"
+          },
+          {
+            "date" : "2026-05-26 09:28:53 +0200",
+            "qty" : 16.246617533688504,
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "count"
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:29:53 +0200",
+            "units" : "count",
+            "qty" : 16.2466175336885
+          },
+          {
+            "qty" : 16.246617533688504,
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "count",
+            "date" : "2026-05-26 09:30:53 +0200"
+          },
+          {
+            "date" : "2026-05-26 09:31:53 +0200",
+            "qty" : 16.246617533688504,
+            "units" : "count",
+            "source" : "Hardik’s iPhone|Gabit"
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 16.246617533688504,
+            "units" : "count",
+            "date" : "2026-05-26 09:32:53 +0200"
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "count",
+            "qty" : 3.4322034292732795,
+            "date" : "2026-05-26 09:33:53 +0200"
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 8.2114751859435575,
+            "units" : "count",
+            "date" : "2026-05-26 09:34:53 +0200"
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 13.785120795105962,
+            "units" : "count",
+            "date" : "2026-05-26 09:35:53 +0200"
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:36:53 +0200",
+            "qty" : 13.785120795105962,
+            "units" : "count"
+          },
+          {
+            "qty" : 13.785120795105964,
+            "units" : "count",
+            "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:37:53 +0200"
+          },
+          {
+            "units" : "count",
+            "qty" : 13.785120795105961,
+            "date" : "2026-05-26 09:38:53 +0200",
+            "source" : "Hardik’s iPhone|Gabit"
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 13.785120795105962,
+            "date" : "2026-05-26 09:39:53 +0200",
+            "units" : "count"
+          },
+          {
+            "units" : "count",
+            "date" : "2026-05-26 09:40:53 +0200",
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 6.862920838526632
+          },
+          {
+            "units" : "count",
+            "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:41:53 +0200",
+            "qty" : 3.1450729290644333
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 3.3130495546845227,
+            "date" : "2026-05-26 09:45:53 +0200",
+            "units" : "count"
+          },
+          {
+            "qty" : 36.622006086683129,
+            "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:46:53 +0200",
+            "units" : "count"
+          },
+          {
+            "units" : "count",
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 36.622006086683129,
+            "date" : "2026-05-26 09:47:53 +0200"
+          },
+          {
+            "qty" : 36.622006086683129,
+            "date" : "2026-05-26 09:48:53 +0200",
+            "units" : "count",
+            "source" : "Hardik’s iPhone|Gabit"
+          },
+          {
+            "date" : "2026-05-26 09:49:53 +0200",
+            "qty" : 36.622006086683122,
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "count"
+          },
+          {
+            "units" : "count",
+            "qty" : 36.622006086683129,
+            "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:50:53 +0200"
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 36.622006086683122,
+            "units" : "count",
+            "date" : "2026-05-26 09:51:53 +0200"
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "count",
+            "qty" : 36.622006086683129,
+            "date" : "2026-05-26 09:52:53 +0200"
+          },
+          {
+            "qty" : 36.622006086683129,
+            "date" : "2026-05-26 09:53:53 +0200",
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "count"
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:54:53 +0200",
+            "units" : "count",
+            "qty" : 36.622006086683129
+          },
+          {
+            "qty" : 43.075232756924322,
+            "date" : "2026-05-26 09:55:53 +0200",
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "count"
+          },
+          {
+            "units" : "count",
+            "qty" : 67.975471361708543,
+            "source" : "Hardik’s iPhone|Gabit",
+            "date" : "2026-05-26 09:56:53 +0200"
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "count",
+            "date" : "2026-05-26 09:57:53 +0200",
+            "qty" : 67.975471361708543
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 67.975471361708543,
+            "units" : "count",
+            "date" : "2026-05-26 09:58:53 +0200"
+          },
+          {
+            "qty" : 67.975471361708543,
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "count",
+            "date" : "2026-05-26 09:59:53 +0200"
+          },
+          {
+            "units" : "count",
+            "date" : "2026-05-26 10:00:53 +0200",
+            "qty" : 67.975471361708557,
+            "source" : "Hardik’s iPhone|Gabit"
+          },
+          {
+            "qty" : 67.975471361708557,
+            "source" : "Hardik’s iPhone|Gabit",
+            "units" : "count",
+            "date" : "2026-05-26 10:01:53 +0200"
+          },
+          {
+            "source" : "Hardik’s iPhone|Gabit",
+            "qty" : 67.975471361708543,
+            "units" : "count",
+            "date" : "2026-05-26 10:02:53 +0200"
+          }
+        ],
+        "humidity" : {
+          "units" : "%",
+          "qty" : 66
+        },
+        "stepCadence" : {
+          "qty" : 21.469340605803829,
+          "units" : "count\/min"
+        },
+        "intensity" : {
+          "units" : "kcal\/hr·kg",
+          "qty" : 4.7674801564205387
+        },
         "heartRate" : {
           "avg" : {
-            "units" : "count\/min",
-            "qty" : 108.2543444281736
+            "qty" : 108.2543444281736,
+            "units" : "count\/min"
           },
           "max" : {
             "qty" : 136,
@@ -341,887 +1221,7 @@
             "units" : "count\/min"
           }
         },
-        "stepCadence" : {
-          "units" : "count\/min",
-          "qty" : 21.469340605803829
-        },
-        "temperature" : {
-          "qty" : 21.478418350217339,
-          "units" : "degC"
-        },
-        "end" : "2026-05-26 10:03:42 +0200",
-        "id" : "EAB07BDA-E490-46A7-B875-737DFB1A51E1",
-        "maxHeartRate" : {
-          "qty" : 136,
-          "units" : "count\/min"
-        },
-        "avgHeartRate" : {
-          "units" : "count\/min",
-          "qty" : 108.2543444281736
-        },
-        "metadata" : {
-
-        },
-        "activeEnergyBurned" : {
-          "units" : "kJ",
-          "qty" : 1216.0628640000011
-        },
-        "name" : "Traditional Strength Training",
-        "start" : "2026-05-26 09:10:53 +0200",
-        "heartRateData" : [
-          {
-            "units" : "count\/min",
-            "source" : "Bluetooth Device",
-            "Min" : 65,
-            "Max" : 86,
-            "date" : "2026-05-26 09:10:53 +0200",
-            "Avg" : 74.198067532182435
-          },
-          {
-            "date" : "2026-05-26 09:11:53 +0200",
-            "Max" : 98,
-            "source" : "Bluetooth Device",
-            "Avg" : 87.068432909722958,
-            "units" : "count\/min",
-            "Min" : 77
-          },
-          {
-            "Max" : 98,
-            "source" : "Bluetooth Device",
-            "Min" : 94,
-            "Avg" : 96.309487268055435,
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:12:53 +0200"
-          },
-          {
-            "date" : "2026-05-26 09:13:53 +0200",
-            "source" : "Bluetooth Device",
-            "Max" : 104,
-            "units" : "count\/min",
-            "Min" : 101,
-            "Avg" : 102.50704358610415
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 114,
-            "Min" : 89,
-            "date" : "2026-05-26 09:14:53 +0200",
-            "Avg" : 100.33093836110852,
-            "units" : "count\/min"
-          },
-          {
-            "Avg" : 85.66666920766643,
-            "Min" : 80,
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 90,
-            "date" : "2026-05-26 09:15:53 +0200"
-          },
-          {
-            "Min" : 76,
-            "Avg" : 79.479159440518771,
-            "units" : "count\/min",
-            "Max" : 89,
-            "date" : "2026-05-26 09:16:53 +0200",
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-05-26 09:17:53 +0200",
-            "Min" : 78,
-            "Avg" : 79.405941164395671,
-            "Max" : 82,
-            "units" : "count\/min"
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 121,
-            "date" : "2026-05-26 09:18:53 +0200",
-            "Min" : 80,
-            "units" : "count\/min",
-            "Avg" : 102.73001974434349
-          },
-          {
-            "units" : "count\/min",
-            "Max" : 125.00000000000001,
-            "date" : "2026-05-26 09:19:53 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 87,
-            "Avg" : 112.94325517953017
-          },
-          {
-            "Avg" : 95.029121986575149,
-            "Max" : 106,
-            "Min" : 90,
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:20:53 +0200",
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-05-26 09:21:53 +0200",
-            "units" : "count\/min",
-            "Max" : 89,
-            "Min" : 87,
-            "Avg" : 88.25000038742877
-          },
-          {
-            "Min" : 83,
-            "Avg" : 90.177071730802453,
-            "date" : "2026-05-26 09:22:53 +0200",
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 101
-          },
-          {
-            "date" : "2026-05-26 09:23:53 +0200",
-            "Max" : 122,
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 90,
-            "Avg" : 110.18825507382921
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:24:53 +0200",
-            "Min" : 96,
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 114.71710170783444,
-            "Max" : 117
-          },
-          {
-            "Avg" : 117.73267475390313,
-            "Min" : 114,
-            "Max" : 122.99999999999999,
-            "source" : "Bluetooth Device|Gabit",
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:25:53 +0200"
-          },
-          {
-            "date" : "2026-05-26 09:26:53 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 118,
-            "Avg" : 112.2187401845018,
-            "units" : "count\/min",
-            "Min" : 105
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:27:53 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 97,
-            "Avg" : 105.35789798564876,
-            "Max" : 112
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 101,
-            "date" : "2026-05-26 09:28:53 +0200",
-            "Avg" : 109.34655033497611,
-            "units" : "count\/min",
-            "Max" : 118
-          },
-          {
-            "Avg" : 100.19614452819074,
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-05-26 09:29:53 +0200",
-            "Max" : 103,
-            "Min" : 97
-          },
-          {
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 95.683658480235877,
-            "date" : "2026-05-26 09:30:53 +0200",
-            "Max" : 101,
-            "Min" : 93
-          },
-          {
-            "Min" : 96,
-            "Avg" : 105.07000656899415,
-            "source" : "Bluetooth Device|Gabit",
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:31:53 +0200",
-            "Max" : 114
-          },
-          {
-            "Min" : 95,
-            "Avg" : 106.12000393018079,
-            "Max" : 115,
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-05-26 09:32:53 +0200",
-            "units" : "count\/min"
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "units" : "count\/min",
-            "Max" : 108,
-            "Min" : 100,
-            "date" : "2026-05-26 09:33:53 +0200",
-            "Avg" : 105.48958307150271
-          },
-          {
-            "Min" : 82,
-            "Avg" : 115.44339298072789,
-            "Max" : 134,
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:34:53 +0200",
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "date" : "2026-05-26 09:35:53 +0200",
-            "Max" : 112,
-            "Min" : 103,
-            "Avg" : 108.85437262419111,
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "Min" : 107,
-            "Max" : 136,
-            "date" : "2026-05-26 09:36:53 +0200",
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 117.27000959056102
-          },
-          {
-            "Min" : 106,
-            "Max" : 133,
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 118.65263834931605,
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:37:53 +0200"
-          },
-          {
-            "Max" : 117,
-            "Avg" : 106.3564343278473,
-            "Min" : 100,
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-05-26 09:38:53 +0200"
-          },
-          {
-            "units" : "count\/min",
-            "Min" : 90,
-            "Avg" : 103.36123464307116,
-            "Max" : 118,
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-05-26 09:39:53 +0200"
-          },
-          {
-            "units" : "count\/min",
-            "Min" : 110,
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-05-26 09:40:53 +0200",
-            "Max" : 117,
-            "Avg" : 113.9883733194786
-          },
-          {
-            "units" : "count\/min",
-            "Min" : 101,
-            "date" : "2026-05-26 09:41:53 +0200",
-            "Max" : 117,
-            "Avg" : 109.30769752227397,
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 108,
-            "Min" : 93,
-            "units" : "count\/min",
-            "Avg" : 101.22771265320303,
-            "date" : "2026-05-26 09:42:53 +0200"
-          },
-          {
-            "Max" : 128,
-            "Min" : 111,
-            "Avg" : 119.35789907652317,
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:43:53 +0200",
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "Min" : 106,
-            "Avg" : 119.96534769095021,
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:44:53 +0200",
-            "Max" : 131,
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "Min" : 106,
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 109.64583519716581,
-            "Max" : 116,
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:45:53 +0200"
-          },
-          {
-            "Max" : 127,
-            "source" : "Bluetooth Device|Gabit",
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:46:53 +0200",
-            "Avg" : 114.17999874921048,
-            "Min" : 103
-          },
-          {
-            "Min" : 106,
-            "Avg" : 118.13132210660706,
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:47:53 +0200",
-            "Max" : 128,
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "Min" : 106,
-            "Max" : 126,
-            "Avg" : 116.77226669657688,
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:48:53 +0200",
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "Avg" : 118.45059847229365,
-            "date" : "2026-05-26 09:49:53 +0200",
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 103,
-            "Max" : 122
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 107,
-            "Avg" : 115.08850222439682,
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:50:53 +0200",
-            "Max" : 122.99999999999999
-          },
-          {
-            "units" : "count\/min",
-            "Min" : 110,
-            "Avg" : 113.5684091462329,
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 118,
-            "date" : "2026-05-26 09:51:53 +0200"
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 110,
-            "Min" : 103,
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:52:53 +0200",
-            "Avg" : 107.5833341382076
-          },
-          {
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 113,
-            "Min" : 106,
-            "Avg" : 108.92079196356218,
-            "date" : "2026-05-26 09:53:53 +0200"
-          },
-          {
-            "Min" : 105,
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-05-26 09:54:53 +0200",
-            "Avg" : 117.95125178983574,
-            "Max" : 122.99999999999999
-          },
-          {
-            "Max" : 136,
-            "date" : "2026-05-26 09:55:53 +0200",
-            "Min" : 122,
-            "Avg" : 131.04651873147037,
-            "source" : "Bluetooth Device|Gabit",
-            "units" : "count\/min"
-          },
-          {
-            "Avg" : 123.86316198437591,
-            "Max" : 128,
-            "date" : "2026-05-26 09:56:53 +0200",
-            "Min" : 118,
-            "source" : "Bluetooth Device|Gabit",
-            "units" : "count\/min"
-          },
-          {
-            "Avg" : 125.60395206776451,
-            "Max" : 134,
-            "Min" : 116,
-            "source" : "Bluetooth Device|Gabit",
-            "units" : "count\/min",
-            "date" : "2026-05-26 09:57:53 +0200"
-          },
-          {
-            "date" : "2026-05-26 09:58:53 +0200",
-            "Max" : 126,
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 116,
-            "Avg" : 120.65789288159255,
-            "units" : "count\/min"
-          },
-          {
-            "date" : "2026-05-26 09:59:53 +0200",
-            "Min" : 99,
-            "Avg" : 113.5,
-            "units" : "count\/min",
-            "Max" : 128,
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 130,
-            "date" : "2026-05-26 10:00:53 +0200",
-            "Avg" : 126.36458066326013,
-            "Min" : 125.00000000000001,
-            "units" : "count\/min"
-          },
-          {
-            "Min" : 119,
-            "date" : "2026-05-26 10:01:53 +0200",
-            "units" : "count\/min",
-            "Avg" : 124.12621284940963,
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 130
-          },
-          {
-            "date" : "2026-05-26 10:02:53 +0200",
-            "Max" : 125.00000000000001,
-            "Min" : 119,
-            "Avg" : 122.02468713486309,
-            "source" : "Bluetooth Device|Gabit",
-            "units" : "count\/min"
-          }
-        ],
-        "heartRateRecovery" : [
-          {
-            "date" : "2026-05-26 10:03:44 +0200",
-            "units" : "count\/min",
-            "Min" : 123.99999999999999,
-            "Avg" : 123.99999999999999,
-            "source" : "Bluetooth Device",
-            "Max" : 123.99999999999999
-          },
-          {
-            "Min" : 127,
-            "Avg" : 127,
-            "units" : "count\/min",
-            "source" : "Bluetooth Device",
-            "date" : "2026-05-26 10:03:51 +0200",
-            "Max" : 127
-          },
-          {
-            "date" : "2026-05-26 10:03:56 +0200",
-            "Avg" : 125.00000000000001,
-            "units" : "count\/min",
-            "Max" : 125.00000000000001,
-            "Min" : 125.00000000000001,
-            "source" : "Bluetooth Device"
-          },
-          {
-            "source" : "Bluetooth Device",
-            "units" : "count\/min",
-            "Min" : 123.99999999999999,
-            "date" : "2026-05-26 10:04:01 +0200",
-            "Avg" : 123.99999999999999,
-            "Max" : 123.99999999999999
-          },
-          {
-            "source" : "Bluetooth Device",
-            "Max" : 123.99999999999999,
-            "Avg" : 123.99999999999999,
-            "Min" : 123.99999999999999,
-            "units" : "count\/min",
-            "date" : "2026-05-26 10:04:02 +0200"
-          },
-          {
-            "units" : "count\/min",
-            "Max" : 120,
-            "Avg" : 120,
-            "source" : "Bluetooth Device",
-            "Min" : 120,
-            "date" : "2026-05-26 10:04:07 +0200"
-          },
-          {
-            "Max" : 115,
-            "source" : "Bluetooth Device",
-            "Avg" : 115,
-            "date" : "2026-05-26 10:04:12 +0200",
-            "units" : "count\/min",
-            "Min" : 115
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-05-26 10:04:17 +0200",
-            "Max" : 116,
-            "source" : "Bluetooth Device",
-            "Avg" : 116,
-            "Min" : 116
-          },
-          {
-            "Avg" : 119,
-            "units" : "count\/min",
-            "source" : "Bluetooth Device",
-            "date" : "2026-05-26 10:04:24 +0200",
-            "Max" : 119,
-            "Min" : 119
-          },
-          {
-            "Min" : 119,
-            "Max" : 119,
-            "date" : "2026-05-26 10:04:27 +0200",
-            "Avg" : 119,
-            "units" : "count\/min",
-            "source" : "Bluetooth Device"
-          },
-          {
-            "source" : "Bluetooth Device",
-            "Max" : 116,
-            "Min" : 116,
-            "Avg" : 116,
-            "units" : "count\/min",
-            "date" : "2026-05-26 10:04:34 +0200"
-          },
-          {
-            "Min" : 115,
-            "Avg" : 115,
-            "units" : "count\/min",
-            "Max" : 115,
-            "date" : "2026-05-26 10:04:39 +0200",
-            "source" : "Bluetooth Device"
-          },
-          {
-            "Max" : 117,
-            "Min" : 117,
-            "date" : "2026-05-26 10:04:42 +0200",
-            "source" : "Bluetooth Device",
-            "Avg" : 117,
-            "units" : "count\/min"
-          },
-          {
-            "date" : "2026-05-26 10:04:47 +0200",
-            "Max" : 117,
-            "units" : "count\/min",
-            "Avg" : 117,
-            "source" : "Bluetooth Device",
-            "Min" : 117
-          },
-          {
-            "Avg" : 118,
-            "units" : "count\/min",
-            "Min" : 118,
-            "date" : "2026-05-26 10:04:56 +0200",
-            "Max" : 118,
-            "source" : "Bluetooth Device"
-          },
-          {
-            "Max" : 117,
-            "Min" : 117,
-            "date" : "2026-05-26 10:04:59 +0200",
-            "Avg" : 117,
-            "source" : "Bluetooth Device",
-            "units" : "count\/min"
-          },
-          {
-            "date" : "2026-05-26 10:05:02 +0200",
-            "Max" : 119,
-            "Min" : 119,
-            "source" : "Bluetooth Device",
-            "Avg" : 119,
-            "units" : "count\/min"
-          },
-          {
-            "date" : "2026-05-26 10:05:09 +0200",
-            "Avg" : 122,
-            "Min" : 122,
-            "source" : "Bluetooth Device",
-            "units" : "count\/min",
-            "Max" : 122
-          },
-          {
-            "units" : "count\/min",
-            "Min" : 120,
-            "Avg" : 120,
-            "source" : "Bluetooth Device",
-            "date" : "2026-05-26 10:05:16 +0200",
-            "Max" : 120
-          },
-          {
-            "Avg" : 120,
-            "units" : "count\/min",
-            "Min" : 120,
-            "Max" : 120,
-            "date" : "2026-05-26 10:05:19 +0200",
-            "source" : "Bluetooth Device"
-          },
-          {
-            "Max" : 125.00000000000001,
-            "Min" : 125.00000000000001,
-            "Avg" : 125.00000000000001,
-            "source" : "Bluetooth Device",
-            "units" : "count\/min",
-            "date" : "2026-05-26 10:05:26 +0200"
-          },
-          {
-            "Max" : 123.99999999999999,
-            "Avg" : 123.99999999999999,
-            "date" : "2026-05-26 10:05:27 +0200",
-            "source" : "Bluetooth Device",
-            "Min" : 123.99999999999999,
-            "units" : "count\/min"
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-05-26 10:05:33 +0200",
-            "Min" : 121,
-            "source" : "Bluetooth Device",
-            "Avg" : 121,
-            "Max" : 121
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-05-26 10:05:34 +0200",
-            "Min" : 112,
-            "Max" : 112,
-            "Avg" : 112,
-            "units" : "count\/min"
-          }
-        ],
-        "stepCount" : [
-          {
-            "source" : "Gabit",
-            "qty" : 45.271474307775499,
-            "units" : "count",
-            "date" : "2026-05-26 09:12:53 +0200"
-          },
-          {
-            "qty" : 5.7285256922245011,
-            "units" : "count",
-            "source" : "Gabit",
-            "date" : "2026-05-26 09:13:53 +0200"
-          },
-          {
-            "date" : "2026-05-26 09:24:53 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 10.594856301218693,
-            "units" : "count"
-          },
-          {
-            "date" : "2026-05-26 09:25:53 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count",
-            "qty" : 16.246617533688504
-          },
-          {
-            "qty" : 16.246617533688504,
-            "date" : "2026-05-26 09:26:53 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count"
-          },
-          {
-            "qty" : 16.2466175336885,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count",
-            "date" : "2026-05-26 09:27:53 +0200"
-          },
-          {
-            "date" : "2026-05-26 09:28:53 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 16.246617533688504,
-            "units" : "count"
-          },
-          {
-            "units" : "count",
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:29:53 +0200",
-            "qty" : 16.2466175336885
-          },
-          {
-            "qty" : 16.246617533688504,
-            "date" : "2026-05-26 09:30:53 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count"
-          },
-          {
-            "units" : "count",
-            "date" : "2026-05-26 09:31:53 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 16.246617533688504
-          },
-          {
-            "units" : "count",
-            "date" : "2026-05-26 09:32:53 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 16.246617533688504
-          },
-          {
-            "units" : "count",
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:33:53 +0200",
-            "qty" : 3.4322034292732795
-          },
-          {
-            "units" : "count",
-            "qty" : 8.2114751859435575,
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:34:53 +0200"
-          },
-          {
-            "date" : "2026-05-26 09:35:53 +0200",
-            "units" : "count",
-            "qty" : 13.785120795105962,
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:36:53 +0200",
-            "qty" : 13.785120795105962,
-            "units" : "count"
-          },
-          {
-            "units" : "count",
-            "qty" : 13.785120795105964,
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:37:53 +0200"
-          },
-          {
-            "units" : "count",
-            "date" : "2026-05-26 09:38:53 +0200",
-            "qty" : 13.785120795105961,
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:39:53 +0200",
-            "units" : "count",
-            "qty" : 13.785120795105962
-          },
-          {
-            "qty" : 6.862920838526632,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count",
-            "date" : "2026-05-26 09:40:53 +0200"
-          },
-          {
-            "qty" : 3.1450729290644333,
-            "units" : "count",
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:41:53 +0200"
-          },
-          {
-            "date" : "2026-05-26 09:45:53 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 3.3130495546845227,
-            "units" : "count"
-          },
-          {
-            "qty" : 36.622006086683129,
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:46:53 +0200",
-            "units" : "count"
-          },
-          {
-            "qty" : 36.622006086683129,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count",
-            "date" : "2026-05-26 09:47:53 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 36.622006086683129,
-            "date" : "2026-05-26 09:48:53 +0200",
-            "units" : "count"
-          },
-          {
-            "date" : "2026-05-26 09:49:53 +0200",
-            "qty" : 36.622006086683122,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count"
-          },
-          {
-            "units" : "count",
-            "date" : "2026-05-26 09:50:53 +0200",
-            "qty" : 36.622006086683129,
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "date" : "2026-05-26 09:51:53 +0200",
-            "qty" : 36.622006086683122,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count"
-          },
-          {
-            "date" : "2026-05-26 09:52:53 +0200",
-            "units" : "count",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 36.622006086683129
-          },
-          {
-            "qty" : 36.622006086683129,
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:53:53 +0200",
-            "units" : "count"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:54:53 +0200",
-            "units" : "count",
-            "qty" : 36.622006086683129
-          },
-          {
-            "date" : "2026-05-26 09:55:53 +0200",
-            "qty" : 43.075232756924322,
-            "units" : "count",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 67.975471361708543,
-            "date" : "2026-05-26 09:56:53 +0200",
-            "units" : "count"
-          },
-          {
-            "qty" : 67.975471361708543,
-            "units" : "count",
-            "date" : "2026-05-26 09:57:53 +0200",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "qty" : 67.975471361708543,
-            "units" : "count",
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 09:58:53 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 67.975471361708543,
-            "date" : "2026-05-26 09:59:53 +0200",
-            "units" : "count"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-05-26 10:00:53 +0200",
-            "qty" : 67.975471361708557,
-            "units" : "count"
-          },
-          {
-            "date" : "2026-05-26 10:01:53 +0200",
-            "units" : "count",
-            "qty" : 67.975471361708557,
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "units" : "count",
-            "date" : "2026-05-26 10:02:53 +0200",
-            "qty" : 67.975471361708543,
-            "source" : "Hardik’s iPhone|Gabit"
-          }
-        ],
-        "humidity" : {
-          "qty" : 66,
-          "units" : "%"
-        }
+        "duration" : 3169.0578589439392
       }
     ]
   }
