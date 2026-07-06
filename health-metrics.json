@@ -3,38 +3,38 @@
     "metrics" : [
       {
         "name" : "apple_exercise_time",
+        "units" : "min",
         "data" : [
           {
-            "source" : "Hardik’s Apple Watch",
             "qty" : 1,
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 11:54:00 +0200"
           },
           {
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 11:55:00 +0200",
-            "qty" : 1,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 1
           }
-        ],
-        "units" : "min"
+        ]
       },
       {
         "units" : "count",
         "name" : "apple_stand_hour",
         "data" : [
           {
+            "qty" : 1,
             "source" : "",
-            "date" : "2026-07-05 11:00:00 +0200",
-            "qty" : 1
+            "date" : "2026-07-05 11:00:00 +0200"
           },
           {
-            "date" : "2026-07-05 12:00:00 +0200",
             "qty" : 1,
+            "date" : "2026-07-05 12:00:00 +0200",
             "source" : ""
           },
           {
             "date" : "2026-07-05 13:00:00 +0200",
-            "qty" : 1,
-            "source" : ""
+            "source" : "",
+            "qty" : 1
           }
         ]
       },
@@ -42,29 +42,29 @@
         "units" : "min",
         "data" : [
           {
-            "date" : "2026-07-05 11:05:00 +0200",
             "qty" : 0.40000000000000002,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "qty" : 0.40000000000000002,
-            "date" : "2026-07-05 11:06:00 +0200",
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
             "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:05:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 11:06:00 +0200",
+            "qty" : 0.40000000000000002,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
             "date" : "2026-07-05 11:07:00 +0200",
-            "qty" : 0.40000000000000002
+            "qty" : 0.40000000000000002,
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "date" : "2026-07-05 11:08:00 +0200",
-            "qty" : 0.40000000000000008,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 0.40000000000000008
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "qty" : 0.40000000000000008,
-            "date" : "2026-07-05 11:09:00 +0200"
+            "date" : "2026-07-05 11:09:00 +0200",
+            "qty" : 0.40000000000000008
           },
           {
             "qty" : 1,
@@ -72,29 +72,29 @@
             "date" : "2026-07-05 11:30:00 +0200"
           },
           {
-            "date" : "2026-07-05 11:31:00 +0200",
-            "qty" : 1,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:32:00 +0200",
+            "date" : "2026-07-05 11:31:00 +0200",
             "qty" : 1
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "qty" : 1,
-            "date" : "2026-07-05 11:33:00 +0200"
-          },
-          {
-            "qty" : 1,
-            "date" : "2026-07-05 11:34:00 +0200",
+            "date" : "2026-07-05 11:32:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
+            "qty" : 1,
             "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:33:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 11:34:00 +0200",
+            "qty" : 1,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-05 11:35:00 +0200",
             "qty" : 0.80000000000000004,
-            "date" : "2026-07-05 11:35:00 +0200"
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "qty" : 0.80000000000000004,
@@ -102,14 +102,14 @@
             "date" : "2026-07-05 11:36:00 +0200"
           },
           {
-            "date" : "2026-07-05 11:37:00 +0200",
             "qty" : 0.80000000000000004,
+            "date" : "2026-07-05 11:37:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 11:38:00 +0200",
             "qty" : 0.80000000000000016,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:38:00 +0200"
           },
           {
             "date" : "2026-07-05 11:39:00 +0200",
@@ -117,79 +117,79 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
+            "qty" : 1,
             "date" : "2026-07-05 11:40:00 +0200",
-            "qty" : 1,
             "source" : "Hardik’s Apple Watch"
           },
           {
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 11:41:00 +0200",
-            "qty" : 1,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "qty" : 1,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:42:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:43:00 +0200",
-            "qty" : 1,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "date" : "2026-07-05 11:44:00 +0200",
-            "source" : "Hardik’s Apple Watch",
             "qty" : 1
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "qty" : 0.60000000000000009,
-            "date" : "2026-07-05 11:45:00 +0200"
+            "date" : "2026-07-05 11:42:00 +0200",
+            "qty" : 1
           },
           {
-            "qty" : 0.59999999999999998,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:46:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:47:00 +0200",
-            "qty" : 0.59999999999999987,
+            "qty" : 1,
+            "date" : "2026-07-05 11:43:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "qty" : 0.59999999999999998,
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:48:00 +0200"
+            "date" : "2026-07-05 11:44:00 +0200",
+            "qty" : 1
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:45:00 +0200",
+            "qty" : 0.60000000000000009
           },
           {
             "qty" : 0.59999999999999998,
+            "date" : "2026-07-05 11:46:00 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 0.59999999999999987,
             "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:47:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:48:00 +0200",
+            "qty" : 0.59999999999999998
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 0.59999999999999998,
             "date" : "2026-07-05 11:49:00 +0200"
           },
           {
-            "date" : "2026-07-05 11:50:00 +0200",
             "qty" : 0.80000000000000004,
+            "date" : "2026-07-05 11:50:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
             "date" : "2026-07-05 11:51:00 +0200",
-            "qty" : 0.80000000000000004,
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 0.80000000000000004
+          },
+          {
+            "date" : "2026-07-05 11:52:00 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 0.80000000000000004
+          },
+          {
+            "qty" : 0.80000000000000016,
+            "date" : "2026-07-05 11:53:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
+            "date" : "2026-07-05 11:54:00 +0200",
             "source" : "Hardik’s Apple Watch",
-            "qty" : 0.80000000000000004,
-            "date" : "2026-07-05 11:52:00 +0200"
-          },
-          {
-            "qty" : 0.80000000000000016,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:53:00 +0200"
-          },
-          {
-            "qty" : 0.80000000000000016,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:54:00 +0200"
+            "qty" : 0.80000000000000016
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -198,8 +198,8 @@
           },
           {
             "date" : "2026-07-05 11:56:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 0.40000000000000002
+            "qty" : 0.40000000000000002,
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "date" : "2026-07-05 11:57:00 +0200",
@@ -207,44 +207,44 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "qty" : 0.40000000000000008,
             "date" : "2026-07-05 11:58:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 0.40000000000000008
           },
           {
-            "date" : "2026-07-05 11:59:00 +0200",
             "qty" : 0.40000000000000008,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:59:00 +0200"
           },
           {
             "qty" : 0.20000000000000001,
-            "date" : "2026-07-05 12:20:00 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:20:00 +0200"
+          },
+          {
+            "qty" : 0.20000000000000001,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:21:00 +0200"
+          },
+          {
+            "qty" : 0.20000000000000001,
+            "date" : "2026-07-05 12:22:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:21:00 +0200",
-            "qty" : 0.20000000000000001
-          },
-          {
-            "date" : "2026-07-05 12:22:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 0.20000000000000001
-          },
-          {
             "qty" : 0.20000000000000004,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:23:00 +0200"
+            "date" : "2026-07-05 12:23:00 +0200",
+            "source" : "Hardik’s Apple Watch"
           },
           {
+            "date" : "2026-07-05 12:24:00 +0200",
             "qty" : 0.20000000000000004,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:24:00 +0200"
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "qty" : 0.40000000000000002,
+            "date" : "2026-07-05 13:10:00 +0200",
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 13:10:00 +0200"
+            "qty" : 0.40000000000000002
           },
           {
             "date" : "2026-07-05 13:11:00 +0200",
@@ -252,57 +252,44 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 13:12:00 +0200",
             "qty" : 0.40000000000000002,
+            "date" : "2026-07-05 13:12:00 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-05 13:13:00 +0200",
+            "qty" : 0.40000000000000008,
             "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 13:13:00 +0200",
-            "qty" : 0.40000000000000008
-          },
-          {
             "date" : "2026-07-05 13:14:00 +0200",
-            "qty" : 0.40000000000000008,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 0.40000000000000008
           }
         ],
         "name" : "apple_stand_time"
       },
       {
-        "name" : "calcium",
-        "data" : [
-          {
-            "qty" : 1210.2915191650388,
-            "date" : "2026-07-05 19:36:00 +0200",
-            "source" : "MyFitnessPal"
-          }
-        ],
-        "units" : "mg"
-      },
-      {
-        "name" : "active_energy",
-        "units" : "kJ",
         "data" : [
           {
             "date" : "2026-07-05 10:56:00 +0200",
-            "qty" : 0.74481516758797683,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "qty" : 1.4332630584512156,
-            "date" : "2026-07-05 10:57:00 +0200",
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 10:58:00 +0200",
-            "qty" : 1.3330935143082643
+            "qty" : 0.74481516758797683
+          },
+          {
+            "date" : "2026-07-05 10:57:00 +0200",
+            "qty" : 1.4332630584512156,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 1.3330935143082643,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 10:58:00 +0200"
           },
           {
             "qty" : 0.18748425965254331,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 10:59:00 +0200"
+            "date" : "2026-07-05 10:59:00 +0200",
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "date" : "2026-07-05 11:00:00 +0200",
@@ -310,34 +297,34 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "qty" : 1.1693791852008861,
             "source" : "Hardik’s Apple Watch",
+            "qty" : 1.1693791852008861,
             "date" : "2026-07-05 11:01:00 +0200"
           },
           {
             "date" : "2026-07-05 11:02:00 +0200",
-            "qty" : 1.3619712307618075,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "qty" : 1.2038835989315304,
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:03:00 +0200"
+            "qty" : 1.3619712307618075
           },
           {
+            "date" : "2026-07-05 11:03:00 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 1.2038835989315304
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
             "qty" : 1.737595426951275,
-            "date" : "2026-07-05 11:04:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "date" : "2026-07-05 11:04:00 +0200"
           },
           {
             "date" : "2026-07-05 11:05:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 1.0123705581545015
+            "qty" : 1.0123705581545015,
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "date" : "2026-07-05 11:06:00 +0200",
-            "qty" : 1.1997283462083927,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 1.1997283462083927
           },
           {
             "qty" : 1.6833536173572037,
@@ -350,13 +337,13 @@
             "qty" : 1.6833536173572039
           },
           {
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 11:09:00 +0200",
-            "qty" : 1.6833536173572039,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 1.6833536173572039
           },
           {
-            "qty" : 1.6833536173572037,
             "date" : "2026-07-05 11:10:00 +0200",
+            "qty" : 1.6833536173572037,
             "source" : "Hardik’s Apple Watch"
           },
           {
@@ -366,12 +353,12 @@
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:12:00 +0200",
-            "qty" : 1.6833536173572035
+            "qty" : 1.6833536173572035,
+            "date" : "2026-07-05 11:12:00 +0200"
           },
           {
-            "qty" : 1.6833536173572037,
             "date" : "2026-07-05 11:13:00 +0200",
+            "qty" : 1.6833536173572037,
             "source" : "Hardik’s Apple Watch"
           },
           {
@@ -380,84 +367,84 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 11:15:00 +0200",
+            "qty" : 0.036018714933973309,
             "source" : "Hardik’s Apple Watch",
-            "qty" : 0.036018714933973309
+            "date" : "2026-07-05 11:15:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:18:00 +0200",
             "qty" : 0.22372162600489232,
-            "date" : "2026-07-05 11:18:00 +0200"
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:19:00 +0200",
             "qty" : 0.13610237399510766,
-            "date" : "2026-07-05 11:19:00 +0200"
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:21:00 +0200",
             "qty" : 0.42911965242208094,
-            "date" : "2026-07-05 11:21:00 +0200"
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:22:00 +0200",
             "qty" : 3.2455844960151108,
-            "date" : "2026-07-05 11:22:00 +0200"
+            "source" : "Hardik’s Apple Watch"
           },
           {
+            "qty" : 3.2455844960151103,
             "date" : "2026-07-05 11:23:00 +0200",
-            "qty" : 3.2455844960151103,
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "source" : "Hardik’s Apple Watch",
+            "qty" : 3.2455844960151103,
             "date" : "2026-07-05 11:24:00 +0200",
-            "qty" : 3.2455844960151103
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 11:25:00 +0200",
-            "qty" : 3.2455844960151103
-          },
-          {
-            "date" : "2026-07-05 11:26:00 +0200",
             "qty" : 3.2455844960151103,
             "source" : "Hardik’s Apple Watch"
           },
           {
+            "qty" : 3.2455844960151103,
             "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:26:00 +0200"
+          },
+          {
+            "qty" : 3.2455844960151103,
             "date" : "2026-07-05 11:27:00 +0200",
-            "qty" : 3.2455844960151103
-          },
-          {
-            "qty" : 3.2455844960151108,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:28:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:29:00 +0200",
-            "qty" : 3.2455844960151103,
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "qty" : 3.2455844960151103,
+            "date" : "2026-07-05 11:28:00 +0200",
+            "qty" : 3.2455844960151108,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
             "source" : "Hardik’s Apple Watch",
+            "qty" : 3.2455844960151103,
+            "date" : "2026-07-05 11:29:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 3.2455844960151103,
             "date" : "2026-07-05 11:30:00 +0200"
           },
           {
             "qty" : 3.4730625901238614,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:31:00 +0200"
+            "date" : "2026-07-05 11:31:00 +0200",
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "qty" : 4.4012057237961475,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:32:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:33:00 +0200",
+            "date" : "2026-07-05 11:32:00 +0200",
             "qty" : 4.4012057237961475,
             "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 4.4012057237961475,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:33:00 +0200"
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -465,59 +452,59 @@
             "qty" : 4.4012057237961475
           },
           {
-            "qty" : 4.4012057237961466,
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:35:00 +0200"
+            "date" : "2026-07-05 11:35:00 +0200",
+            "qty" : 4.4012057237961466
           },
           {
             "qty" : 4.4012057237961466,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:36:00 +0200"
+            "date" : "2026-07-05 11:36:00 +0200",
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "date" : "2026-07-05 11:37:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 4.4012057237961466
-          },
-          {
-            "date" : "2026-07-05 11:38:00 +0200",
             "qty" : 4.4012057237961466,
             "source" : "Hardik’s Apple Watch"
           },
           {
+            "qty" : 4.4012057237961466,
             "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:38:00 +0200"
+          },
+          {
             "date" : "2026-07-05 11:39:00 +0200",
-            "qty" : 4.4012057237961466
+            "qty" : 4.4012057237961466,
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 11:40:00 +0200",
             "qty" : 4.4012057237961457,
+            "date" : "2026-07-05 11:40:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 11:41:00 +0200",
+            "source" : "Hardik’s Apple Watch",
             "qty" : 4.6750614046523502,
-            "source" : "Hardik’s Apple Watch"
+            "date" : "2026-07-05 11:41:00 +0200"
           },
           {
             "date" : "2026-07-05 11:42:00 +0200",
-            "qty" : 5.4595257240976487,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.4595257240976487
           },
           {
+            "qty" : 5.4595257240976496,
             "date" : "2026-07-05 11:43:00 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-05 11:44:00 +0200",
             "qty" : 5.4595257240976496,
             "source" : "Hardik’s Apple Watch"
           },
           {
             "qty" : 5.4595257240976496,
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:44:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:45:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 5.4595257240976496
+            "date" : "2026-07-05 11:45:00 +0200"
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -535,54 +522,54 @@
             "date" : "2026-07-05 11:48:00 +0200"
           },
           {
-            "qty" : 5.4595257240976496,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:49:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:50:00 +0200",
+            "date" : "2026-07-05 11:49:00 +0200",
             "source" : "Hardik’s Apple Watch",
             "qty" : 5.4595257240976496
           },
           {
-            "date" : "2026-07-05 11:51:00 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:50:00 +0200",
+            "qty" : 5.4595257240976496
+          },
+          {
             "qty" : 5.8534851444127209,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:51:00 +0200"
           },
           {
+            "date" : "2026-07-05 11:52:00 +0200",
             "qty" : 6.6857269526682979,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:52:00 +0200"
+            "source" : "Hardik’s Apple Watch"
           },
           {
+            "date" : "2026-07-05 11:53:00 +0200",
             "qty" : 6.6857269526682996,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:53:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:54:00 +0200",
-            "qty" : 6.6857269526682988,
             "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:55:00 +0200",
+            "date" : "2026-07-05 11:54:00 +0200",
             "qty" : 6.6857269526682988
           },
           {
-            "qty" : 6.6857269526682996,
-            "date" : "2026-07-05 11:56:00 +0200",
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "date" : "2026-07-05 11:57:00 +0200",
+            "date" : "2026-07-05 11:55:00 +0200",
             "source" : "Hardik’s Apple Watch",
-            "qty" : 6.6857269526683005
+            "qty" : 6.6857269526682988
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:56:00 +0200",
+            "qty" : 6.6857269526682996
+          },
+          {
+            "qty" : 6.6857269526683005,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:57:00 +0200"
           },
           {
             "qty" : 6.6857269526682996,
-            "date" : "2026-07-05 11:58:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:58:00 +0200"
           },
           {
             "qty" : 4.8916030445307008,
@@ -590,29 +577,29 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 12:01:00 +0200",
+            "source" : "Hardik’s Apple Watch",
             "qty" : 0.0091885444339197663,
-            "source" : "Hardik’s Apple Watch"
+            "date" : "2026-07-05 12:01:00 +0200"
           },
           {
-            "qty" : 0.22458178828616512,
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:02:00 +0200"
+            "date" : "2026-07-05 12:02:00 +0200",
+            "qty" : 0.22458178828616512
           },
           {
             "date" : "2026-07-05 12:03:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 0.2245817882861651
+            "qty" : 0.2245817882861651,
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:04:00 +0200",
+            "source" : "Hardik’s Apple Watch",
             "qty" : 0.2245817882861651
           },
           {
             "qty" : 0.22458178828616507,
-            "date" : "2026-07-05 12:05:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:05:00 +0200"
           },
           {
             "qty" : 0.2245817882861651,
@@ -621,58 +608,58 @@
           },
           {
             "date" : "2026-07-05 12:07:00 +0200",
-            "qty" : 0.2245817882861651,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "date" : "2026-07-05 12:08:00 +0200",
             "source" : "Hardik’s Apple Watch",
             "qty" : 0.2245817882861651
           },
           {
-            "qty" : 0.2245817882861651,
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:09:00 +0200"
+            "date" : "2026-07-05 12:08:00 +0200",
+            "qty" : 0.2245817882861651
           },
           {
-            "qty" : 0.2245817882861651,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:09:00 +0200",
+            "qty" : 0.2245817882861651
+          },
+          {
             "date" : "2026-07-05 12:10:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 0.2245817882861651
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "qty" : 0.12433536099059456,
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:11:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
+            "qty" : 1.0263769044605391,
             "date" : "2026-07-05 12:12:00 +0200",
-            "qty" : 1.0263769044605391
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 1.7406400439140175,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:13:00 +0200"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:13:00 +0200",
-            "qty" : 1.7406400439140175
-          },
-          {
-            "date" : "2026-07-05 12:14:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 1.7406400439140173
+            "qty" : 1.7406400439140173,
+            "date" : "2026-07-05 12:14:00 +0200"
           },
           {
             "date" : "2026-07-05 12:15:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 1.7406400439140175
+            "qty" : 1.7406400439140175,
+            "source" : "Hardik’s Apple Watch"
           },
           {
+            "date" : "2026-07-05 12:16:00 +0200",
             "qty" : 1.7406400439140175,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:16:00 +0200"
+            "source" : "Hardik’s Apple Watch"
           },
           {
+            "date" : "2026-07-05 12:17:00 +0200",
             "qty" : 1.7406400439140175,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:17:00 +0200"
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "date" : "2026-07-05 12:18:00 +0200",
@@ -680,59 +667,59 @@
             "qty" : 1.7406400439140175
           },
           {
-            "date" : "2026-07-05 12:19:00 +0200",
+            "source" : "Hardik’s Apple Watch",
             "qty" : 1.7406400439140175,
-            "source" : "Hardik’s Apple Watch"
+            "date" : "2026-07-05 12:19:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:20:00 +0200",
-            "qty" : 1.391302788141338
+            "qty" : 1.391302788141338,
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 12:26:00 +0200",
             "qty" : 0.42531691199084809,
+            "date" : "2026-07-05 12:26:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 12:27:00 +0200",
             "qty" : 0.33617108800915202,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:27:00 +0200"
           },
           {
-            "date" : "2026-07-05 12:29:00 +0200",
             "qty" : 0.12108347335405817,
+            "date" : "2026-07-05 12:29:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
+            "qty" : 0.25597715632768725,
             "date" : "2026-07-05 12:30:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 0.25597715632768725
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "qty" : 0.25597715632768719,
             "date" : "2026-07-05 12:31:00 +0200",
+            "qty" : 0.25597715632768719,
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 12:32:00 +0200",
-            "qty" : 0.25597715632768725,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "date" : "2026-07-05 12:33:00 +0200",
-            "qty" : 0.25597715632768731,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "qty" : 0.25597715632768725,
             "source" : "Hardik’s Apple Watch",
+            "qty" : 0.25597715632768725,
+            "date" : "2026-07-05 12:32:00 +0200"
+          },
+          {
+            "qty" : 0.25597715632768731,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:33:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 0.25597715632768725,
             "date" : "2026-07-05 12:34:00 +0200"
           },
           {
-            "qty" : 0.25597715632768725,
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:35:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 0.25597715632768725
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -741,23 +728,23 @@
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:37:00 +0200",
-            "qty" : 0.25597715632768731
+            "qty" : 0.25597715632768731,
+            "date" : "2026-07-05 12:37:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "qty" : 0.065355276024444325,
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:38:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:41:00 +0200",
+            "source" : "Hardik’s Apple Watch",
             "qty" : 0.28895548101890273
           },
           {
-            "date" : "2026-07-05 12:42:00 +0200",
             "source" : "Hardik’s Apple Watch",
-            "qty" : 0.58612917189333213
+            "qty" : 0.58612917189333213,
+            "date" : "2026-07-05 12:42:00 +0200"
           },
           {
             "date" : "2026-07-05 12:43:00 +0200",
@@ -775,19 +762,19 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:46:00 +0200",
-            "qty" : 0.58612917189333213
-          },
-          {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:47:00 +0200",
             "qty" : 0.58612917189333213
           },
           {
-            "date" : "2026-07-05 12:48:00 +0200",
             "qty" : 0.58612917189333213,
+            "date" : "2026-07-05 12:47:00 +0200",
             "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 0.58612917189333213,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:48:00 +0200"
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -795,19 +782,19 @@
             "date" : "2026-07-05 12:49:00 +0200"
           },
           {
-            "qty" : 0.44029114383444096,
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:50:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 0.44029114383444096
           },
           {
             "qty" : 0.29827587839953507,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:52:00 +0200"
+            "date" : "2026-07-05 12:52:00 +0200",
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "date" : "2026-07-05 12:53:00 +0200",
-            "qty" : 0.8139671858542793,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 0.8139671858542793
           },
           {
             "qty" : 0.8139671858542793,
@@ -816,22 +803,22 @@
           },
           {
             "date" : "2026-07-05 12:55:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 0.81396718585427918
-          },
-          {
-            "date" : "2026-07-05 12:56:00 +0200",
-            "qty" : 0.8139671858542793,
+            "qty" : 0.81396718585427918,
             "source" : "Hardik’s Apple Watch"
           },
           {
+            "qty" : 0.8139671858542793,
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:57:00 +0200",
-            "qty" : 0.81396718585427918
+            "date" : "2026-07-05 12:56:00 +0200"
           },
           {
             "qty" : 0.81396718585427918,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:57:00 +0200"
+          },
+          {
             "date" : "2026-07-05 12:58:00 +0200",
+            "qty" : 0.81396718585427918,
             "source" : "Hardik’s Apple Watch"
           },
           {
@@ -846,18 +833,18 @@
           },
           {
             "date" : "2026-07-05 13:01:00 +0200",
-            "qty" : 0.81396718585427896,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 0.81396718585427896
           },
           {
-            "date" : "2026-07-05 13:02:00 +0200",
             "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 13:02:00 +0200",
             "qty" : 0.45950744891195283
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "qty" : 0.31548697312553203,
-            "date" : "2026-07-05 13:03:00 +0200"
+            "date" : "2026-07-05 13:03:00 +0200",
+            "qty" : 0.31548697312553203
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -865,14 +852,14 @@
             "qty" : 1.3295172685495291
           },
           {
+            "date" : "2026-07-05 13:05:00 +0200",
             "qty" : 1.3295172685495293,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 13:05:00 +0200"
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 13:06:00 +0200",
             "source" : "Hardik’s Apple Watch",
-            "qty" : 1.3295172685495293
+            "qty" : 1.3295172685495293,
+            "date" : "2026-07-05 13:06:00 +0200"
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -881,45 +868,47 @@
           },
           {
             "date" : "2026-07-05 13:08:00 +0200",
+            "qty" : 1.3295172685495293,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 1.3295172685495293,
+            "date" : "2026-07-05 13:09:00 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
             "source" : "Hardik’s Apple Watch",
+            "qty" : 1.3295172685495296,
+            "date" : "2026-07-05 13:10:00 +0200"
+          },
+          {
+            "qty" : 1.3295172685495293,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 13:11:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 13:12:00 +0200",
             "qty" : 1.3295172685495293
           },
           {
-            "qty" : 1.3295172685495293,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 13:09:00 +0200"
-          },
-          {
-            "qty" : 1.3295172685495296,
-            "date" : "2026-07-05 13:10:00 +0200",
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "date" : "2026-07-05 13:11:00 +0200",
-            "qty" : 1.3295172685495293,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "qty" : 1.3295172685495293,
-            "date" : "2026-07-05 13:12:00 +0200",
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
             "date" : "2026-07-05 13:13:00 +0200",
-            "qty" : 0.92356160992870007,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 0.92356160992870007
           }
-        ]
+        ],
+        "name" : "active_energy",
+        "units" : "kJ"
       },
       {
         "data" : [
           {
+            "qty" : 1210.2915191650388,
             "date" : "2026-07-05 19:36:00 +0200",
-            "source" : "MyFitnessPal",
-            "qty" : 51.199998706579208
+            "source" : "MyFitnessPal"
           }
         ],
-        "name" : "cholesterol",
+        "name" : "calcium",
         "units" : "mg"
       },
       {
@@ -934,70 +923,83 @@
         ]
       },
       {
-        "name" : "dietary_energy",
         "data" : [
           {
-            "qty" : 8210.058596679688,
+            "qty" : 51.199998706579208,
             "source" : "MyFitnessPal",
             "date" : "2026-07-05 19:36:00 +0200"
           }
         ],
-        "units" : "kJ"
+        "name" : "cholesterol",
+        "units" : "mg"
+      },
+      {
+        "name" : "dietary_energy",
+        "units" : "kJ",
+        "data" : [
+          {
+            "source" : "MyFitnessPal",
+            "date" : "2026-07-05 19:36:00 +0200",
+            "qty" : 8210.058596679688
+          }
+        ]
       },
       {
         "units" : "g",
         "data" : [
           {
-            "date" : "2026-07-05 19:36:00 +0200",
             "qty" : 29.017457008361816,
-            "source" : "MyFitnessPal"
+            "source" : "MyFitnessPal",
+            "date" : "2026-07-05 19:36:00 +0200"
           }
         ],
         "name" : "fiber"
       },
       {
-        "name" : "flights_climbed",
         "data" : [
           {
             "qty" : 1.1096229649574034,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:55:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:56:00 +0200",
-            "qty" : 0.89037703504259658,
+            "date" : "2026-07-05 11:55:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-06 09:43:00 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:56:00 +0200",
+            "qty" : 0.89037703504259658
+          },
+          {
             "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 2
+            "qty" : 2,
+            "date" : "2026-07-06 09:43:00 +0200"
           }
         ],
-        "units" : "count"
+        "units" : "count",
+        "name" : "flights_climbed"
       },
       {
+        "name" : "blood_oxygen_saturation",
+        "units" : "%",
         "data" : [
           {
-            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:15:00 +0200",
             "qty" : 98,
-            "date" : "2026-07-05 11:15:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 99,
-            "date" : "2026-07-05 11:58:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 12:28:00 +0200",
-            "qty" : 94,
             "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-05 11:58:00 +0200",
+            "qty" : 99,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 94,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:28:00 +0200"
           }
-        ],
-        "name" : "blood_oxygen_saturation",
-        "units" : "%"
+        ]
       },
       {
+        "name" : "heart_rate_variability",
+        "units" : "ms",
         "data" : [
           {
             "date" : "2026-07-05 10:59:00 +0200",
@@ -1005,30 +1007,28 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
+            "qty" : 17.270448235424727,
             "date" : "2026-07-05 11:58:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 17.270448235424727
+            "source" : "Hardik’s Apple Watch"
           }
-        ],
-        "name" : "heart_rate_variability",
-        "units" : "ms"
+        ]
       },
       {
+        "name" : "iron",
         "data" : [
           {
-            "date" : "2026-07-05 19:36:00 +0200",
-            "qty" : 0.34169506398029625,
-            "source" : "MyFitnessPal"
-          }
-        ],
-        "units" : "mg",
-        "name" : "iron"
-      },
-      {
-        "data" : [
-          {
-            "qty" : 11.411999702453613,
             "source" : "MyFitnessPal",
+            "date" : "2026-07-05 19:36:00 +0200",
+            "qty" : 0.34169506398029625
+          }
+        ],
+        "units" : "mg"
+      },
+      {
+        "data" : [
+          {
+            "source" : "MyFitnessPal",
+            "qty" : 11.411999702453613,
             "date" : "2026-07-05 19:36:00 +0200"
           }
         ],
@@ -1036,137 +1036,115 @@
         "units" : "g"
       },
       {
+        "units" : "dBASPL",
         "data" : [
           {
             "qty" : 77.42800771846187,
-            "date" : "2026-07-05 10:55:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 10:55:00 +0200"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:25:00 +0200",
-            "qty" : 74.56154846941449
+            "qty" : 74.56154846941449,
+            "date" : "2026-07-05 11:25:00 +0200"
           },
           {
-            "qty" : 59.596748103864925,
+            "date" : "2026-07-05 11:55:00 +0200",
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:55:00 +0200"
+            "qty" : 59.596748103864925
           },
           {
-            "date" : "2026-07-05 12:25:00 +0200",
             "qty" : 54.452322658307835,
-            "source" : "Hardik’s Apple Watch"
-          }
-        ],
-        "name" : "environmental_audio_exposure",
-        "units" : "dBASPL"
-      },
-      {
-        "units" : "count\/min",
-        "data" : [
-          {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 10:58:00 +0200",
-            "qty" : 61
+            "date" : "2026-07-05 12:25:00 +0200"
           }
         ],
-        "name" : "resting_heart_rate"
-      },
-      {
-        "data" : [
-          {
-            "source" : "MyFitnessPal",
-            "date" : "2026-07-05 19:36:00 +0200",
-            "qty" : 149.65515899658203
-          }
-        ],
-        "name" : "protein",
-        "units" : "g"
-      },
-      {
-        "units" : "mg",
-        "data" : [
-          {
-            "source" : "MyFitnessPal",
-            "qty" : 401.5425443649292,
-            "date" : "2026-07-05 19:36:00 +0200"
-          }
-        ],
-        "name" : "potassium"
+        "name" : "environmental_audio_exposure"
       },
       {
         "units" : "g",
         "data" : [
           {
             "source" : "MyFitnessPal",
-            "qty" : 1.416915237903595,
-            "date" : "2026-07-05 19:36:00 +0200"
+            "date" : "2026-07-05 19:36:00 +0200",
+            "qty" : 1.416915237903595
           }
         ],
         "name" : "polyunsaturated_fat"
       },
       {
-        "units" : "m\/s",
-        "name" : "stair_speed_down",
         "data" : [
           {
-            "date" : "2026-07-05 11:30:00 +0200",
+            "source" : "MyFitnessPal",
+            "date" : "2026-07-05 19:36:00 +0200",
+            "qty" : 401.5425443649292
+          }
+        ],
+        "units" : "mg",
+        "name" : "potassium"
+      },
+      {
+        "units" : "count\/min",
+        "data" : [
+          {
+            "qty" : 61,
             "source" : "Hardik’s Apple Watch",
-            "qty" : 0.31154876947402954
+            "date" : "2026-07-05 10:58:00 +0200"
+          }
+        ],
+        "name" : "resting_heart_rate"
+      },
+      {
+        "name" : "protein",
+        "units" : "g",
+        "data" : [
+          {
+            "date" : "2026-07-05 19:36:00 +0200",
+            "qty" : 149.65515899658203,
+            "source" : "MyFitnessPal"
           }
         ]
       },
       {
         "data" : [
           {
-            "date" : "2026-07-05 11:55:00 +0200",
-            "qty" : 0.25778725743293762,
-            "source" : "Hardik’s Apple Watch"
-          }
-        ],
-        "units" : "m\/s",
-        "name" : "stair_speed_up"
-      },
-      {
-        "name" : "saturated_fat",
-        "data" : [
-          {
+            "qty" : 29.769913673400879,
             "date" : "2026-07-05 19:36:00 +0200",
-            "source" : "MyFitnessPal",
-            "qty" : 29.769913673400879
+            "source" : "MyFitnessPal"
           }
         ],
-        "units" : "g"
+        "units" : "g",
+        "name" : "saturated_fat"
       },
       {
-        "name" : "sodium",
         "units" : "mg",
         "data" : [
           {
             "source" : "MyFitnessPal",
-            "date" : "2026-07-05 19:36:00 +0200",
-            "qty" : 2.0641526207327843
+            "qty" : 2.0641526207327843,
+            "date" : "2026-07-05 19:36:00 +0200"
           }
-        ]
+        ],
+        "name" : "sodium"
       },
       {
         "data" : [
           {
-            "source" : "MyFitnessPal",
-            "date" : "2026-07-05 19:36:00 +0200",
-            "qty" : 66.254665374755859
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:30:00 +0200",
+            "qty" : 0.31154876947402954
           }
         ],
-        "name" : "total_fat",
-        "units" : "g"
+        "units" : "m\/s",
+        "name" : "stair_speed_down"
       },
       {
         "units" : "g",
         "data" : [
           {
+            "source" : "MyFitnessPal",
             "qty" : 66.888143539428711,
-            "date" : "2026-07-05 19:36:00 +0200",
-            "source" : "MyFitnessPal"
+            "date" : "2026-07-05 19:36:00 +0200"
           }
         ],
         "name" : "dietary_sugar"
@@ -1179,1019 +1157,27 @@
             "source" : "MyFitnessPal"
           }
         ],
-        "name" : "vitamin_c",
-        "units" : "mg"
+        "units" : "mg",
+        "name" : "vitamin_c"
       },
       {
-        "name" : "step_count",
-        "units" : "count",
+        "units" : "g",
         "data" : [
           {
-            "qty" : 16,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-05 09:13:00 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-05 10:07:00 +0200",
-            "qty" : 8
-          },
-          {
-            "date" : "2026-07-05 10:51:00 +0200",
-            "qty" : 2,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 11:28:00 +0200",
-            "qty" : 21.514730663677287,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:29:00 +0200",
-            "qty" : 39.97582378369404
-          },
-          {
-            "qty" : 39.97582378369404,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:30:00 +0200"
-          },
-          {
-            "qty" : 39.97582378369404,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:31:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:32:00 +0200",
-            "qty" : 39.975823783694032,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 39.975823783694032,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:33:00 +0200"
-          },
-          {
-            "qty" : 39.975823783694032,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:34:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 39.975823783694025,
-            "date" : "2026-07-05 11:35:00 +0200"
-          },
-          {
-            "qty" : 39.975823783694018,
-            "date" : "2026-07-05 11:36:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 39.975823783694025,
-            "date" : "2026-07-05 11:37:00 +0200"
-          },
-          {
-            "qty" : 37.36800078069308,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:38:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:39:00 +0200",
-            "qty" : 35.295267942018121
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:40:00 +0200",
-            "qty" : 35.295267942018114
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:41:00 +0200",
-            "qty" : 35.295267942018114
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:42:00 +0200",
-            "qty" : 35.295267942018121
-          },
-          {
-            "qty" : 35.295267942018121,
-            "date" : "2026-07-05 11:43:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 35.295267942018121,
-            "date" : "2026-07-05 11:44:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 35.295267942018128,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:45:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 35.295267942018135,
-            "date" : "2026-07-05 11:46:00 +0200"
-          },
-          {
-            "qty" : 16.972710966238303,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:47:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:49:00 +0200",
-            "qty" : 48.302998397290999,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:50:00 +0200",
-            "qty" : 51.704106538868558
-          },
-          {
-            "date" : "2026-07-05 11:51:00 +0200",
-            "qty" : 51.704106538868565,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 11:52:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 51.704106538868565
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:53:00 +0200",
-            "qty" : 51.704106538868558
-          },
-          {
-            "qty" : 51.704106538868565,
-            "date" : "2026-07-05 11:54:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 51.704106538868572,
-            "date" : "2026-07-05 11:55:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 11:56:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 2.4723623694976666
-          },
-          {
-            "date" : "2026-07-05 12:20:00 +0200",
-            "qty" : 13,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 10.136543460191541,
-            "date" : "2026-07-05 13:09:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 13:10:00 +0200",
-            "qty" : 7.6000463471728148,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 13:11:00 +0200",
-            "qty" : 7.6000463471728157
-          },
-          {
-            "date" : "2026-07-05 13:12:00 +0200",
-            "qty" : 7.6000463471728148,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 7.6000463471728148,
-            "date" : "2026-07-05 13:13:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 7.6000463471728166,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 13:14:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 13:15:00 +0200",
-            "qty" : 7.6000463471728157,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 13:16:00 +0200",
-            "qty" : 7.6000463471728148
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 13:17:00 +0200",
-            "qty" : 7.6000463471728148
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 13:18:00 +0200",
-            "qty" : 4.063085762425934
-          },
-          {
-            "qty" : 2.4493942305577043,
-            "date" : "2026-07-05 13:19:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 14:12:00 +0200",
-            "qty" : 2
-          },
-          {
-            "date" : "2026-07-05 14:29:00 +0200",
-            "qty" : 13,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 16:04:00 +0200",
-            "qty" : 22,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 2.2948259335619108,
-            "date" : "2026-07-05 16:54:00 +0200"
-          },
-          {
-            "qty" : 3.2036781061388133,
-            "date" : "2026-07-05 16:55:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 16:56:00 +0200",
-            "qty" : 3.2036781061388129
-          },
-          {
-            "date" : "2026-07-05 16:57:00 +0200",
-            "qty" : 3.2036781061388133,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 3.2036781061388138,
-            "date" : "2026-07-05 16:58:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 3.2036781061388138,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 16:59:00 +0200"
-          },
-          {
-            "qty" : 3.2036781061388138,
-            "date" : "2026-07-05 17:00:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 17:01:00 +0200",
-            "qty" : 3.2036781061388138
-          },
-          {
-            "date" : "2026-07-05 17:02:00 +0200",
-            "qty" : 3.2036781061388133,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 0.075749217327583107,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 17:03:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 17:38:00 +0200",
-            "qty" : 11,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 17:40:00 +0200",
-            "qty" : 11
-          },
-          {
-            "qty" : 0.59409966357462796,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 18:31:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 18:32:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 4.2305331157971811
-          },
-          {
-            "date" : "2026-07-05 18:33:00 +0200",
-            "qty" : 4.2305331157971811,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 18:34:00 +0200",
-            "qty" : 4.2305331157971811
-          },
-          {
-            "date" : "2026-07-05 18:35:00 +0200",
-            "qty" : 4.2305331157971819,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 18:36:00 +0200",
-            "qty" : 4.2305331157971811
-          },
-          {
-            "date" : "2026-07-05 18:37:00 +0200",
-            "qty" : 0.253234757439464,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 17.246362193381376,
-            "date" : "2026-07-05 19:14:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 3.7536378066186238,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 19:15:00 +0200"
-          },
-          {
-            "qty" : 0.92095693506028975,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 19:48:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 19:49:00 +0200",
-            "qty" : 10.243953092824698,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 10.243953092824698,
-            "date" : "2026-07-05 19:50:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 19:51:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 10.2439530928247
-          },
-          {
-            "qty" : 10.2439530928247,
-            "date" : "2026-07-05 19:52:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 10.243953092824702,
-            "date" : "2026-07-05 19:53:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 19:54:00 +0200",
-            "qty" : 10.2439530928247,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 10.243953092824702,
-            "date" : "2026-07-05 19:55:00 +0200"
-          },
-          {
-            "qty" : 10.2439530928247,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 19:56:00 +0200"
-          },
-          {
-            "qty" : 3.1274183223421179,
-            "date" : "2026-07-05 19:57:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 9.7297030399833488,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 20:08:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 20:09:00 +0200",
-            "qty" : 10.702332934607545,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 10.702332934607545,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 20:10:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 10.702332934607542,
-            "date" : "2026-07-05 20:11:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 20:12:00 +0200",
-            "qty" : 10.702332934607545
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 20:13:00 +0200",
-            "qty" : 10.702332934607544
-          },
-          {
-            "date" : "2026-07-05 20:14:00 +0200",
-            "qty" : 9.7586322869789264,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 20:33:00 +0200",
-            "qty" : 23,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 14.219405829612185,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-06 09:32:00 +0200"
-          },
-          {
-            "date" : "2026-07-06 09:33:00 +0200",
-            "qty" : 43.284509733200132,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 43.284509733200139,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-06 09:34:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-06 09:35:00 +0200",
-            "qty" : 43.284509733200132
-          },
-          {
-            "date" : "2026-07-06 09:36:00 +0200",
-            "qty" : 43.284509733200132,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 43.284509733200132,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-06 09:37:00 +0200"
-          },
-          {
-            "date" : "2026-07-06 09:38:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 43.284509733200132
-          },
-          {
-            "qty" : 43.284509733200132,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-06 09:39:00 +0200"
-          },
-          {
-            "qty" : 43.284509733200132,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-06 09:40:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 43.284509733200117,
-            "date" : "2026-07-06 09:41:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 50.266529067461875,
-            "date" : "2026-07-06 09:42:00 +0200"
-          },
-          {
-            "qty" : 73.31836639193007,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-06 09:43:00 +0200"
-          },
-          {
-            "date" : "2026-07-06 09:44:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 25.63511111219465
-          }
-        ]
-      },
-      {
-        "data" : [
-          {
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 92,
-            "date" : "2026-07-05 10:58:00 +0200"
+            "date" : "2026-07-05 19:36:00 +0200",
+            "qty" : 66.254665374755859,
+            "source" : "MyFitnessPal"
           }
         ],
-        "units" : "count\/min",
-        "name" : "walking_heart_rate_average"
+        "name" : "total_fat"
       },
       {
-        "data" : [
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 0.01393453720677644,
-            "date" : "2026-07-05 09:13:00 +0200"
-          },
-          {
-            "qty" : 0.0049629858545958997,
-            "date" : "2026-07-05 10:07:00 +0200",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 10:51:00 +0200",
-            "qty" : 0.001741817151196301,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:28:00 +0200",
-            "qty" : 0.016390627048817871
-          },
-          {
-            "date" : "2026-07-05 11:29:00 +0200",
-            "qty" : 0.030454892921992122,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 11:30:00 +0200",
-            "qty" : 0.030454892921992126,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.030454892921992126,
-            "date" : "2026-07-05 11:31:00 +0200"
-          },
-          {
-            "qty" : 0.030454892921992126,
-            "date" : "2026-07-05 11:32:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 0.030454892921992126,
-            "date" : "2026-07-05 11:33:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 0.030454892921992126,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:34:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:35:00 +0200",
-            "qty" : 0.030454892921992126,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.030454892921992122,
-            "date" : "2026-07-05 11:36:00 +0200"
-          },
-          {
-            "qty" : 0.030454892921992122,
-            "date" : "2026-07-05 11:37:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 11:38:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.028208977395481331
-          },
-          {
-            "qty" : 0.026423893492420435,
-            "date" : "2026-07-05 11:39:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 11:40:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.026423893492420435
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:41:00 +0200",
-            "qty" : 0.026423893492420435
-          },
-          {
-            "date" : "2026-07-05 11:42:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.026423893492420442
-          },
-          {
-            "date" : "2026-07-05 11:43:00 +0200",
-            "qty" : 0.026423893492420438,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:44:00 +0200",
-            "qty" : 0.026423893492420438
-          },
-          {
-            "qty" : 0.026423893492420442,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:45:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:46:00 +0200",
-            "qty" : 0.026423893492420445
-          },
-          {
-            "qty" : 0.012706663895745844,
-            "date" : "2026-07-05 11:47:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 11:49:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.036190318792441077
-          },
-          {
-            "qty" : 0.038738549585048798,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:50:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:51:00 +0200",
-            "qty" : 0.038738549585048791,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 0.038738549585048798,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:52:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.038738549585048791,
-            "date" : "2026-07-05 11:53:00 +0200"
-          },
-          {
-            "qty" : 0.038738549585048791,
-            "date" : "2026-07-05 11:54:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 0.038738549585048791,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 11:55:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:56:00 +0200",
-            "qty" : 0.001852381535129993,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 12:20:00 +0200",
-            "qty" : 0.0091355568077415225,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 13:09:00 +0200",
-            "qty" : 0.0080345875518506547
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 13:10:00 +0200",
-            "qty" : 0.0057274822967091892
-          },
-          {
-            "date" : "2026-07-05 13:11:00 +0200",
-            "qty" : 0.0057274822967091892,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 0.0057274822967091884,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 13:12:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 13:13:00 +0200",
-            "qty" : 0.0057274822967091884
-          },
-          {
-            "qty" : 0.0057274822967091892,
-            "date" : "2026-07-05 13:14:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 13:15:00 +0200",
-            "qty" : 0.0057274822967091892
-          },
-          {
-            "date" : "2026-07-05 13:16:00 +0200",
-            "qty" : 0.0057274822967091884,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 13:17:00 +0200",
-            "qty" : 0.0057274822967091875
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 13:18:00 +0200",
-            "qty" : 0.0030619881394489783
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 13:19:00 +0200",
-            "qty" : 0.0018470611113414321
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.0020520037664100528,
-            "date" : "2026-07-05 14:12:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 14:29:00 +0200",
-            "qty" : 0.011799021659418941
-          },
-          {
-            "qty" : 0.017275414552539586,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 16:04:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 16:54:00 +0200",
-            "qty" : 0.0018910277165325908
-          },
-          {
-            "date" : "2026-07-05 16:55:00 +0200",
-            "qty" : 0.002639958005073544,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 0.0026399580050735436,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 16:56:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 16:57:00 +0200",
-            "qty" : 0.002639958005073544,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.002639958005073544,
-            "date" : "2026-07-05 16:58:00 +0200"
-          },
-          {
-            "qty" : 0.0026399580050735444,
-            "date" : "2026-07-05 16:59:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 17:00:00 +0200",
-            "qty" : 0.0026399580050735444,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 0.002639958005073544,
-            "date" : "2026-07-05 17:01:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 17:02:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.002639958005073544
-          },
-          {
-            "date" : "2026-07-05 17:03:00 +0200",
-            "qty" : 6.2420363730931959e-05,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 17:38:00 +0200",
-            "qty" : 0.0097231573835015305,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 17:40:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.010236158325336874
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 18:31:00 +0200",
-            "qty" : 0.00045002108863280752
-          },
-          {
-            "date" : "2026-07-05 18:32:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.0032045618521530112
-          },
-          {
-            "qty" : 0.0032045618521530112,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 18:33:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.0032045618521530117,
-            "date" : "2026-07-05 18:34:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 18:35:00 +0200",
-            "qty" : 0.0032045618521530121
-          },
-          {
-            "qty" : 0.0032045618521530117,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 18:36:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 18:37:00 +0200",
-            "qty" : 0.00019182131923267364,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 0.014909138676481897,
-            "date" : "2026-07-05 19:14:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-05 19:15:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.0032449455701237381
-          },
-          {
-            "qty" : 0.00065683602317539449,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 19:48:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 19:49:00 +0200",
-            "qty" : 0.0073060934284031155,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 0.0073060934284031155,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 19:50:00 +0200"
-          },
-          {
-            "qty" : 0.0073060934284031155,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 19:51:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 19:52:00 +0200",
-            "qty" : 0.0073060934284031155
-          },
-          {
-            "qty" : 0.0073060934284031155,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 19:53:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 19:54:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.0073060934284031147
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.0073060934284031147,
-            "date" : "2026-07-05 19:55:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 19:56:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.0073060934284031138
-          },
-          {
-            "date" : "2026-07-05 19:57:00 +0200",
-            "qty" : 0.0022305071338852372,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 0.007953515372796956,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 20:08:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 20:09:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.0087485886434965597
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 20:10:00 +0200",
-            "qty" : 0.0087485886434965597
-          },
-          {
-            "qty" : 0.008748588643496558,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 20:11:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.0087485886434965597,
-            "date" : "2026-07-05 20:12:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 20:13:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.0087485886434965597
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-05 20:14:00 +0200",
-            "qty" : 0.007977163495433098
-          },
-          {
-            "date" : "2026-07-05 20:33:00 +0200",
-            "qty" : 0.018267974816262723,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-06 09:32:00 +0200",
-            "qty" : 0.01150958514063255,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-06 09:33:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.035035693897091102
-          },
-          {
-            "qty" : 0.035035693897091102,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-06 09:34:00 +0200"
-          },
-          {
-            "qty" : 0.035035693897091102,
-            "date" : "2026-07-06 09:35:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 0.035035693897091102,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-06 09:36:00 +0200"
-          },
-          {
-            "date" : "2026-07-06 09:37:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.035035693897091102
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-07-06 09:38:00 +0200",
-            "qty" : 0.035035693897091102
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.035035693897091096,
-            "date" : "2026-07-06 09:39:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.035035693897091096,
-            "date" : "2026-07-06 09:40:00 +0200"
-          },
-          {
-            "date" : "2026-07-06 09:41:00 +0200",
-            "qty" : 0.035035693897091096,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-06 09:42:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.039679197591250034
-          },
-          {
-            "qty" : 0.056508692585697656,
-            "date" : "2026-07-06 09:43:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-06 09:44:00 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 0.019757758997186996
-          }
-        ],
-        "name" : "walking_running_distance",
-        "units" : "km"
-      },
-      {
-        "units" : "kJ",
         "name" : "basal_energy_burned",
+        "units" : "kJ",
         "data" : [
           {
-            "qty" : 2.7932755428157892,
             "source" : "Hardik’s Apple Watch",
+            "qty" : 2.7932755428157892,
             "date" : "2026-07-05 10:56:00 +0200"
           },
           {
@@ -2200,64 +1186,64 @@
             "date" : "2026-07-05 10:57:00 +0200"
           },
           {
-            "date" : "2026-07-05 10:58:00 +0200",
+            "source" : "Hardik’s Apple Watch",
             "qty" : 5.9065770972541971,
-            "source" : "Hardik’s Apple Watch"
+            "date" : "2026-07-05 10:58:00 +0200"
           },
           {
-            "qty" : 5.9065770972541962,
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 10:59:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 5.9065770972541962
           },
           {
-            "qty" : 5.9065770972541971,
             "date" : "2026-07-05 11:00:00 +0200",
+            "qty" : 5.9065770972541971,
             "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:01:00 +0200",
+            "qty" : 5.9065770972541971,
+            "date" : "2026-07-05 11:01:00 +0200"
+          },
+          {
+            "qty" : 5.906577097254198,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:02:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:03:00 +0200",
             "qty" : 5.9065770972541971
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:02:00 +0200",
-            "qty" : 5.906577097254198
-          },
-          {
-            "qty" : 5.9065770972541971,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:03:00 +0200"
-          },
-          {
             "qty" : 5.906577097254198,
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 11:04:00 +0200"
           },
           {
-            "qty" : 5.9065770972541971,
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:05:00 +0200"
+            "date" : "2026-07-05 11:05:00 +0200",
+            "qty" : 5.9065770972541971
           },
           {
-            "date" : "2026-07-05 11:06:00 +0200",
             "source" : "Hardik’s Apple Watch",
+            "qty" : 5.906577097254198,
+            "date" : "2026-07-05 11:06:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:07:00 +0200",
             "qty" : 5.906577097254198
           },
           {
-            "date" : "2026-07-05 11:07:00 +0200",
-            "qty" : 5.906577097254198,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
             "date" : "2026-07-05 11:08:00 +0200",
-            "qty" : 5.9065770972541998,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.9065770972541998
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 11:09:00 +0200",
-            "qty" : 5.9065770972541989
+            "qty" : 5.9065770972541989,
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -2271,13 +1257,13 @@
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "qty" : 5.644067322541872,
-            "date" : "2026-07-05 11:12:00 +0200"
+            "date" : "2026-07-05 11:12:00 +0200",
+            "qty" : 5.644067322541872
           },
           {
-            "qty" : 5.6440673225418729,
+            "date" : "2026-07-05 11:13:00 +0200",
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:13:00 +0200"
+            "qty" : 5.6440673225418729
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -2285,9 +1271,9 @@
             "qty" : 5.6440673225418729
           },
           {
-            "qty" : 5.6440673225418729,
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 11:15:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 5.6440673225418729
           },
           {
             "qty" : 5.6440673225418738,
@@ -2295,64 +1281,64 @@
             "date" : "2026-07-05 11:16:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:17:00 +0200",
-            "qty" : 5.6440673225418738
-          },
-          {
-            "date" : "2026-07-05 11:18:00 +0200",
             "qty" : 5.6440673225418738,
+            "date" : "2026-07-05 11:17:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "qty" : 5.6440673225418747,
-            "date" : "2026-07-05 11:19:00 +0200"
+            "date" : "2026-07-05 11:18:00 +0200",
+            "qty" : 5.6440673225418738
           },
           {
-            "qty" : 5.6440673225418738,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:20:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:21:00 +0200",
+            "date" : "2026-07-05 11:19:00 +0200",
             "source" : "Hardik’s Apple Watch",
             "qty" : 5.6440673225418747
           },
           {
-            "date" : "2026-07-05 11:22:00 +0200",
-            "qty" : 5.6440673225418738,
-            "source" : "Hardik’s Apple Watch"
+            "date" : "2026-07-05 11:20:00 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.6440673225418738
           },
           {
             "qty" : 5.6440673225418747,
-            "date" : "2026-07-05 11:23:00 +0200",
+            "date" : "2026-07-05 11:21:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "qty" : 5.6440673225418756,
+            "qty" : 5.6440673225418738,
             "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:22:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:23:00 +0200",
+            "qty" : 5.6440673225418747
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.6440673225418756,
             "date" : "2026-07-05 11:24:00 +0200"
           },
           {
-            "date" : "2026-07-05 11:25:00 +0200",
+            "qty" : 5.6618449040438588,
             "source" : "Hardik’s Apple Watch",
-            "qty" : 5.6618449040438588
+            "date" : "2026-07-05 11:25:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 6.446369580572247,
+            "date" : "2026-07-05 11:26:00 +0200"
           },
           {
             "qty" : 6.446369580572247,
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:26:00 +0200"
+            "date" : "2026-07-05 11:27:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:27:00 +0200",
-            "qty" : 6.446369580572247
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 11:28:00 +0200",
-            "qty" : 6.446369580572247
+            "qty" : 6.446369580572247,
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "qty" : 6.4463695805722461,
@@ -2370,8 +1356,8 @@
             "qty" : 6.4463695805722443
           },
           {
-            "date" : "2026-07-05 11:32:00 +0200",
             "qty" : 6.4463695805722461,
+            "date" : "2026-07-05 11:32:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
@@ -2380,13 +1366,13 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "qty" : 6.446369580572247,
             "source" : "Hardik’s Apple Watch",
+            "qty" : 6.446369580572247,
             "date" : "2026-07-05 11:34:00 +0200"
           },
           {
-            "date" : "2026-07-05 11:35:00 +0200",
             "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:35:00 +0200",
             "qty" : 6.446369580572247
           },
           {
@@ -2396,22 +1382,22 @@
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "qty" : 6.446369580572247,
-            "date" : "2026-07-05 11:37:00 +0200"
-          },
-          {
-            "qty" : 6.4463695805722461,
-            "date" : "2026-07-05 11:38:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "date" : "2026-07-05 11:37:00 +0200",
+            "qty" : 6.446369580572247
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:39:00 +0200",
-            "qty" : 6.4463695805722461
+            "qty" : 6.4463695805722461,
+            "date" : "2026-07-05 11:38:00 +0200"
           },
           {
-            "date" : "2026-07-05 11:40:00 +0200",
+            "qty" : 6.4463695805722461,
+            "date" : "2026-07-05 11:39:00 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
             "qty" : 6.483513907124415,
+            "date" : "2026-07-05 11:40:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
@@ -2421,8 +1407,8 @@
           },
           {
             "date" : "2026-07-05 11:42:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 6.7680086674662583
+            "qty" : 6.7680086674662583,
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "date" : "2026-07-05 11:43:00 +0200",
@@ -2430,24 +1416,24 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "qty" : 6.7680086674662574,
             "date" : "2026-07-05 11:44:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 6.7680086674662574
           },
           {
-            "qty" : 6.7680086674662574,
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:45:00 +0200"
+            "date" : "2026-07-05 11:45:00 +0200",
+            "qty" : 6.7680086674662574
           },
           {
-            "qty" : 6.7680086674662574,
+            "date" : "2026-07-05 11:46:00 +0200",
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:46:00 +0200"
+            "qty" : 6.7680086674662574
           },
           {
-            "qty" : 6.7680086674662574,
+            "date" : "2026-07-05 11:47:00 +0200",
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:47:00 +0200"
+            "qty" : 6.7680086674662574
           },
           {
             "date" : "2026-07-05 11:48:00 +0200",
@@ -2455,9 +1441,9 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "source" : "Hardik’s Apple Watch",
+            "qty" : 6.7680086674662583,
             "date" : "2026-07-05 11:49:00 +0200",
-            "qty" : 6.7680086674662583
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -2466,8 +1452,8 @@
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "qty" : 6.7680086674662583,
-            "date" : "2026-07-05 11:51:00 +0200"
+            "date" : "2026-07-05 11:51:00 +0200",
+            "qty" : 6.7680086674662583
           },
           {
             "date" : "2026-07-05 11:52:00 +0200",
@@ -2475,54 +1461,54 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 11:53:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 6.7680086674662574
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
             "qty" : 6.7680086674662574,
-            "date" : "2026-07-05 11:54:00 +0200"
+            "date" : "2026-07-05 11:53:00 +0200",
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 11:55:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 6.0443295344667938
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:56:00 +0200",
-            "qty" : 5.4566859054433934
-          },
-          {
-            "qty" : 5.4566859054433925,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:57:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 11:58:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 5.4566859054433943
-          },
-          {
-            "date" : "2026-07-05 11:59:00 +0200",
-            "qty" : 5.4566859054433925,
+            "qty" : 6.7680086674662574,
+            "date" : "2026-07-05 11:54:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:00:00 +0200",
-            "qty" : 5.4566859054433934
+            "date" : "2026-07-05 11:55:00 +0200",
+            "qty" : 6.0443295344667938
+          },
+          {
+            "date" : "2026-07-05 11:56:00 +0200",
+            "qty" : 5.4566859054433934,
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:01:00 +0200",
+            "date" : "2026-07-05 11:57:00 +0200",
             "qty" : 5.4566859054433925
           },
           {
-            "qty" : 5.4566859054433925,
+            "date" : "2026-07-05 11:58:00 +0200",
+            "qty" : 5.4566859054433943,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:02:00 +0200"
+            "qty" : 5.4566859054433925,
+            "date" : "2026-07-05 11:59:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 12:00:00 +0200",
+            "qty" : 5.4566859054433934,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.4566859054433925,
+            "date" : "2026-07-05 12:01:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 12:02:00 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.4566859054433925
           },
           {
             "date" : "2026-07-05 12:03:00 +0200",
@@ -2536,18 +1522,18 @@
           },
           {
             "date" : "2026-07-05 12:05:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 5.4566859054433916
+            "qty" : 5.4566859054433916,
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 12:06:00 +0200",
             "qty" : 5.4566859054433925,
+            "date" : "2026-07-05 12:06:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
             "date" : "2026-07-05 12:07:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 5.4566859054433925
+            "qty" : 5.4566859054433925,
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -2555,39 +1541,39 @@
             "qty" : 5.4566859054433925
           },
           {
-            "qty" : 5.4566859054433907,
             "date" : "2026-07-05 12:09:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.4566859054433907
           },
           {
             "qty" : 5.4566859054433925,
-            "date" : "2026-07-05 12:10:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:10:00 +0200"
           },
           {
-            "date" : "2026-07-05 12:11:00 +0200",
             "qty" : 5.4118839034445818,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:11:00 +0200"
           },
           {
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:12:00 +0200",
-            "qty" : 5.4730984467456345,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 5.4730984467456345
           },
           {
-            "qty" : 5.4730984467456354,
+            "date" : "2026-07-05 12:13:00 +0200",
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:13:00 +0200"
+            "qty" : 5.4730984467456354
           },
           {
-            "qty" : 5.4730984467456354,
             "source" : "Hardik’s Apple Watch",
+            "qty" : 5.4730984467456354,
             "date" : "2026-07-05 12:14:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:15:00 +0200",
             "qty" : 5.4730984467456345,
-            "date" : "2026-07-05 12:15:00 +0200"
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -2595,18 +1581,18 @@
             "date" : "2026-07-05 12:16:00 +0200"
           },
           {
-            "qty" : 5.4730984467456345,
             "date" : "2026-07-05 12:17:00 +0200",
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "date" : "2026-07-05 12:18:00 +0200",
-            "qty" : 5.4730984467456327,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
             "qty" : 5.4730984467456345,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:18:00 +0200",
+            "qty" : 5.4730984467456327
+          },
+          {
             "date" : "2026-07-05 12:19:00 +0200",
+            "qty" : 5.4730984467456345,
             "source" : "Hardik’s Apple Watch"
           },
           {
@@ -2616,33 +1602,33 @@
           },
           {
             "date" : "2026-07-05 12:21:00 +0200",
+            "qty" : 5.4730984467456354,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
             "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:22:00 +0200",
             "qty" : 5.4730984467456354
           },
           {
-            "date" : "2026-07-05 12:22:00 +0200",
             "qty" : 5.4730984467456354,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
             "date" : "2026-07-05 12:23:00 +0200",
-            "qty" : 5.4730984467456354,
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "qty" : 5.4730984467456363,
-            "date" : "2026-07-05 12:24:00 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:25:00 +0200",
+            "date" : "2026-07-05 12:24:00 +0200",
             "qty" : 5.4730984467456363
           },
           {
-            "date" : "2026-07-05 12:26:00 +0200",
-            "qty" : 5.404535085669731,
+            "qty" : 5.4730984467456363,
+            "date" : "2026-07-05 12:25:00 +0200",
             "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 5.404535085669731,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:26:00 +0200"
           },
           {
             "date" : "2026-07-05 12:27:00 +0200",
@@ -2650,99 +1636,99 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
+            "date" : "2026-07-05 12:28:00 +0200",
             "qty" : 5.2938752209742574,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:28:00 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 5.2938752209742574,
-            "date" : "2026-07-05 12:29:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 12:30:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 5.2938752209742583
-          },
-          {
-            "date" : "2026-07-05 12:31:00 +0200",
-            "qty" : 5.2938752209742583,
             "source" : "Hardik’s Apple Watch"
           },
           {
+            "date" : "2026-07-05 12:29:00 +0200",
             "source" : "Hardik’s Apple Watch",
+            "qty" : 5.2938752209742574
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.2938752209742583,
+            "date" : "2026-07-05 12:30:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:31:00 +0200",
+            "qty" : 5.2938752209742583
+          },
+          {
             "date" : "2026-07-05 12:32:00 +0200",
-            "qty" : 5.2938752209742592
+            "qty" : 5.2938752209742592,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 5.2938752209742592,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:33:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:34:00 +0200",
+            "qty" : 5.2938752209742583
+          },
+          {
+            "date" : "2026-07-05 12:35:00 +0200",
+            "qty" : 5.2938752209742583,
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
             "qty" : 5.2938752209742592,
-            "date" : "2026-07-05 12:33:00 +0200"
+            "date" : "2026-07-05 12:36:00 +0200"
           },
           {
-            "date" : "2026-07-05 12:34:00 +0200",
+            "qty" : 5.2938752209742592,
             "source" : "Hardik’s Apple Watch",
-            "qty" : 5.2938752209742583
+            "date" : "2026-07-05 12:37:00 +0200"
           },
           {
-            "qty" : 5.2938752209742583,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:35:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 12:36:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 5.2938752209742592
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:37:00 +0200",
-            "qty" : 5.2938752209742592
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:38:00 +0200",
+            "source" : "Hardik’s Apple Watch",
             "qty" : 5.2938752209742592
           },
           {
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:39:00 +0200",
-            "qty" : 5.2938752209742601,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 5.2938752209742601
           },
           {
             "date" : "2026-07-05 12:40:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 5.2938752209742592
+            "qty" : 5.2938752209742592,
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "qty" : 5.3638785177123438,
             "date" : "2026-07-05 12:41:00 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.3638785177123438
+          },
+          {
+            "date" : "2026-07-05 12:42:00 +0200",
+            "qty" : 5.5114793212875286,
             "source" : "Hardik’s Apple Watch"
           },
           {
             "qty" : 5.5114793212875286,
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:42:00 +0200"
-          },
-          {
-            "date" : "2026-07-05 12:43:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 5.5114793212875286
+            "date" : "2026-07-05 12:43:00 +0200"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:44:00 +0200",
-            "qty" : 5.5114793212875295
+            "qty" : 5.5114793212875295,
+            "date" : "2026-07-05 12:44:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:45:00 +0200",
+            "source" : "Hardik’s Apple Watch",
             "qty" : 5.5114793212875286
           },
           {
+            "qty" : 5.5114793212875277,
             "date" : "2026-07-05 12:46:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 5.5114793212875277
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -2750,94 +1736,94 @@
             "qty" : 5.5114793212875286
           },
           {
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:48:00 +0200",
-            "qty" : 5.5114793212875295,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 5.5114793212875295
           },
           {
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:49:00 +0200",
+            "qty" : 5.5114793212875286
+          },
+          {
+            "date" : "2026-07-05 12:50:00 +0200",
             "qty" : 5.5114793212875286,
             "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "qty" : 5.5114793212875286,
-            "date" : "2026-07-05 12:50:00 +0200"
-          },
-          {
             "qty" : 5.5114793212875277,
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:51:00 +0200"
           },
           {
-            "qty" : 5.5114793212875277,
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:52:00 +0200"
+            "date" : "2026-07-05 12:52:00 +0200",
+            "qty" : 5.5114793212875277
           },
           {
-            "date" : "2026-07-05 12:53:00 +0200",
             "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:53:00 +0200",
             "qty" : 5.5114793212875277
           },
           {
             "date" : "2026-07-05 12:54:00 +0200",
-            "qty" : 5.5114793212875268,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.5114793212875268
           },
           {
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:55:00 +0200",
-            "qty" : 5.5114793212875277,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 5.5114793212875277
           },
           {
+            "qty" : 5.5531251460752973,
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:56:00 +0200",
-            "qty" : 5.5531251460752973
+            "date" : "2026-07-05 12:56:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 12:57:00 +0200",
+            "source" : "Hardik’s Apple Watch",
             "qty" : 5.6855384092241747
           },
           {
-            "qty" : 5.8803366781156718,
             "source" : "Hardik’s Apple Watch",
+            "qty" : 5.8803366781156718,
             "date" : "2026-07-05 12:58:00 +0200"
           },
           {
-            "date" : "2026-07-05 12:59:00 +0200",
             "source" : "Hardik’s Apple Watch",
-            "qty" : 5.880336678115671
+            "qty" : 5.880336678115671,
+            "date" : "2026-07-05 12:59:00 +0200"
           },
           {
-            "qty" : 5.880336678115671,
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 13:00:00 +0200",
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "date" : "2026-07-05 13:01:00 +0200",
-            "qty" : 5.880336678115671,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 5.880336678115671
           },
           {
             "qty" : 5.880336678115671,
-            "date" : "2026-07-05 13:02:00 +0200",
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "date" : "2026-07-05 13:03:00 +0200",
             "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 13:01:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 13:02:00 +0200",
             "qty" : 5.880336678115671
           },
           {
             "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 13:03:00 +0200",
+            "qty" : 5.880336678115671
+          },
+          {
             "date" : "2026-07-05 13:04:00 +0200",
-            "qty" : 5.8803366781156701
+            "qty" : 5.8803366781156701,
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "date" : "2026-07-05 13:05:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 5.8803366781156701
+            "qty" : 5.8803366781156701,
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -2855,19 +1841,19 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 13:09:00 +0200",
+            "qty" : 5.8803366781156674
+          },
+          {
+            "date" : "2026-07-05 13:10:00 +0200",
             "qty" : 5.8803366781156674,
             "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 13:10:00 +0200",
-            "qty" : 5.8803366781156674
-          },
-          {
             "qty" : 5.8803366781156674,
-            "date" : "2026-07-05 13:11:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "date" : "2026-07-05 13:11:00 +0200"
           },
           {
             "qty" : 4.9295720947993003,
@@ -2877,178 +1863,1124 @@
         ]
       },
       {
+        "units" : "count",
+        "name" : "step_count",
         "data" : [
           {
-            "date" : "2026-07-05 10:48:00 +0200",
-            "qty" : 1.2999999523162842,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s iPhone",
+            "qty" : 16,
+            "date" : "2026-07-05 09:13:00 +0200"
           },
           {
-            "qty" : 3.0500000715255737,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:09:00 +0200"
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 10:07:00 +0200",
+            "qty" : 8
           },
           {
+            "qty" : 2,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 10:51:00 +0200"
+          },
+          {
+            "qty" : 21.514730663677287,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 11:28:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
             "date" : "2026-07-05 11:29:00 +0200",
-            "qty" : 4.9000000953674316,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 39.97582378369404
           },
           {
-            "qty" : 3.6750000715255737,
             "date" : "2026-07-05 11:30:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 39.97582378369404,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 3.550000011920929,
+            "qty" : 39.97582378369404,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
             "date" : "2026-07-05 11:31:00 +0200"
           },
           {
             "date" : "2026-07-05 11:32:00 +0200",
-            "qty" : 2.2999999523162842,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 39.975823783694032,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 11:33:00 +0200",
-            "qty" : 4.5999999046325684
+            "qty" : 39.975823783694032,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 3.1199999570846559,
+            "qty" : 39.975823783694032,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
             "date" : "2026-07-05 11:34:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:35:00 +0200",
-            "qty" : 2.7666666507720947
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 39.975823783694025,
+            "date" : "2026-07-05 11:35:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 4.1333333651224775,
-            "date" : "2026-07-05 11:37:00 +0200"
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 11:36:00 +0200",
+            "qty" : 39.975823783694018
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:38:00 +0200",
-            "qty" : 3.0999999841054282
+            "date" : "2026-07-05 11:37:00 +0200",
+            "qty" : 39.975823783694025,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 3.3499999642372131,
-            "date" : "2026-07-05 11:39:00 +0200"
+            "qty" : 37.36800078069308,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 11:38:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 3.2799999713897705,
-            "date" : "2026-07-05 11:40:00 +0200"
+            "qty" : 35.295267942018121,
+            "date" : "2026-07-05 11:39:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:40:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 35.295267942018114
+          },
+          {
+            "qty" : 35.295267942018114,
             "date" : "2026-07-05 11:41:00 +0200",
-            "qty" : 2.8250000178813934
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 3.0000000596046448,
-            "date" : "2026-07-05 11:42:00 +0200"
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 11:42:00 +0200",
+            "qty" : 35.295267942018121
           },
           {
-            "source" : "Hardik’s Apple Watch",
+            "qty" : 35.295267942018121,
             "date" : "2026-07-05 11:43:00 +0200",
-            "qty" : 3.7999999523162842
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
-            "qty" : 2.8399999856948854,
-            "source" : "Hardik’s Apple Watch",
+            "qty" : 35.295267942018121,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
             "date" : "2026-07-05 11:44:00 +0200"
           },
           {
             "date" : "2026-07-05 11:45:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 3.3333332538604736
+            "qty" : 35.295267942018128,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
-            "date" : "2026-07-05 11:46:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 3.6666667064030967
+            "qty" : 35.295267942018135,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 11:46:00 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 2.4000000158945718,
-            "date" : "2026-07-05 11:47:00 +0200"
+            "qty" : 16.972710966238303,
+            "date" : "2026-07-05 11:47:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:48:00 +0200",
-            "qty" : 3.3500000238418579
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 11:49:00 +0200",
-            "qty" : 3.2500000596046448
+            "qty" : 48.302998397290999,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
-            "qty" : 3.2333332697550454,
-            "source" : "Hardik’s Apple Watch",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 51.704106538868558,
             "date" : "2026-07-05 11:50:00 +0200"
           },
           {
-            "qty" : 3.0333332618077598,
+            "qty" : 51.704106538868565,
             "date" : "2026-07-05 11:51:00 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
             "date" : "2026-07-05 11:52:00 +0200",
-            "qty" : 3.7000000476837158,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 51.704106538868565
           },
           {
             "date" : "2026-07-05 11:53:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 2.8999999364217124
+            "qty" : 51.704106538868558,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
             "date" : "2026-07-05 11:54:00 +0200",
-            "qty" : 3.4333333174387612,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 51.704106538868565,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
             "date" : "2026-07-05 11:55:00 +0200",
-            "qty" : 6.540000009536743,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 51.704106538868572,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
             "date" : "2026-07-05 11:56:00 +0200",
-            "qty" : 1.2000000476837158,
-            "source" : "Hardik’s Apple Watch"
+            "qty" : 2.4723623694976666,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           },
           {
             "date" : "2026-07-05 12:20:00 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 4
+            "qty" : 13,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 13:09:00 +0200",
+            "qty" : 10.136543460191541
+          },
+          {
+            "date" : "2026-07-05 13:10:00 +0200",
+            "qty" : 7.6000463471728148,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 13:11:00 +0200",
+            "qty" : 7.6000463471728157
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 7.6000463471728148,
+            "date" : "2026-07-05 13:12:00 +0200"
+          },
+          {
+            "qty" : 7.6000463471728148,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 13:13:00 +0200"
+          },
+          {
+            "qty" : 7.6000463471728166,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 13:14:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 13:15:00 +0200",
+            "qty" : 7.6000463471728157
+          },
+          {
+            "qty" : 7.6000463471728148,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 13:16:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 13:17:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 7.6000463471728148
+          },
+          {
+            "date" : "2026-07-05 13:18:00 +0200",
+            "qty" : 4.063085762425934,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 13:19:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 2.4493942305577043
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 2,
+            "date" : "2026-07-05 14:12:00 +0200"
+          },
+          {
+            "qty" : 13,
+            "date" : "2026-07-05 14:29:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 22,
+            "date" : "2026-07-05 16:04:00 +0200"
+          },
+          {
+            "qty" : 2.2948259335619108,
+            "date" : "2026-07-05 16:54:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 16:55:00 +0200",
+            "qty" : 3.2036781061388133
+          },
+          {
+            "date" : "2026-07-05 16:56:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 3.2036781061388129
+          },
+          {
+            "date" : "2026-07-05 16:57:00 +0200",
+            "qty" : 3.2036781061388133,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 16:58:00 +0200",
+            "qty" : 3.2036781061388138
+          },
+          {
+            "date" : "2026-07-05 16:59:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 3.2036781061388138
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 17:00:00 +0200",
+            "qty" : 3.2036781061388138
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 17:01:00 +0200",
+            "qty" : 3.2036781061388138
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 3.2036781061388133,
+            "date" : "2026-07-05 17:02:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 17:03:00 +0200",
+            "qty" : 0.075749217327583107
+          },
+          {
+            "date" : "2026-07-05 17:38:00 +0200",
+            "qty" : 11,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 11,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 17:40:00 +0200"
+          },
+          {
+            "qty" : 0.59409966357462796,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 18:31:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 18:32:00 +0200",
+            "qty" : 4.2305331157971811
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 18:33:00 +0200",
+            "qty" : 4.2305331157971811
+          },
+          {
+            "qty" : 4.2305331157971811,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 18:34:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 18:35:00 +0200",
+            "qty" : 4.2305331157971819,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 18:36:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 4.2305331157971811
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 18:37:00 +0200",
+            "qty" : 0.253234757439464
+          },
+          {
+            "qty" : 17.246362193381376,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 19:14:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 3.7536378066186238,
+            "date" : "2026-07-05 19:15:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.92095693506028975,
+            "date" : "2026-07-05 19:48:00 +0200"
+          },
+          {
+            "qty" : 10.243953092824698,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 19:49:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 19:50:00 +0200",
+            "qty" : 10.243953092824698,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 10.2439530928247,
+            "date" : "2026-07-05 19:51:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 19:52:00 +0200",
+            "qty" : 10.2439530928247,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 19:53:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 10.243953092824702
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 19:54:00 +0200",
+            "qty" : 10.2439530928247
+          },
+          {
+            "date" : "2026-07-05 19:55:00 +0200",
+            "qty" : 10.243953092824702,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 10.2439530928247,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 19:56:00 +0200"
+          },
+          {
+            "qty" : 3.1274183223421179,
+            "date" : "2026-07-05 19:57:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 20:08:00 +0200",
+            "qty" : 9.7297030399833488,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 10.702332934607545,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 20:09:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 10.702332934607545,
+            "date" : "2026-07-05 20:10:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 20:11:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 10.702332934607542
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 20:12:00 +0200",
+            "qty" : 10.702332934607545
+          },
+          {
+            "date" : "2026-07-05 20:13:00 +0200",
+            "qty" : 10.702332934607544,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 9.7586322869789264,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 20:14:00 +0200"
+          },
+          {
+            "qty" : 23,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 20:33:00 +0200"
+          },
+          {
+            "date" : "2026-07-06 09:32:00 +0200",
+            "qty" : 14.219405829612185,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 43.284509733200132,
+            "date" : "2026-07-06 09:33:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 09:34:00 +0200",
+            "qty" : 43.284509733200139
+          },
+          {
+            "qty" : 43.284509733200132,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 09:35:00 +0200"
+          },
+          {
+            "date" : "2026-07-06 09:36:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 43.284509733200132
+          },
+          {
+            "date" : "2026-07-06 09:37:00 +0200",
+            "qty" : 43.284509733200132,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 43.284509733200132,
+            "date" : "2026-07-06 09:38:00 +0200"
+          },
+          {
+            "date" : "2026-07-06 09:39:00 +0200",
+            "qty" : 43.284509733200132,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 09:40:00 +0200",
+            "qty" : 43.284509733200132
+          },
+          {
+            "qty" : 43.284509733200117,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 09:41:00 +0200"
+          },
+          {
+            "qty" : 50.266529067461875,
+            "date" : "2026-07-06 09:42:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 73.31836639193007,
+            "date" : "2026-07-06 09:43:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 09:44:00 +0200",
+            "qty" : 25.63511111219465
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 10:00:00 +0200",
+            "qty" : 17.9832426708283
+          },
+          {
+            "date" : "2026-07-06 10:01:00 +0200",
+            "qty" : 73.016757329171696,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
           }
-        ],
-        "units" : "kcal\/hr·kg",
-        "name" : "physical_effort"
+        ]
       },
       {
-        "name" : "headphone_audio_exposure",
         "data" : [
           {
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 10:56:00 +0200",
-            "qty" : 49.805822129392098
+            "date" : "2026-07-05 09:13:00 +0200",
+            "qty" : 0.01393453720677644,
+            "source" : "Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 10:57:00 +0200",
-            "qty" : 43.320528372559799
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 10:07:00 +0200",
+            "qty" : 0.0049629858545958997
           },
           {
+            "qty" : 0.001741817151196301,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 10:51:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.016390627048817871,
+            "date" : "2026-07-05 11:28:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 11:29:00 +0200",
+            "qty" : 0.030454892921992122,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 11:30:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.030454892921992126
+          },
+          {
+            "date" : "2026-07-05 11:31:00 +0200",
+            "qty" : 0.030454892921992126,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 11:32:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.030454892921992126
+          },
+          {
+            "qty" : 0.030454892921992126,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 11:33:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 11:34:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.030454892921992126
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 11:35:00 +0200",
+            "qty" : 0.030454892921992126
+          },
+          {
+            "date" : "2026-07-05 11:36:00 +0200",
+            "qty" : 0.030454892921992122,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 11:37:00 +0200",
+            "qty" : 0.030454892921992122,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.028208977395481331,
+            "date" : "2026-07-05 11:38:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 11:39:00 +0200",
+            "qty" : 0.026423893492420435
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 11:40:00 +0200",
+            "qty" : 0.026423893492420435
+          },
+          {
+            "qty" : 0.026423893492420435,
+            "date" : "2026-07-05 11:41:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 11:42:00 +0200",
+            "qty" : 0.026423893492420442,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 11:43:00 +0200",
+            "qty" : 0.026423893492420438
+          },
+          {
+            "date" : "2026-07-05 11:44:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.026423893492420438
+          },
+          {
+            "qty" : 0.026423893492420442,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 11:45:00 +0200"
+          },
+          {
+            "qty" : 0.026423893492420445,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 11:46:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.012706663895745844,
+            "date" : "2026-07-05 11:47:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 11:49:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.036190318792441077
+          },
+          {
+            "date" : "2026-07-05 11:50:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.038738549585048798
+          },
+          {
+            "qty" : 0.038738549585048791,
+            "date" : "2026-07-05 11:51:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.038738549585048798,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 11:52:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 11:53:00 +0200",
+            "qty" : 0.038738549585048791,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 11:54:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.038738549585048791
+          },
+          {
+            "qty" : 0.038738549585048791,
+            "date" : "2026-07-05 11:55:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.001852381535129993,
+            "date" : "2026-07-05 11:56:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 12:20:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.0091355568077415225
+          },
+          {
+            "date" : "2026-07-05 13:09:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.0080345875518506547
+          },
+          {
+            "qty" : 0.0057274822967091892,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 13:10:00 +0200"
+          },
+          {
+            "qty" : 0.0057274822967091892,
+            "date" : "2026-07-05 13:11:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.0057274822967091884,
+            "date" : "2026-07-05 13:12:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 13:13:00 +0200",
+            "qty" : 0.0057274822967091884
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 13:14:00 +0200",
+            "qty" : 0.0057274822967091892
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 13:15:00 +0200",
+            "qty" : 0.0057274822967091892
+          },
+          {
+            "qty" : 0.0057274822967091884,
+            "date" : "2026-07-05 13:16:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 13:17:00 +0200",
+            "qty" : 0.0057274822967091875,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 13:18:00 +0200",
+            "qty" : 0.0030619881394489783
+          },
+          {
+            "qty" : 0.0018470611113414321,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 13:19:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 14:12:00 +0200",
+            "qty" : 0.0020520037664100528,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.011799021659418941,
+            "date" : "2026-07-05 14:29:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.017275414552539586,
+            "date" : "2026-07-05 16:04:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 16:54:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.0018910277165325908
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 16:55:00 +0200",
+            "qty" : 0.002639958005073544
+          },
+          {
+            "date" : "2026-07-05 16:56:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.0026399580050735436
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 16:57:00 +0200",
+            "qty" : 0.002639958005073544
+          },
+          {
+            "qty" : 0.002639958005073544,
+            "date" : "2026-07-05 16:58:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.0026399580050735444,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 16:59:00 +0200"
+          },
+          {
+            "qty" : 0.0026399580050735444,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 17:00:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 17:01:00 +0200",
+            "qty" : 0.002639958005073544
+          },
+          {
+            "qty" : 0.002639958005073544,
+            "date" : "2026-07-05 17:02:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 6.2420363730931959e-05,
+            "date" : "2026-07-05 17:03:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 17:38:00 +0200",
+            "qty" : 0.0097231573835015305
+          },
+          {
+            "qty" : 0.010236158325336874,
+            "date" : "2026-07-05 17:40:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 18:31:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.00045002108863280752
+          },
+          {
+            "qty" : 0.0032045618521530112,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 18:32:00 +0200"
+          },
+          {
+            "qty" : 0.0032045618521530112,
+            "date" : "2026-07-05 18:33:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 18:34:00 +0200",
+            "qty" : 0.0032045618521530117,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.0032045618521530121,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 18:35:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.0032045618521530117,
+            "date" : "2026-07-05 18:36:00 +0200"
+          },
+          {
+            "qty" : 0.00019182131923267364,
+            "date" : "2026-07-05 18:37:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 19:14:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.014909138676481897
+          },
+          {
+            "date" : "2026-07-05 19:15:00 +0200",
+            "qty" : 0.0032449455701237381,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.00065683602317539449,
+            "date" : "2026-07-05 19:48:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 19:49:00 +0200",
+            "qty" : 0.0073060934284031155,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.0073060934284031155,
+            "date" : "2026-07-05 19:50:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 19:51:00 +0200",
+            "qty" : 0.0073060934284031155
+          },
+          {
+            "date" : "2026-07-05 19:52:00 +0200",
+            "qty" : 0.0073060934284031155,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 19:53:00 +0200",
+            "qty" : 0.0073060934284031155,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.0073060934284031147,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 19:54:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.0073060934284031147,
+            "date" : "2026-07-05 19:55:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 19:56:00 +0200",
+            "qty" : 0.0073060934284031138
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 19:57:00 +0200",
+            "qty" : 0.0022305071338852372
+          },
+          {
+            "qty" : 0.007953515372796956,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 20:08:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 20:09:00 +0200",
+            "qty" : 0.0087485886434965597,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.0087485886434965597,
+            "date" : "2026-07-05 20:10:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 20:11:00 +0200",
+            "qty" : 0.008748588643496558
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 20:12:00 +0200",
+            "qty" : 0.0087485886434965597
+          },
+          {
+            "date" : "2026-07-05 20:13:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.0087485886434965597
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-05 20:14:00 +0200",
+            "qty" : 0.007977163495433098
+          },
+          {
+            "date" : "2026-07-05 20:33:00 +0200",
+            "qty" : 0.018267974816262723,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.01150958514063255,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 09:32:00 +0200"
+          },
+          {
+            "qty" : 0.035035693897091102,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 09:33:00 +0200"
+          },
+          {
+            "date" : "2026-07-06 09:34:00 +0200",
+            "qty" : 0.035035693897091102,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.035035693897091102,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 09:35:00 +0200"
+          },
+          {
+            "date" : "2026-07-06 09:36:00 +0200",
+            "qty" : 0.035035693897091102,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-06 09:37:00 +0200",
+            "qty" : 0.035035693897091102,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.035035693897091102,
+            "date" : "2026-07-06 09:38:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 09:39:00 +0200",
+            "qty" : 0.035035693897091096
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 09:40:00 +0200",
+            "qty" : 0.035035693897091096
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 09:41:00 +0200",
+            "qty" : 0.035035693897091096
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 0.039679197591250034,
+            "date" : "2026-07-06 09:42:00 +0200"
+          },
+          {
+            "qty" : 0.056508692585697656,
+            "date" : "2026-07-06 09:43:00 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-06 09:44:00 +0200",
+            "qty" : 0.019757758997186996,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.011853098062131662,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 10:00:00 +0200"
+          },
+          {
+            "qty" : 0.048126736687231698,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-06 10:01:00 +0200"
+          }
+        ],
+        "units" : "km",
+        "name" : "walking_running_distance"
+      },
+      {
+        "name" : "stair_speed_up",
+        "units" : "m\/s",
+        "data" : [
+          {
+            "date" : "2026-07-05 11:55:00 +0200",
+            "qty" : 0.25778725743293762,
+            "source" : "Hardik’s Apple Watch"
+          }
+        ]
+      },
+      {
+        "units" : "count\/min",
+        "name" : "walking_heart_rate_average",
+        "data" : [
+          {
+            "qty" : 92,
+            "date" : "2026-07-05 10:58:00 +0200",
+            "source" : "Hardik’s Apple Watch"
+          }
+        ]
+      },
+      {
+        "units" : "%",
+        "data" : [
+          {
+            "date" : "2026-07-06 09:37:00 +0200",
+            "qty" : 0,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "qty" : 0,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-06 09:41:00 +0200"
+          }
+        ],
+        "name" : "walking_asymmetry_percentage"
+      },
+      {
+        "units" : "%",
+        "data" : [
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 27.100000000000001,
+            "date" : "2026-07-06 09:37:00 +0200"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-06 09:41:00 +0200",
+            "qty" : 27.600000000000001
+          },
+          {
+            "date" : "2026-07-06 09:42:00 +0200",
+            "source" : "Hardik’s iPhone",
+            "qty" : 29.100000000000005
+          },
+          {
+            "qty" : 27.699999999999996,
+            "date" : "2026-07-06 09:43:00 +0200",
+            "source" : "Hardik’s iPhone"
+          }
+        ],
+        "name" : "walking_double_support_percentage"
+      },
+      {
+        "units" : "km\/hr",
+        "data" : [
+          {
+            "date" : "2026-07-06 09:37:00 +0200",
+            "qty" : 5.2199999999999998,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "qty" : 5.1839999999999993,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-06 09:41:00 +0200"
+          },
+          {
+            "date" : "2026-07-06 09:42:00 +0200",
+            "source" : "Hardik’s iPhone",
+            "qty" : 4.3199999999999994
+          },
+          {
+            "date" : "2026-07-06 09:43:00 +0200",
+            "qty" : 4.8600000000000003,
+            "source" : "Hardik’s iPhone"
+          }
+        ],
+        "name" : "walking_speed"
+      },
+      {
+        "units" : "dBASPL",
+        "data" : [
+          {
+            "qty" : 49.805822129392098,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 10:56:00 +0200"
+          },
+          {
+            "qty" : 43.320528372559799,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 10:57:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch | Hardik’s iPhone",
             "date" : "2026-07-05 11:23:00 +0200",
-            "qty" : 50.985836724465692,
-            "source" : "Hardik’s Apple Watch | Hardik’s iPhone"
+            "qty" : 50.985836724465692
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -3061,24 +2993,24 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 12:03:00 +0200",
             "qty" : 59.168287741436814,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 12:03:00 +0200"
+          },
+          {
+            "qty" : 58.717521430162719,
+            "date" : "2026-07-05 12:04:00 +0200",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 12:12:00 +0200",
+            "qty" : 52.644756317138672,
             "source" : "Hardik’s iPhone"
           },
           {
             "source" : "Hardik’s iPhone",
-            "qty" : 58.717521430162719,
-            "date" : "2026-07-05 12:04:00 +0200"
-          },
-          {
-            "qty" : 52.644756317138672,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-05 12:12:00 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 70.624110730481277,
-            "date" : "2026-07-05 12:13:00 +0200"
+            "date" : "2026-07-05 12:13:00 +0200",
+            "qty" : 70.624110730481277
           },
           {
             "date" : "2026-07-05 12:15:00 +0200",
@@ -3086,14 +3018,14 @@
             "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 33.550163269042969,
+            "date" : "2026-07-05 12:19:00 +0200",
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-05 12:19:00 +0200"
+            "qty" : 33.550163269042969
           },
           {
             "qty" : 59.470044384774525,
-            "date" : "2026-07-05 14:36:00 +0200",
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 14:36:00 +0200"
           },
           {
             "date" : "2026-07-05 14:40:00 +0200",
@@ -3101,9 +3033,9 @@
             "source" : "Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 14:52:00 +0200",
             "qty" : 61.606516001724302,
-            "date" : "2026-07-05 14:52:00 +0200"
+            "source" : "Hardik’s iPhone"
           },
           {
             "date" : "2026-07-05 14:54:00 +0200",
@@ -3117,18 +3049,18 @@
           },
           {
             "date" : "2026-07-05 15:03:00 +0200",
-            "source" : "Hardik’s iPhone",
-            "qty" : 58.404288919653304
-          },
-          {
-            "date" : "2026-07-05 15:07:00 +0200",
-            "qty" : 51.089061441627749,
+            "qty" : 58.404288919653304,
             "source" : "Hardik’s iPhone"
           },
           {
+            "qty" : 51.089061441627749,
             "source" : "Hardik’s iPhone",
-            "qty" : 54.167669433384503,
-            "date" : "2026-07-05 15:10:00 +0200"
+            "date" : "2026-07-05 15:07:00 +0200"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 15:10:00 +0200",
+            "qty" : 54.167669433384503
           },
           {
             "source" : "Hardik’s iPhone",
@@ -3136,24 +3068,24 @@
             "qty" : 45.966962862807904
           },
           {
-            "date" : "2026-07-05 15:26:00 +0200",
             "qty" : 52.840789794921875,
+            "date" : "2026-07-05 15:26:00 +0200",
             "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 47.58845559874203,
+            "date" : "2026-07-05 15:27:00 +0200",
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-05 15:27:00 +0200"
+            "qty" : 47.58845559874203
           },
           {
+            "date" : "2026-07-05 15:30:00 +0200",
             "qty" : 60.090065002441406,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-05 15:30:00 +0200"
+            "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-07-05 15:32:00 +0200",
+            "source" : "Hardik’s iPhone",
             "qty" : 41.2940733515142,
-            "source" : "Hardik’s iPhone"
+            "date" : "2026-07-05 15:32:00 +0200"
           },
           {
             "date" : "2026-07-05 15:34:00 +0200",
@@ -3166,9 +3098,9 @@
             "date" : "2026-07-05 15:35:00 +0200"
           },
           {
-            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 15:39:00 +0200",
             "qty" : 55.10130049851881,
-            "date" : "2026-07-05 15:39:00 +0200"
+            "source" : "Hardik’s iPhone"
           },
           {
             "source" : "Hardik’s iPhone",
@@ -3176,9 +3108,9 @@
             "qty" : 49.634727744334803
           },
           {
-            "source" : "Hardik’s iPhone",
             "qty" : 46.473080610051994,
-            "date" : "2026-07-05 15:51:00 +0200"
+            "date" : "2026-07-05 15:51:00 +0200",
+            "source" : "Hardik’s iPhone"
           },
           {
             "date" : "2026-07-05 15:56:00 +0200",
@@ -3206,34 +3138,34 @@
             "qty" : 57.74724880422135
           },
           {
-            "date" : "2026-07-05 16:37:00 +0200",
             "qty" : 51.268038318207303,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 16:37:00 +0200"
           },
           {
-            "date" : "2026-07-05 16:50:00 +0200",
             "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 16:50:00 +0200",
             "qty" : 72.426673041238828
           },
           {
             "date" : "2026-07-05 17:07:00 +0200",
-            "qty" : 54.060784366793968,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "qty" : 54.060784366793968
           },
           {
+            "source" : "Hardik’s iPhone",
             "date" : "2026-07-05 17:08:00 +0200",
-            "qty" : 48.751037689094908,
-            "source" : "Hardik’s iPhone"
+            "qty" : 48.751037689094908
           },
           {
-            "date" : "2026-07-05 17:15:00 +0200",
             "qty" : 98.34256785651904,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 17:15:00 +0200"
           },
           {
-            "date" : "2026-07-05 18:14:00 +0200",
             "qty" : 53.407252710231852,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 18:14:00 +0200"
           },
           {
             "qty" : 61.316409565302081,
@@ -3241,34 +3173,34 @@
             "source" : "Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s iPhone",
             "qty" : 52.334579806677056,
-            "date" : "2026-07-05 18:20:00 +0200"
+            "date" : "2026-07-05 18:20:00 +0200",
+            "source" : "Hardik’s iPhone"
           },
           {
             "qty" : 54.49691060042008,
-            "date" : "2026-07-05 18:25:00 +0200",
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 18:25:00 +0200"
           },
           {
             "qty" : 58.464067888737944,
-            "date" : "2026-07-05 18:31:00 +0200",
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-05 18:31:00 +0200"
           },
           {
-            "date" : "2026-07-05 18:33:00 +0200",
             "qty" : 56.999296591286452,
+            "date" : "2026-07-05 18:33:00 +0200",
             "source" : "Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s iPhone",
+            "qty" : 54.294131170503391,
             "date" : "2026-07-05 18:37:00 +0200",
-            "qty" : 54.294131170503391
+            "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-07-05 18:40:00 +0200",
+            "qty" : 55.348393688580337,
             "source" : "Hardik’s iPhone",
-            "qty" : 55.348393688580337
+            "date" : "2026-07-05 18:40:00 +0200"
           },
           {
             "qty" : 52.961701439262029,
@@ -3276,196 +3208,377 @@
             "date" : "2026-07-05 18:48:00 +0200"
           },
           {
+            "date" : "2026-07-05 18:59:00 +0200",
             "qty" : 61.859936720727788,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-05 18:59:00 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-05 19:00:00 +0200",
-            "qty" : 54.366547919367193
-          },
-          {
-            "qty" : 58.980159759521484,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-05 19:10:00 +0200"
-          },
-          {
-            "qty" : 48.063046375839242,
-            "date" : "2026-07-05 19:11:00 +0200",
             "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 29.956165461284723,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-05 19:21:00 +0200"
-          }
-        ],
-        "units" : "dBASPL"
-      },
-      {
-        "units" : "count\/min",
-        "data" : [
-          {
-            "source" : "Hardik’s Apple Watch",
-            "Max" : 65,
-            "Min" : 65,
-            "Avg" : 65,
-            "date" : "2026-07-05 10:58:29 +0200"
+            "date" : "2026-07-05 19:00:00 +0200",
+            "qty" : 54.366547919367193,
+            "source" : "Hardik’s iPhone"
           },
           {
+            "date" : "2026-07-05 19:10:00 +0200",
+            "qty" : 58.980159759521484,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-07-05 19:11:00 +0200",
+            "source" : "Hardik’s iPhone",
+            "qty" : 48.063046375839242
+          },
+          {
+            "qty" : 29.956165461284723,
+            "date" : "2026-07-05 19:21:00 +0200",
+            "source" : "Hardik’s iPhone"
+          }
+        ],
+        "name" : "headphone_audio_exposure"
+      },
+      {
+        "name" : "physical_effort",
+        "data" : [
+          {
+            "date" : "2026-07-05 10:48:00 +0200",
+            "qty" : 1.2999999523162842,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-05 11:09:00 +0200",
+            "qty" : 3.0500000715255737,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:29:00 +0200",
+            "qty" : 4.9000000953674316
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:30:00 +0200",
+            "qty" : 3.6750000715255737
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 3.550000011920929,
+            "date" : "2026-07-05 11:31:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:32:00 +0200",
+            "qty" : 2.2999999523162842
+          },
+          {
+            "qty" : 4.5999999046325684,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:33:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 11:34:00 +0200",
+            "qty" : 3.1199999570846559,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-05 11:35:00 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 2.7666666507720947
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 4.1333333651224775,
+            "date" : "2026-07-05 11:37:00 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:38:00 +0200",
+            "qty" : 3.0999999841054282
+          },
+          {
+            "date" : "2026-07-05 11:39:00 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 3.3499999642372131
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 3.2799999713897705,
+            "date" : "2026-07-05 11:40:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 11:41:00 +0200",
+            "qty" : 2.8250000178813934,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-05 11:42:00 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 3.0000000596046448
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:43:00 +0200",
+            "qty" : 3.7999999523162842
+          },
+          {
+            "date" : "2026-07-05 11:44:00 +0200",
+            "qty" : 2.8399999856948854,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 3.3333332538604736,
+            "date" : "2026-07-05 11:45:00 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 3.6666667064030967,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:46:00 +0200"
+          },
+          {
+            "qty" : 2.4000000158945718,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:47:00 +0200"
+          },
+          {
+            "qty" : 3.3500000238418579,
+            "date" : "2026-07-05 11:48:00 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-05 11:49:00 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 3.2500000596046448
+          },
+          {
+            "qty" : 3.2333332697550454,
+            "date" : "2026-07-05 11:50:00 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 3.0333332618077598,
+            "date" : "2026-07-05 11:51:00 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-05 11:52:00 +0200",
+            "qty" : 3.7000000476837158,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 2.8999999364217124,
+            "date" : "2026-07-05 11:53:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 11:54:00 +0200",
+            "qty" : 3.4333333174387612,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-05 11:55:00 +0200",
+            "qty" : 6.540000009536743,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 1.2000000476837158,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:56:00 +0200"
+          },
+          {
+            "date" : "2026-07-05 12:20:00 +0200",
+            "qty" : 4,
+            "source" : "Hardik’s Apple Watch"
+          }
+        ],
+        "units" : "kcal\/hr·kg"
+      },
+      {
+        "name" : "walking_step_length",
+        "units" : "cm",
+        "data" : [
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-06 09:37:00 +0200",
+            "qty" : 77
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 81,
+            "date" : "2026-07-06 09:41:00 +0200"
+          },
+          {
+            "date" : "2026-07-06 09:42:00 +0200",
+            "qty" : 69,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 75,
+            "date" : "2026-07-06 09:43:00 +0200"
+          }
+        ]
+      },
+      {
+        "data" : [
+          {
+            "Min" : 65,
+            "date" : "2026-07-05 10:58:29 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "Avg" : 65,
+            "Max" : 65
+          },
+          {
+            "Max" : 61.197479248046868,
             "Avg" : 61.197479248046868,
             "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 10:59:45 +0200",
-            "Max" : 61.197479248046868,
             "Min" : 61.197479248046868
           },
           {
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 11:01:04 +0200",
+            "Min" : 60,
             "Avg" : 60,
-            "source" : "Hardik’s Apple Watch",
-            "Max" : 60,
-            "Min" : 60
+            "Max" : 60
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "Avg" : 66,
-            "date" : "2026-07-05 11:05:48 +0200",
+            "Max" : 66,
             "Min" : 66,
-            "Max" : 66
-          },
-          {
-            "date" : "2026-07-05 11:10:51 +0200",
             "source" : "Hardik’s Apple Watch",
-            "Max" : 63,
-            "Avg" : 63,
-            "Min" : 63
+            "date" : "2026-07-05 11:05:48 +0200"
           },
           {
-            "Avg" : 63,
-            "Max" : 63,
             "Min" : 63,
+            "Max" : 63,
+            "date" : "2026-07-05 11:10:51 +0200",
+            "Avg" : 63,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-05 11:15:49 +0200",
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 11:15:49 +0200"
+            "Min" : 63,
+            "Max" : 63,
+            "Avg" : 63
           },
           {
             "Min" : 64,
-            "source" : "Hardik’s Apple Watch",
             "Max" : 64,
             "Avg" : 64,
-            "date" : "2026-07-05 11:17:23 +0200"
+            "date" : "2026-07-05 11:17:23 +0200",
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "Min" : 63,
+            "date" : "2026-07-05 11:20:54 +0200",
             "Max" : 63,
             "Avg" : 63,
-            "date" : "2026-07-05 11:20:54 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "Min" : 63
           },
           {
-            "Min" : 73,
             "date" : "2026-07-05 11:27:21 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "Min" : 73,
             "Avg" : 73,
-            "Max" : 73,
+            "Max" : 73
+          },
+          {
+            "Min" : 92,
+            "date" : "2026-07-05 11:31:43 +0200",
+            "Max" : 92,
+            "Avg" : 92,
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 11:31:43 +0200",
-            "Avg" : 92,
-            "Max" : 92,
-            "source" : "Hardik’s Apple Watch",
-            "Min" : 92
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
-            "Avg" : 91,
             "Max" : 91,
+            "Avg" : 91,
             "Min" : 91,
-            "date" : "2026-07-05 11:34:57 +0200"
+            "date" : "2026-07-05 11:34:57 +0200",
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "Avg" : 90,
             "Min" : 90,
             "date" : "2026-07-05 11:37:59 +0200",
-            "Max" : 90
+            "Avg" : 90,
+            "Max" : 90,
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "Avg" : 127,
             "Min" : 127,
             "Max" : 127,
-            "date" : "2026-07-05 11:42:45 +0200",
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:42:45 +0200"
           },
           {
-            "date" : "2026-07-05 11:44:57 +0200",
-            "Min" : 112,
-            "Avg" : 112,
             "Max" : 112,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:44:57 +0200",
+            "Avg" : 112,
+            "Min" : 112
           },
           {
-            "Avg" : 105,
-            "source" : "Hardik’s Apple Watch",
             "Max" : 105,
-            "date" : "2026-07-05 11:54:54 +0200",
-            "Min" : 105
+            "Avg" : 105,
+            "Min" : 105,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 11:54:54 +0200"
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "Max" : 87.2757568359375,
             "date" : "2026-07-05 11:58:19 +0200",
+            "source" : "Hardik’s Apple Watch",
             "Min" : 87.2757568359375,
             "Avg" : 87.2757568359375
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "Min" : 84,
             "date" : "2026-07-05 11:58:27 +0200",
             "Max" : 84,
-            "Avg" : 84
-          },
-          {
-            "date" : "2026-07-05 11:59:01 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "Max" : 86,
-            "Min" : 86,
-            "Avg" : 86
-          },
-          {
-            "Max" : 93,
-            "date" : "2026-07-05 12:01:42 +0200",
-            "Avg" : 93,
-            "Min" : 93,
+            "Min" : 84,
+            "Avg" : 84,
             "source" : "Hardik’s Apple Watch"
           },
           {
+            "Avg" : 86,
+            "date" : "2026-07-05 11:59:01 +0200",
+            "Max" : 86,
+            "source" : "Hardik’s Apple Watch",
+            "Min" : 86
+          },
+          {
+            "Min" : 93,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-05 12:01:42 +0200",
+            "Max" : 93,
+            "Avg" : 93
+          },
+          {
             "Avg" : 84,
-            "Max" : 84,
             "date" : "2026-07-05 12:04:52 +0200",
+            "Min" : 84,
             "source" : "Hardik’s Apple Watch",
-            "Min" : 84
+            "Max" : 84
           },
           {
-            "Max" : 80,
             "date" : "2026-07-05 12:10:20 +0200",
+            "Max" : 80,
             "source" : "Hardik’s Apple Watch",
-            "Min" : 80,
-            "Avg" : 80
+            "Avg" : 80,
+            "Min" : 80
           },
           {
+            "date" : "2026-07-05 12:14:42 +0200",
+            "Min" : 79,
             "source" : "Hardik’s Apple Watch",
             "Max" : 79,
-            "Min" : 79,
-            "date" : "2026-07-05 12:14:42 +0200",
             "Avg" : 79
           },
           {
-            "Avg" : 75,
+            "date" : "2026-07-05 12:23:26 +0200",
+            "Max" : 75,
             "source" : "Hardik’s Apple Watch",
             "Min" : 75,
-            "Max" : 75,
-            "date" : "2026-07-05 12:23:26 +0200"
+            "Avg" : 75
           },
           {
             "Max" : 78,
@@ -3475,76 +3588,77 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "Avg" : 76,
             "Max" : 76,
+            "date" : "2026-07-05 12:28:28 +0200",
             "Min" : 76,
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-07-05 12:28:28 +0200"
+            "Avg" : 76,
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "Avg" : 72,
             "Min" : 72,
-            "date" : "2026-07-05 12:30:51 +0200",
+            "Avg" : 72,
+            "Max" : 72,
             "source" : "Hardik’s Apple Watch",
-            "Max" : 72
+            "date" : "2026-07-05 12:30:51 +0200"
           },
           {
-            "date" : "2026-07-05 12:36:03 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "Min" : 73,
+            "Max" : 73,
             "Avg" : 73,
-            "Max" : 73
+            "Min" : 73,
+            "date" : "2026-07-05 12:36:03 +0200",
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "date" : "2026-07-05 12:42:54 +0200",
-            "Min" : 67,
             "source" : "Hardik’s Apple Watch",
+            "Max" : 67,
+            "Min" : 67,
             "Avg" : 67,
-            "Max" : 67
+            "date" : "2026-07-05 12:42:54 +0200"
           },
           {
             "Max" : 64,
-            "Min" : 64,
             "source" : "Hardik’s Apple Watch",
-            "Avg" : 64,
-            "date" : "2026-07-05 12:46:59 +0200"
+            "date" : "2026-07-05 12:46:59 +0200",
+            "Min" : 64,
+            "Avg" : 64
           },
           {
-            "Avg" : 64,
-            "Min" : 64,
+            "source" : "Hardik’s Apple Watch",
+            "Max" : 64,
             "date" : "2026-07-05 12:52:10 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "Max" : 64
+            "Min" : 64,
+            "Avg" : 64
           },
           {
-            "date" : "2026-07-05 12:55:32 +0200",
-            "Max" : 63,
-            "source" : "Hardik’s Apple Watch",
             "Min" : 63,
+            "date" : "2026-07-05 12:55:32 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "Max" : 63,
             "Avg" : 63
           },
           {
-            "Max" : 61,
             "Min" : 61,
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-07-05 13:01:17 +0200",
-            "Avg" : 61
+            "Max" : 61,
+            "Avg" : 61,
+            "source" : "Hardik’s Apple Watch"
           },
           {
             "Avg" : 63,
             "date" : "2026-07-05 13:06:02 +0200",
             "Max" : 63,
-            "Min" : 63,
-            "source" : "Hardik’s Apple Watch"
+            "source" : "Hardik’s Apple Watch",
+            "Min" : 63
           },
           {
-            "date" : "2026-07-05 13:10:27 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "Max" : 99,
             "Avg" : 99,
-            "Min" : 99
+            "Min" : 99,
+            "date" : "2026-07-05 13:10:27 +0200",
+            "Max" : 99,
+            "source" : "Hardik’s Apple Watch"
           }
         ],
+        "units" : "count\/min",
         "name" : "heart_rate"
       }
     ]
