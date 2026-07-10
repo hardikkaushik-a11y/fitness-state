@@ -2,1314 +2,1440 @@
   "data" : {
     "workouts" : [
       {
-        "duration" : 2665.9879920482635,
-        "end" : "2026-06-28 11:30:29 +0200",
-        "totalEnergy" : {
-          "units" : "kJ",
-          "qty" : 1251.5917621551987
+        "avgHeartRate" : {
+          "units" : "count\/min",
+          "qty" : 105.50128191889453
         },
+        "maxHeartRate" : {
+          "units" : "count\/min",
+          "qty" : 155
+        },
+        "heartRateData" : [
+          {
+            "source" : "Bluetooth Device",
+            "Max" : 114,
+            "date" : "2026-07-09 09:53:12 +0200",
+            "units" : "count\/min",
+            "Min" : 87,
+            "Avg" : 100.33662534063589
+          },
+          {
+            "date" : "2026-07-09 09:54:12 +0200",
+            "source" : "Bluetooth Device",
+            "Min" : 101,
+            "Max" : 111,
+            "Avg" : 107.70879927969362,
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 96,
+            "date" : "2026-07-09 09:55:12 +0200",
+            "source" : "Bluetooth Device",
+            "Min" : 80,
+            "Avg" : 85.59184597011118,
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 91,
+            "date" : "2026-07-09 09:56:12 +0200",
+            "Max" : 118,
+            "source" : "Bluetooth Device",
+            "Avg" : 103.93750215631708,
+            "units" : "count\/min"
+          },
+          {
+            "Avg" : 109.34950388338429,
+            "Max" : 118,
+            "units" : "count\/min",
+            "Min" : 92,
+            "source" : "Bluetooth Device",
+            "date" : "2026-07-09 09:57:12 +0200"
+          },
+          {
+            "source" : "Bluetooth Device",
+            "units" : "count\/min",
+            "Min" : 92,
+            "date" : "2026-07-09 09:58:12 +0200",
+            "Avg" : 100.54999787104119,
+            "Max" : 109
+          },
+          {
+            "date" : "2026-07-09 09:59:12 +0200",
+            "source" : "Bluetooth Device",
+            "Min" : 86,
+            "Max" : 94,
+            "Avg" : 89.989999104782513,
+            "units" : "count\/min"
+          },
+          {
+            "Avg" : 96.515475630597933,
+            "source" : "Bluetooth Device",
+            "Min" : 87,
+            "date" : "2026-07-09 10:00:12 +0200",
+            "units" : "count\/min",
+            "Max" : 111
+          },
+          {
+            "Avg" : 97.632650606045701,
+            "source" : "Bluetooth Device",
+            "Max" : 104,
+            "date" : "2026-07-09 10:01:12 +0200",
+            "Min" : 92,
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 122,
+            "Avg" : 108.85418285577293,
+            "Min" : 91,
+            "source" : "Bluetooth Device",
+            "units" : "count\/min",
+            "date" : "2026-07-09 10:02:12 +0200"
+          },
+          {
+            "Min" : 97,
+            "Max" : 107,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device",
+            "Avg" : 101.75980171492482,
+            "date" : "2026-07-09 10:03:12 +0200"
+          },
+          {
+            "Max" : 96,
+            "Min" : 86,
+            "units" : "count\/min",
+            "Avg" : 91.269998829675501,
+            "source" : "Bluetooth Device",
+            "date" : "2026-07-09 10:04:12 +0200"
+          },
+          {
+            "Max" : 98,
+            "units" : "count\/min",
+            "source" : "Bluetooth Device",
+            "date" : "2026-07-09 10:05:12 +0200",
+            "Avg" : 91.23000217292045,
+            "Min" : 86
+          },
+          {
+            "units" : "count\/min",
+            "date" : "2026-07-09 10:06:12 +0200",
+            "source" : "Bluetooth Device",
+            "Avg" : 91.879995762177103,
+            "Min" : 85,
+            "Max" : 98
+          },
+          {
+            "Min" : 88,
+            "Max" : 127,
+            "source" : "Bluetooth Device",
+            "date" : "2026-07-09 10:07:12 +0200",
+            "units" : "count\/min",
+            "Avg" : 108.41237324160268
+          },
+          {
+            "Avg" : 113.43998986286302,
+            "units" : "count\/min",
+            "date" : "2026-07-09 10:08:12 +0200",
+            "source" : "Bluetooth Device",
+            "Min" : 99,
+            "Max" : 121
+          },
+          {
+            "units" : "count\/min",
+            "Avg" : 107.94948848990606,
+            "Min" : 101,
+            "source" : "Bluetooth Device",
+            "date" : "2026-07-09 10:09:12 +0200",
+            "Max" : 112
+          },
+          {
+            "Avg" : 105.74750850391744,
+            "units" : "count\/min",
+            "Max" : 130,
+            "Min" : 96,
+            "date" : "2026-07-09 10:10:12 +0200",
+            "source" : "Bluetooth Device"
+          },
+          {
+            "units" : "count\/min",
+            "Max" : 103,
+            "date" : "2026-07-09 10:11:12 +0200",
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Min" : 93,
+            "Avg" : 97.447366980501101
+          },
+          {
+            "Max" : 106,
+            "date" : "2026-07-09 10:12:12 +0200",
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Avg" : 98.1684171095891,
+            "Min" : 92,
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 101,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Max" : 140,
+            "Avg" : 112.58254413232905,
+            "date" : "2026-07-09 10:13:12 +0200",
+            "units" : "count\/min"
+          },
+          {
+            "Avg" : 102.63637841367046,
+            "units" : "count\/min",
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Min" : 94,
+            "date" : "2026-07-09 10:14:12 +0200",
+            "Max" : 116
+          },
+          {
+            "Min" : 87,
+            "Avg" : 89.776702642439943,
+            "Max" : 92,
+            "units" : "count\/min",
+            "date" : "2026-07-09 10:15:12 +0200",
+            "source" : "Hardik’s Apple Watch|Bluetooth Device"
+          },
+          {
+            "Avg" : 87.109995279802064,
+            "date" : "2026-07-09 10:16:12 +0200",
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Min" : 86,
+            "units" : "count\/min",
+            "Max" : 90
+          },
+          {
+            "Avg" : 90.989998337787526,
+            "units" : "count\/min",
+            "Min" : 85,
+            "date" : "2026-07-09 10:17:12 +0200",
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Max" : 97
+          },
+          {
+            "Min" : 99,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Avg" : 114.48452883375879,
+            "units" : "count\/min",
+            "Max" : 140,
+            "date" : "2026-07-09 10:18:12 +0200"
+          },
+          {
+            "units" : "count\/min",
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "date" : "2026-07-09 10:19:12 +0200",
+            "Max" : 103,
+            "Min" : 95,
+            "Avg" : 96.689998696733227
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Min" : 86,
+            "units" : "count\/min",
+            "Avg" : 91.873786519796468,
+            "date" : "2026-07-09 10:20:12 +0200",
+            "Max" : 94
+          },
+          {
+            "Min" : 85,
+            "units" : "count\/min",
+            "Avg" : 93.849471881430546,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Max" : 111,
+            "date" : "2026-07-09 10:21:12 +0200"
+          },
+          {
+            "Min" : 84,
+            "units" : "count\/min",
+            "Max" : 133,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "date" : "2026-07-09 10:22:12 +0200",
+            "Avg" : 104.83825022455035
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Avg" : 88.661453512017076,
+            "units" : "count\/min",
+            "Max" : 96,
+            "date" : "2026-07-09 10:23:12 +0200",
+            "Min" : 86
+          },
+          {
+            "Avg" : 89.190001641668971,
+            "date" : "2026-07-09 10:24:12 +0200",
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Min" : 87,
+            "Max" : 91,
+            "units" : "count\/min"
+          },
+          {
+            "Avg" : 91.622443027399243,
+            "date" : "2026-07-09 10:25:12 +0200",
+            "Min" : 88,
+            "Max" : 96,
+            "units" : "count\/min",
+            "source" : "Hardik’s Apple Watch|Bluetooth Device"
+          },
+          {
+            "Avg" : 93.970005534589802,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "units" : "count\/min",
+            "Max" : 98,
+            "date" : "2026-07-09 10:26:12 +0200",
+            "Min" : 90
+          },
+          {
+            "Min" : 96,
+            "units" : "count\/min",
+            "date" : "2026-07-09 10:27:12 +0200",
+            "Avg" : 111.73525612730275,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Max" : 140
+          },
+          {
+            "date" : "2026-07-09 10:28:12 +0200",
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Min" : 106,
+            "units" : "count\/min",
+            "Avg" : 109.35714538471952,
+            "Max" : 113
+          },
+          {
+            "date" : "2026-07-09 10:29:12 +0200",
+            "Max" : 155,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Min" : 121,
+            "units" : "count\/min",
+            "Avg" : 141.72224513908884
+          },
+          {
+            "Min" : 112,
+            "units" : "count\/min",
+            "Max" : 142,
+            "date" : "2026-07-09 10:30:12 +0200",
+            "Avg" : 124.78221776735268,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device"
+          },
+          {
+            "Min" : 107,
+            "Avg" : 110.01052536873836,
+            "units" : "count\/min",
+            "Max" : 114,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "date" : "2026-07-09 10:31:12 +0200"
+          },
+          {
+            "Max" : 119,
+            "date" : "2026-07-09 10:32:12 +0200",
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Min" : 107,
+            "Avg" : 112.37756159404267,
+            "units" : "count\/min"
+          },
+          {
+            "Avg" : 125.16327554384847,
+            "date" : "2026-07-09 10:33:12 +0200",
+            "Max" : 143,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Min" : 111,
+            "units" : "count\/min"
+          },
+          {
+            "date" : "2026-07-09 10:34:12 +0200",
+            "Avg" : 111.3349501214646,
+            "Max" : 116,
+            "units" : "count\/min",
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Min" : 106
+          },
+          {
+            "date" : "2026-07-09 10:35:12 +0200",
+            "Avg" : 109.23999948730228,
+            "Max" : 113,
+            "Min" : 106,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "units" : "count\/min"
+          },
+          {
+            "units" : "count\/min",
+            "Max" : 149,
+            "date" : "2026-07-09 10:36:12 +0200",
+            "Min" : 122,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Avg" : 131.27723355065393
+          },
+          {
+            "date" : "2026-07-09 10:37:12 +0200",
+            "Avg" : 129.97871979478148,
+            "units" : "count\/min",
+            "Min" : 116,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Max" : 150
+          },
+          {
+            "units" : "count\/min",
+            "Max" : 143,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Min" : 119,
+            "date" : "2026-07-09 10:38:12 +0200",
+            "Avg" : 129.87129351875171
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "Max" : 115,
+            "Min" : 105,
+            "Avg" : 110.93877704182454,
+            "units" : "count\/min",
+            "date" : "2026-07-09 10:39:12 +0200"
+          },
+          {
+            "Min" : 107,
+            "Avg" : 110.08421370220489,
+            "Max" : 121,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "units" : "count\/min",
+            "date" : "2026-07-09 10:40:12 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "date" : "2026-07-09 10:41:12 +0200",
+            "Min" : 116,
+            "Avg" : 125.64359775821654,
+            "units" : "count\/min",
+            "Max" : 147
+          },
+          {
+            "Min" : 123.99999999999999,
+            "Avg" : 125.50000000000001,
+            "Max" : 127,
+            "source" : "Hardik’s Apple Watch|Bluetooth Device",
+            "units" : "count\/min",
+            "date" : "2026-07-09 10:42:12 +0200"
+          }
+        ],
+        "activeEnergyBurned" : {
+          "qty" : 1101.5361433546561,
+          "units" : "kJ"
+        },
+        "totalEnergy" : {
+          "qty" : 1420.5912473546562,
+          "units" : "kJ"
+        },
+        "end" : "2026-07-09 10:42:27 +0200",
+        "duration" : 2954.7078050374985,
+        "temperature" : {
+          "units" : "degC",
+          "qty" : 21.321294784543511
+        },
+        "activeEnergy" : [
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 09:53:12 +0200",
+            "qty" : 16.779952969387395,
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-07-09 09:54:12 +0200",
+            "qty" : 17.353698590957375,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "date" : "2026-07-09 09:55:12 +0200",
+            "qty" : 18.265705609709549
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 09:56:12 +0200",
+            "qty" : 17.094347795747936
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 17.173912091172298,
+            "date" : "2026-07-09 09:57:12 +0200",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 17.782114636687247,
+            "units" : "kJ",
+            "date" : "2026-07-09 09:58:12 +0200"
+          },
+          {
+            "date" : "2026-07-09 09:59:12 +0200",
+            "qty" : 18.635180306338174,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 18.046123344786672,
+            "date" : "2026-07-09 10:00:12 +0200"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:01:12 +0200",
+            "qty" : 17.094488342561345
+          },
+          {
+            "date" : "2026-07-09 10:02:12 +0200",
+            "qty" : 20.609026505688753,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "qty" : 17.919919121365091,
+            "date" : "2026-07-09 10:03:12 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 18.950402091195919,
+            "date" : "2026-07-09 10:04:12 +0200",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:05:12 +0200",
+            "qty" : 18.473374428295756,
+            "units" : "kJ"
+          },
+          {
+            "qty" : 17.406143759463053,
+            "date" : "2026-07-09 10:06:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-07-09 10:07:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 19.78316022916659,
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-07-09 10:08:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 21.832121559325316,
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-07-09 10:09:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 17.73034723812215
+          },
+          {
+            "date" : "2026-07-09 10:10:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 26.388592243083274,
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 18.778810765146538,
+            "units" : "kJ",
+            "date" : "2026-07-09 10:11:12 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 18.127513468317133,
+            "units" : "kJ",
+            "date" : "2026-07-09 10:12:12 +0200"
+          },
+          {
+            "date" : "2026-07-09 10:13:12 +0200",
+            "qty" : 30.177264688038687,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "date" : "2026-07-09 10:14:12 +0200",
+            "qty" : 17.665914990604016
+          },
+          {
+            "qty" : 18.949948106071034,
+            "date" : "2026-07-09 10:15:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "qty" : 18.631915865598703,
+            "date" : "2026-07-09 10:16:12 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 17.818440674989589,
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:17:12 +0200"
+          },
+          {
+            "qty" : 35.076899461304869,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "date" : "2026-07-09 10:18:12 +0200"
+          },
+          {
+            "qty" : 17.173637171080696,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:19:12 +0200",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-07-09 10:20:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "qty" : 18.22855418653468
+          },
+          {
+            "qty" : 18.305255488664528,
+            "date" : "2026-07-09 10:21:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 27.322725670142088,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "date" : "2026-07-09 10:22:12 +0200"
+          },
+          {
+            "date" : "2026-07-09 10:23:12 +0200",
+            "qty" : 18.632077824117854,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-07-09 10:24:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 18.897665379755299,
+            "units" : "kJ"
+          },
+          {
+            "qty" : 18.205541396580234,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:25:12 +0200",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 18.208042034267688,
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:26:12 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 27.562270767675855,
+            "units" : "kJ",
+            "date" : "2026-07-09 10:27:12 +0200"
+          },
+          {
+            "qty" : 17.094111364073232,
+            "units" : "kJ",
+            "date" : "2026-07-09 10:28:12 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-07-09 10:29:12 +0200",
+            "qty" : 43.620091704884551,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "units" : "kJ",
+            "qty" : 33.918901584599304,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:30:12 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:31:12 +0200",
+            "units" : "kJ",
+            "qty" : 17.110163587822516
+          },
+          {
+            "date" : "2026-07-09 10:32:12 +0200",
+            "qty" : 18.652179832498199,
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "date" : "2026-07-09 10:33:12 +0200",
+            "qty" : 39.824328163296194
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:34:12 +0200",
+            "units" : "kJ",
+            "qty" : 24.770216910006841
+          },
+          {
+            "date" : "2026-07-09 10:35:12 +0200",
+            "qty" : 17.094817154903811,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 38.152967210594333,
+            "date" : "2026-07-09 10:36:12 +0200"
+          },
+          {
+            "qty" : 37.118117644246745,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:37:12 +0200",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 37.247375989186018,
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:38:12 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:39:12 +0200",
+            "qty" : 21.068827849625553,
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:40:12 +0200",
+            "qty" : 17.095012346108462
+          },
+          {
+            "qty" : 36.036493764960646,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "date" : "2026-07-09 10:41:12 +0200"
+          },
+          {
+            "qty" : 15.999413516521541,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "date" : "2026-07-09 10:42:12 +0200"
+          }
+        ],
+        "stepCount" : [
+          {
+            "qty" : 7.5485128731962527,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-09 10:08:12 +0200",
+            "units" : "count"
+          },
+          {
+            "date" : "2026-07-09 10:09:12 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 9.7276564579469298,
+            "units" : "count"
+          },
+          {
+            "qty" : 9.7276564579469298,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count",
+            "date" : "2026-07-09 10:10:12 +0200"
+          },
+          {
+            "date" : "2026-07-09 10:11:12 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 9.7276564579469316,
+            "units" : "count"
+          },
+          {
+            "date" : "2026-07-09 10:12:12 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count",
+            "qty" : 9.7276564579469316
+          },
+          {
+            "qty" : 8.540861295016029,
+            "date" : "2026-07-09 10:13:12 +0200",
+            "units" : "count",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count",
+            "qty" : 6.460309173497949,
+            "date" : "2026-07-09 10:18:12 +0200"
+          },
+          {
+            "qty" : 11.107396877923403,
+            "date" : "2026-07-09 10:19:12 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count"
+          },
+          {
+            "date" : "2026-07-09 10:20:12 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 11.107396877923401,
+            "units" : "count"
+          },
+          {
+            "qty" : 11.107396877923401,
+            "date" : "2026-07-09 10:21:12 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-09 10:22:12 +0200",
+            "qty" : 11.107396877923399,
+            "units" : "count"
+          },
+          {
+            "qty" : 11.107396877923399,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-09 10:23:12 +0200",
+            "units" : "count"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count",
+            "date" : "2026-07-09 10:24:12 +0200",
+            "qty" : 11.107396877923401
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count",
+            "date" : "2026-07-09 10:25:12 +0200",
+            "qty" : 11.107396877923401
+          },
+          {
+            "date" : "2026-07-09 10:26:12 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count",
+            "qty" : 11.107396877923401
+          },
+          {
+            "qty" : 11.107396877923403,
+            "date" : "2026-07-09 10:27:12 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count"
+          },
+          {
+            "date" : "2026-07-09 10:28:12 +0200",
+            "qty" : 1.5731189251914319,
+            "units" : "count",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "qty" : 46.205957622528736,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-09 10:29:12 +0200",
+            "units" : "count"
+          },
+          {
+            "date" : "2026-07-09 10:30:12 +0200",
+            "qty" : 47.262506038857062,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count"
+          },
+          {
+            "qty" : 50.772279828543866,
+            "units" : "count",
+            "date" : "2026-07-09 10:31:12 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "units" : "count",
+            "date" : "2026-07-09 10:32:12 +0200",
+            "qty" : 50.772279828543866,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count",
+            "qty" : 50.772279828543873,
+            "date" : "2026-07-09 10:33:12 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-09 10:34:12 +0200",
+            "qty" : 50.772279828543873,
+            "units" : "count"
+          },
+          {
+            "date" : "2026-07-09 10:35:12 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count",
+            "qty" : 50.772279828543873
+          },
+          {
+            "date" : "2026-07-09 10:36:12 +0200",
+            "units" : "count",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 50.772279828543866
+          },
+          {
+            "date" : "2026-07-09 10:37:12 +0200",
+            "qty" : 50.772279828543859,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count"
+          },
+          {
+            "qty" : 50.772279828543873,
+            "units" : "count",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-09 10:38:12 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 44.559255332792006,
+            "date" : "2026-07-09 10:39:12 +0200",
+            "units" : "count"
+          },
+          {
+            "date" : "2026-07-09 10:40:12 +0200",
+            "units" : "count",
+            "qty" : 16,
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "date" : "2026-07-09 10:41:12 +0200",
+            "qty" : 26.750418914146785,
+            "units" : "count"
+          },
+          {
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "count",
+            "qty" : 26.249581085853215,
+            "date" : "2026-07-09 10:42:12 +0200"
+          }
+        ],
         "intensity" : {
-          "qty" : 5.0878444754828127,
+          "qty" : 3.3543284152598947,
           "units" : "kcal\/hr·kg"
+        },
+        "start" : "2026-07-09 09:53:12 +0200",
+        "basalEnergy" : [
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 09:53:12 +0200",
+            "qty" : 6.8078666332943136,
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-07-09 09:54:12 +0200",
+            "qty" : 6.6759404241176838,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-07-09 09:55:12 +0200",
+            "qty" : 5.763884777295754,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 6.9354211057034476,
+            "units" : "kJ",
+            "date" : "2026-07-09 09:56:12 +0200"
+          },
+          {
+            "date" : "2026-07-09 09:57:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "qty" : 6.8559528141327597
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-07-09 09:58:12 +0200",
+            "qty" : 6.2478406375715707,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "qty" : 5.398213607884462,
+            "date" : "2026-07-09 09:59:12 +0200"
+          },
+          {
+            "qty" : 5.9805860884563078,
+            "date" : "2026-07-09 10:00:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-07-09 10:01:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "qty" : 6.93547812755346
+          },
+          {
+            "qty" : 6.9354692680222954,
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:02:12 +0200"
+          },
+          {
+            "qty" : 6.1099974249828684,
+            "units" : "kJ",
+            "date" : "2026-07-09 10:03:12 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-09 10:04:12 +0200",
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.0794892203205588
+          },
+          {
+            "date" : "2026-07-09 10:05:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.5564513725328846,
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-07-09 10:06:12 +0200",
+            "qty" : 6.6235346531505916,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-07-09 10:07:12 +0200",
+            "qty" : 6.9354131604580482,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:08:12 +0200",
+            "qty" : 6.935423450872956
+          },
+          {
+            "date" : "2026-07-09 10:09:12 +0200",
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 6.2994658623238449
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 6.6325534170932166,
+            "date" : "2026-07-09 10:10:12 +0200",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 5.2508447405314538,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "date" : "2026-07-09 10:11:12 +0200"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-07-09 10:12:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.901858561431526
+          },
+          {
+            "qty" : 6.9352380848614086,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "date" : "2026-07-09 10:13:12 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:14:12 +0200",
+            "units" : "kJ",
+            "qty" : 6.3633570638433028
+          },
+          {
+            "date" : "2026-07-09 10:15:12 +0200",
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.079367533586054
+          },
+          {
+            "qty" : 5.3973386031501711,
+            "date" : "2026-07-09 10:16:12 +0200",
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 6.2107748008244679,
+            "date" : "2026-07-09 10:17:12 +0200"
+          },
+          {
+            "qty" : 6.8558113700151164,
+            "date" : "2026-07-09 10:18:12 +0200",
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 6.8558412751241686,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:19:12 +0200",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-07-09 10:20:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "qty" : 5.8008058204450688
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 6.4003886375311714,
+            "units" : "kJ",
+            "date" : "2026-07-09 10:21:12 +0200"
+          },
+          {
+            "qty" : 5.9048019411180261,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "date" : "2026-07-09 10:22:12 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.3973820147120017,
+            "units" : "kJ",
+            "date" : "2026-07-09 10:23:12 +0200"
+          },
+          {
+            "qty" : 5.1314645633036031,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "date" : "2026-07-09 10:24:12 +0200"
+          },
+          {
+            "qty" : 5.8217669437554118,
+            "units" : "kJ",
+            "date" : "2026-07-09 10:25:12 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 5.8227814881886069,
+            "units" : "kJ",
+            "date" : "2026-07-09 10:26:12 +0200"
+          },
+          {
+            "date" : "2026-07-09 10:27:12 +0200",
+            "qty" : 6.9352405514570599,
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-09 10:28:12 +0200",
+            "qty" : 6.9353251819954274,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 6.935359926543101,
+            "date" : "2026-07-09 10:29:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-07-09 10:30:12 +0200",
+            "units" : "kJ",
+            "qty" : 6.9354310423332057,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "qty" : 6.9354949179327932,
+            "date" : "2026-07-09 10:31:12 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 6.9355354754544694,
+            "date" : "2026-07-09 10:32:12 +0200",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-07-09 10:33:12 +0200",
+            "units" : "kJ",
+            "qty" : 6.9355541764484006,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-09 10:34:12 +0200",
+            "qty" : 6.9355807504345419,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-07-09 10:35:12 +0200",
+            "qty" : 6.9356115314181164,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "qty" : 6.9356332471927669,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:36:12 +0200",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 6.9356324893223062,
+            "units" : "kJ",
+            "date" : "2026-07-09 10:37:12 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "qty" : 6.9356538657802282,
+            "date" : "2026-07-09 10:38:12 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "date" : "2026-07-09 10:39:12 +0200",
+            "qty" : 6.9356807248437722
+          },
+          {
+            "units" : "kJ",
+            "qty" : 6.9356907232782898,
+            "date" : "2026-07-09 10:40:12 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-07-09 10:41:12 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 6.9356924665574713
+          },
+          {
+            "units" : "kJ",
+            "qty" : 5.183181440819399,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:42:12 +0200"
+          }
+        ],
+        "humidity" : {
+          "units" : "%",
+          "qty" : 66
+        },
+        "heartRate" : {
+          "max" : {
+            "qty" : 155,
+            "units" : "count\/min"
+          },
+          "avg" : {
+            "units" : "count\/min",
+            "qty" : 105.50128191889453
+          },
+          "min" : {
+            "qty" : 80,
+            "units" : "count\/min"
+          }
+        },
+        "heartRateRecovery" : [
+          {
+            "date" : "2026-07-09 10:42:29 +0200",
+            "Max" : 120,
+            "Min" : 120,
+            "Avg" : 120,
+            "units" : "count\/min",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:42:38 +0200",
+            "Avg" : 119,
+            "units" : "count\/min",
+            "Max" : 119,
+            "Min" : 119
+          },
+          {
+            "Min" : 118,
+            "units" : "count\/min",
+            "Avg" : 118,
+            "date" : "2026-07-09 10:42:43 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "Max" : 118
+          },
+          {
+            "date" : "2026-07-09 10:42:44 +0200",
+            "Avg" : 117,
+            "source" : "Hardik’s Apple Watch",
+            "Max" : 117,
+            "Min" : 117,
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 116,
+            "units" : "count\/min",
+            "Max" : 116,
+            "Avg" : 116,
+            "date" : "2026-07-09 10:42:49 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-09 10:42:56 +0200",
+            "units" : "count\/min",
+            "Min" : 117,
+            "source" : "Hardik’s Apple Watch",
+            "Max" : 117,
+            "Avg" : 117
+          },
+          {
+            "Max" : 119,
+            "Avg" : 119,
+            "units" : "count\/min",
+            "date" : "2026-07-09 10:42:59 +0200",
+            "Min" : 119,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "Max" : 120,
+            "Min" : 120,
+            "Avg" : 120,
+            "units" : "count\/min",
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:43:04 +0200"
+          },
+          {
+            "Max" : 120,
+            "date" : "2026-07-09 10:43:09 +0200",
+            "Min" : 120,
+            "source" : "Hardik’s Apple Watch",
+            "Avg" : 120,
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 120,
+            "Min" : 120,
+            "date" : "2026-07-09 10:43:18 +0200",
+            "units" : "count\/min",
+            "source" : "Hardik’s Apple Watch",
+            "Avg" : 120
+          },
+          {
+            "date" : "2026-07-09 10:43:23 +0200",
+            "Min" : 122,
+            "Avg" : 122,
+            "Max" : 122,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 122,
+            "Min" : 122,
+            "Avg" : 122,
+            "date" : "2026-07-09 10:43:24 +0200",
+            "units" : "count\/min",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "units" : "count\/min",
+            "Max" : 120,
+            "Min" : 120,
+            "Avg" : 120,
+            "date" : "2026-07-09 10:43:29 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-09 10:43:38 +0200",
+            "Min" : 116,
+            "Max" : 116,
+            "Avg" : 116,
+            "source" : "Hardik’s Apple Watch",
+            "units" : "count\/min"
+          },
+          {
+            "units" : "count\/min",
+            "Max" : 112,
+            "Min" : 112,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:43:43 +0200",
+            "Avg" : 112
+          },
+          {
+            "Max" : 113,
+            "date" : "2026-07-09 10:43:47 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "Avg" : 113,
+            "Min" : 113,
+            "units" : "count\/min"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "Max" : 115,
+            "units" : "count\/min",
+            "Min" : 115,
+            "Avg" : 115,
+            "date" : "2026-07-09 10:43:49 +0200"
+          },
+          {
+            "Avg" : 114,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-07-09 10:43:54 +0200",
+            "Max" : 114,
+            "Min" : 114,
+            "units" : "count\/min"
+          },
+          {
+            "date" : "2026-07-09 10:44:03 +0200",
+            "Avg" : 112,
+            "Max" : 112,
+            "Min" : 112,
+            "units" : "count\/min",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-07-09 10:44:05 +0200",
+            "Max" : 113,
+            "Avg" : 113,
+            "source" : "Hardik’s Apple Watch",
+            "Min" : 113,
+            "units" : "count\/min"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "Avg" : 114,
+            "date" : "2026-07-09 10:44:09 +0200",
+            "Max" : 114,
+            "Min" : 114,
+            "units" : "count\/min"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "units" : "count\/min",
+            "Max" : 117,
+            "Avg" : 117,
+            "Min" : 117,
+            "date" : "2026-07-09 10:44:16 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "units" : "count\/min",
+            "Min" : 120,
+            "Avg" : 120,
+            "Max" : 120,
+            "date" : "2026-07-09 10:44:23 +0200"
+          }
+        ],
+        "stepCadence" : {
+          "qty" : 15.762085637689877,
+          "units" : "count\/min"
         },
         "metadata" : {
 
         },
-        "activeEnergyBurned" : {
-          "qty" : 1075.9785961019452,
-          "units" : "kJ"
-        },
-        "basalEnergy" : [
-          {
-            "date" : "2026-06-28 10:56:03 +0200",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 3.3930434886876921
-          },
-          {
-            "qty" : 5.091742337158685,
-            "date" : "2026-06-28 10:57:03 +0200",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-06-28 10:58:03 +0200",
-            "qty" : 5.0851656798995508,
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-06-28 10:59:03 +0200",
-            "qty" : 5.0891407514585474,
-            "units" : "kJ"
-          },
-          {
-            "qty" : 5.1060368704757275,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-06-28 11:00:03 +0200",
-            "units" : "kJ"
-          },
-          {
-            "date" : "2026-06-28 11:01:03 +0200",
-            "source" : "Hardik’s iPhone",
-            "qty" : 5.1008425141955858,
-            "units" : "kJ"
-          },
-          {
-            "date" : "2026-06-28 11:02:03 +0200",
-            "qty" : 5.1014935162341537,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "units" : "kJ",
-            "qty" : 5.1015060967706258,
-            "date" : "2026-06-28 11:03:03 +0200",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-06-28 11:04:03 +0200",
-            "qty" : 5.0932501874019307
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 5.1017772488047388,
-            "date" : "2026-06-28 11:05:03 +0200"
-          },
-          {
-            "date" : "2026-06-28 11:06:03 +0200",
-            "units" : "kJ",
-            "qty" : 5.0976327004275461,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-06-28 11:07:03 +0200",
-            "units" : "kJ",
-            "qty" : 5.0805215453913251,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 2.2967662359444927,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "units" : "kJ",
-            "date" : "2026-06-28 11:08:03 +0200"
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-06-28 11:09:03 +0200",
-            "qty" : 5.1761021309274069,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "units" : "kJ",
-            "qty" : 5.1761021309274078,
-            "date" : "2026-06-28 11:10:03 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-06-28 11:11:03 +0200",
-            "qty" : 5.1761021309274069
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 5.1761021309274069,
-            "date" : "2026-06-28 11:12:03 +0200",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "units" : "kJ",
-            "date" : "2026-06-28 11:13:03 +0200",
-            "qty" : 5.1761021309274069
-          },
-          {
-            "date" : "2026-06-28 11:14:03 +0200",
-            "qty" : 5.1761021309274069,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "qty" : 5.1761021309274069,
-            "date" : "2026-06-28 11:15:03 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "units" : "kJ",
-            "date" : "2026-06-28 11:16:03 +0200",
-            "qty" : 5.1761021309274069
-          },
-          {
-            "date" : "2026-06-28 11:17:03 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 5.1761021309274069,
-            "units" : "kJ"
-          },
-          {
-            "qty" : 5.1761021309274069,
-            "units" : "kJ",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-06-28 11:18:03 +0200"
-          },
-          {
-            "qty" : 5.176102130927406,
-            "units" : "kJ",
-            "date" : "2026-06-28 11:19:03 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "qty" : 5.1761021309274069,
-            "units" : "kJ",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-06-28 11:20:03 +0200"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 5.1761021309274069,
-            "date" : "2026-06-28 11:21:03 +0200"
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-06-28 11:22:03 +0200",
-            "qty" : 5.1761021309274069,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-06-28 11:23:03 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 5.1761021309274069,
-            "units" : "kJ"
-          },
-          {
-            "units" : "kJ",
-            "qty" : 5.176102130927406,
-            "date" : "2026-06-28 11:24:03 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-06-28 11:25:03 +0200",
-            "qty" : 5.176102130927406,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "units" : "kJ",
-            "date" : "2026-06-28 11:26:03 +0200",
-            "qty" : 5.176102130927406
-          },
-          {
-            "date" : "2026-06-28 11:27:03 +0200",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 5.176102130927406
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-06-28 11:28:03 +0200",
-            "units" : "kJ",
-            "qty" : 5.1761021309274051
-          },
-          {
-            "qty" : 5.1761021309274051,
-            "units" : "kJ",
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-06-28 11:29:03 +0200"
-          },
-          {
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "qty" : 5.1761021309274051,
-            "date" : "2026-06-28 11:30:03 +0200",
-            "units" : "kJ"
-          }
-        ],
-        "maxHeartRate" : {
-          "qty" : 140,
-          "units" : "count\/min"
-        },
-        "start" : "2026-06-28 10:46:03 +0200",
-        "heartRateData" : [
-          {
-            "date" : "2026-06-28 10:46:03 +0200",
-            "Min" : 79,
-            "Avg" : 108.09893729349086,
-            "Max" : 140,
-            "source" : "Bluetooth Device",
-            "units" : "count\/min"
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-06-28 10:47:03 +0200",
-            "Min" : 112,
-            "Max" : 132,
-            "Avg" : 124.13045151593857,
-            "source" : "Bluetooth Device"
-          },
-          {
-            "Avg" : 102.47315314756632,
-            "source" : "Bluetooth Device",
-            "units" : "count\/min",
-            "Min" : 89,
-            "date" : "2026-06-28 10:48:03 +0200",
-            "Max" : 113
-          },
-          {
-            "Avg" : 103.91670171618046,
-            "Min" : 96,
-            "units" : "count\/min",
-            "date" : "2026-06-28 10:49:03 +0200",
-            "source" : "Bluetooth Device",
-            "Max" : 110
-          },
-          {
-            "Max" : 139,
-            "Min" : 80,
-            "Avg" : 108.50149515746908,
-            "units" : "count\/min",
-            "date" : "2026-06-28 10:50:03 +0200",
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "date" : "2026-06-28 10:51:03 +0200",
-            "Max" : 129,
-            "Min" : 112,
-            "Avg" : 120.51081356941587,
-            "source" : "Bluetooth Device|Gabit",
-            "units" : "count\/min"
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-06-28 10:52:03 +0200",
-            "Min" : 102,
-            "Max" : 109,
-            "Avg" : 105.22771118276259,
-            "units" : "count\/min"
-          },
-          {
-            "date" : "2026-06-28 10:53:03 +0200",
-            "Avg" : 105.55103728865781,
-            "Max" : 110,
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 101,
-            "units" : "count\/min"
-          },
-          {
-            "Max" : 133,
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 82,
-            "Avg" : 107.00009991262571,
-            "units" : "count\/min",
-            "date" : "2026-06-28 10:54:03 +0200"
-          },
-          {
-            "units" : "count\/min",
-            "Max" : 136,
-            "Min" : 122.99999999999999,
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-06-28 10:55:03 +0200",
-            "Avg" : 127.54459261736461
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "units" : "count\/min",
-            "Max" : 125.00000000000001,
-            "date" : "2026-06-28 10:56:03 +0200",
-            "Avg" : 116.29998949782386,
-            "Min" : 105
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 108,
-            "date" : "2026-06-28 10:57:03 +0200",
-            "Avg" : 104.84691463103003,
-            "units" : "count\/min",
-            "Min" : 99
-          },
-          {
-            "date" : "2026-06-28 10:58:03 +0200",
-            "Avg" : 120.22001427419188,
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 106,
-            "Max" : 134,
-            "units" : "count\/min"
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-06-28 10:59:03 +0200",
-            "Min" : 112,
-            "Max" : 135,
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 120.01005042883017
-          },
-          {
-            "Avg" : 105.48515855541179,
-            "Max" : 114,
-            "Min" : 98,
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-06-28 11:00:03 +0200",
-            "units" : "count\/min"
-          },
-          {
-            "units" : "count\/min",
-            "Min" : 94,
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 100,
-            "date" : "2026-06-28 11:01:03 +0200",
-            "Avg" : 96.628197237795177
-          },
-          {
-            "Max" : 97,
-            "Min" : 89,
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 92.870969376253413,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:02:03 +0200"
-          },
-          {
-            "Avg" : 110.01981768496874,
-            "Max" : 127,
-            "Min" : 102,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:03:03 +0200",
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "Min" : 94,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:04:03 +0200",
-            "Max" : 109,
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 100.57000197605298
-          },
-          {
-            "Max" : 104,
-            "Min" : 92,
-            "date" : "2026-06-28 11:05:03 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 97.661389162147202,
-            "units" : "count\/min"
-          },
-          {
-            "Avg" : 110.00981725363505,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:06:03 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 128,
-            "Min" : 100
-          },
-          {
-            "Min" : 104,
-            "Avg" : 107.77083647311804,
-            "date" : "2026-06-28 11:07:03 +0200",
-            "units" : "count\/min",
-            "Max" : 114,
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "date" : "2026-06-28 11:08:03 +0200",
-            "units" : "count\/min",
-            "Min" : 88,
-            "Avg" : 97.132663552105797,
-            "Max" : 110,
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "Max" : 105,
-            "units" : "count\/min",
-            "Min" : 84,
-            "Avg" : 90.735290180457227,
-            "date" : "2026-06-28 11:09:03 +0200",
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-06-28 11:10:03 +0200",
-            "Min" : 89,
-            "Avg" : 107.19920448385436,
-            "units" : "count\/min",
-            "Max" : 127
-          },
-          {
-            "Min" : 86,
-            "Max" : 107,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:11:03 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 94.17646994502897
-          },
-          {
-            "Min" : 87,
-            "Max" : 101,
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 90.47000629678476,
-            "date" : "2026-06-28 11:12:03 +0200",
-            "units" : "count\/min"
-          },
-          {
-            "Avg" : 87.120001757710426,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:13:03 +0200",
-            "Max" : 94,
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 85
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-06-28 11:14:03 +0200",
-            "units" : "count\/min",
-            "Min" : 85,
-            "Max" : 134,
-            "Avg" : 106.91176992433569
-          },
-          {
-            "date" : "2026-06-28 11:15:03 +0200",
-            "units" : "count\/min",
-            "Min" : 91,
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 120.86339489388578,
-            "Max" : 136
-          },
-          {
-            "Max" : 118,
-            "date" : "2026-06-28 11:16:03 +0200",
-            "Min" : 105,
-            "Avg" : 110.15788873175349,
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:17:03 +0200",
-            "Avg" : 100.57425144531238,
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 105,
-            "Min" : 97
-          },
-          {
-            "Avg" : 107.8969093976137,
-            "Max" : 113,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:18:03 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 100
-          },
-          {
-            "Max" : 125.00000000000001,
-            "Min" : 106,
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-06-28 11:19:03 +0200",
-            "Avg" : 114.53399782370714,
-            "units" : "count\/min"
-          },
-          {
-            "Min" : 98,
-            "date" : "2026-06-28 11:20:03 +0200",
-            "Avg" : 102.87656785428807,
-            "units" : "count\/min",
-            "Max" : 107,
-            "source" : "Bluetooth Device|Gabit"
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-06-28 11:21:03 +0200",
-            "Avg" : 110.73001386008453,
-            "units" : "count\/min",
-            "Max" : 137,
-            "Min" : 101
-          },
-          {
-            "units" : "count\/min",
-            "Avg" : 125.54166308946846,
-            "Max" : 134,
-            "Min" : 114,
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-06-28 11:22:03 +0200"
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:23:03 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 104,
-            "Avg" : 110.73959118062027,
-            "Max" : 116
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:24:03 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 101,
-            "Max" : 106,
-            "Avg" : 103.59804542509679
-          },
-          {
-            "Min" : 95,
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 100.45000047159299,
-            "Max" : 103,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:25:03 +0200"
-          },
-          {
-            "Avg" : 107.97001638478375,
-            "date" : "2026-06-28 11:26:03 +0200",
-            "units" : "count\/min",
-            "Max" : 125.00000000000001,
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 98
-          },
-          {
-            "Max" : 123.99999999999999,
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-06-28 11:27:03 +0200",
-            "units" : "count\/min",
-            "Avg" : 110.86999448389135,
-            "Min" : 101
-          },
-          {
-            "Max" : 114,
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 102,
-            "Avg" : 106.44969868906239,
-            "date" : "2026-06-28 11:28:03 +0200"
-          },
-          {
-            "Avg" : 101.20864627575182,
-            "date" : "2026-06-28 11:29:03 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 106,
-            "units" : "count\/min",
-            "Min" : 98
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 106,
-            "Min" : 99,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:30:03 +0200",
-            "Avg" : 100.44998225381408
-          }
-        ],
-        "heartRate" : {
-          "avg" : {
-            "units" : "count\/min",
-            "qty" : 106.75564929674967
-          },
-          "min" : {
-            "qty" : 79,
-            "units" : "count\/min"
-          },
-          "max" : {
-            "units" : "count\/min",
-            "qty" : 140
-          }
-        },
-        "stepCount" : [
-          {
-            "date" : "2026-06-28 10:47:03 +0200",
-            "units" : "count",
-            "qty" : 3.7188737537068532,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "units" : "count",
-            "date" : "2026-06-28 10:48:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 8.2970297338365882
-          },
-          {
-            "units" : "count",
-            "qty" : 8.2970297338365882,
-            "date" : "2026-06-28 10:49:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "qty" : 8.2970297338365882,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count",
-            "date" : "2026-06-28 10:50:03 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-06-28 10:51:03 +0200",
-            "qty" : 8.2970297338365882,
-            "units" : "count"
-          },
-          {
-            "date" : "2026-06-28 10:52:03 +0200",
-            "qty" : 8.2970297338365882,
-            "units" : "count",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "date" : "2026-06-28 10:53:03 +0200",
-            "qty" : 8.2970297338365882,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count",
-            "date" : "2026-06-28 10:54:03 +0200",
-            "qty" : 8.2970297338365882
-          },
-          {
-            "qty" : 8.2019181094370239,
-            "units" : "count",
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-06-28 10:55:03 +0200"
-          },
-          {
-            "qty" : 1.4054827812544779,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count",
-            "date" : "2026-06-28 11:06:03 +0200"
-          },
-          {
-            "units" : "count",
-            "date" : "2026-06-28 11:07:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 9.6499082076938656
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 9.6499082076938638,
-            "date" : "2026-06-28 11:08:03 +0200",
-            "units" : "count"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-06-28 11:09:03 +0200",
-            "qty" : 9.6499082076938638,
-            "units" : "count"
-          },
-          {
-            "date" : "2026-06-28 11:10:03 +0200",
-            "qty" : 9.6499082076938638,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count"
-          },
-          {
-            "units" : "count",
-            "date" : "2026-06-28 11:11:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 9.6499082076938638
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 9.6499082076938638,
-            "date" : "2026-06-28 11:12:03 +0200",
-            "units" : "count"
-          },
-          {
-            "date" : "2026-06-28 11:13:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count",
-            "qty" : 9.6499082076938656
-          },
-          {
-            "qty" : 9.6499082076938674,
-            "date" : "2026-06-28 11:14:03 +0200",
-            "units" : "count",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "units" : "count",
-            "qty" : 9.3952515571946034,
-            "date" : "2026-06-28 11:15:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "units" : "count",
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-06-28 11:16:03 +0200",
-            "qty" : 61.634453852971397
-          },
-          {
-            "qty" : 21.999645492091524,
-            "date" : "2026-06-28 11:17:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count"
-          },
-          {
-            "date" : "2026-06-28 11:18:03 +0200",
-            "units" : "count",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 41.122921077813416
-          },
-          {
-            "date" : "2026-06-28 11:19:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count",
-            "qty" : 41.122921077813416
-          },
-          {
-            "qty" : 41.122921077813416,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count",
-            "date" : "2026-06-28 11:20:03 +0200"
-          },
-          {
-            "units" : "count",
-            "qty" : 41.122921077813409,
-            "date" : "2026-06-28 11:21:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-06-28 11:22:03 +0200",
-            "qty" : 41.122921077813409,
-            "units" : "count"
-          },
-          {
-            "units" : "count",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 41.122921077813416,
-            "date" : "2026-06-28 11:23:03 +0200"
-          },
-          {
-            "date" : "2026-06-28 11:24:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count",
-            "qty" : 41.122921077813416
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count",
-            "qty" : 41.122921077813416,
-            "date" : "2026-06-28 11:25:03 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "count",
-            "date" : "2026-06-28 11:26:03 +0200",
-            "qty" : 17.016985885401127
-          },
-          {
-            "units" : "count",
-            "qty" : 66.26602603554764,
-            "date" : "2026-06-28 11:27:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 102.14781149975433,
-            "date" : "2026-06-28 11:28:03 +0200",
-            "units" : "count"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-06-28 11:29:03 +0200",
-            "units" : "count",
-            "qty" : 102.14781149975433
-          },
-          {
-            "units" : "count",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 102.14781149975433,
-            "date" : "2026-06-28 11:30:03 +0200"
-          }
-        ],
-        "temperature" : {
-          "units" : "degC",
-          "qty" : 32.227088928220212
-        },
-        "avgHeartRate" : {
-          "units" : "count\/min",
-          "qty" : 106.75564929674967
-        },
-        "name" : "Traditional Strength Training",
-        "humidity" : {
-          "qty" : 40,
-          "units" : "%"
-        },
-        "id" : "7C67A9CD-82FC-4673-BB60-B5495865BB69",
-        "heartRateRecovery" : [
-          {
-            "Max" : 104,
-            "date" : "2026-06-28 11:30:33 +0200",
-            "source" : "Bluetooth Device",
-            "Min" : 104,
-            "Avg" : 104,
-            "units" : "count\/min"
-          },
-          {
-            "Max" : 104,
-            "date" : "2026-06-28 11:30:36 +0200",
-            "source" : "Bluetooth Device",
-            "Avg" : 104,
-            "units" : "count\/min",
-            "Min" : 104
-          },
-          {
-            "date" : "2026-06-28 11:30:39 +0200",
-            "Min" : 103,
-            "Avg" : 103,
-            "Max" : 103,
-            "units" : "count\/min",
-            "source" : "Bluetooth Device"
-          },
-          {
-            "source" : "Bluetooth Device",
-            "date" : "2026-06-28 11:30:44 +0200",
-            "Avg" : 101,
-            "units" : "count\/min",
-            "Min" : 101,
-            "Max" : 101
-          },
-          {
-            "source" : "Bluetooth Device",
-            "Min" : 103,
-            "Max" : 103,
-            "date" : "2026-06-28 11:30:49 +0200",
-            "units" : "count\/min",
-            "Avg" : 103
-          },
-          {
-            "Max" : 103,
-            "date" : "2026-06-28 11:30:54 +0200",
-            "source" : "Bluetooth Device",
-            "Min" : 103,
-            "Avg" : 103,
-            "units" : "count\/min"
-          },
-          {
-            "Max" : 105,
-            "source" : "Bluetooth Device",
-            "Avg" : 105,
-            "date" : "2026-06-28 11:30:59 +0200",
-            "Min" : 105,
-            "units" : "count\/min"
-          },
-          {
-            "date" : "2026-06-28 11:31:04 +0200",
-            "Avg" : 105,
-            "source" : "Bluetooth Device",
-            "units" : "count\/min",
-            "Min" : 105,
-            "Max" : 105
-          },
-          {
-            "Max" : 106,
-            "source" : "Bluetooth Device",
-            "Avg" : 106,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:31:09 +0200",
-            "Min" : 106
-          },
-          {
-            "Min" : 109,
-            "date" : "2026-06-28 11:31:14 +0200",
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 109,
-            "Max" : 109
-          },
-          {
-            "Avg" : 110,
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 110,
-            "date" : "2026-06-28 11:31:16 +0200",
-            "Max" : 110,
-            "units" : "count\/min"
-          },
-          {
-            "date" : "2026-06-28 11:31:19 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 111,
-            "Min" : 111,
-            "Avg" : 111,
-            "units" : "count\/min"
-          },
-          {
-            "Avg" : 105,
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 105,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:31:26 +0200",
-            "Min" : 105
-          },
-          {
-            "date" : "2026-06-28 11:31:31 +0200",
-            "Avg" : 104,
-            "Min" : 104,
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 104
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "Max" : 102,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:31:38 +0200",
-            "Avg" : 102,
-            "Min" : 102
-          },
-          {
-            "Min" : 102,
-            "Avg" : 102,
-            "units" : "count\/min",
-            "Max" : 102,
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-06-28 11:31:39 +0200"
-          },
-          {
-            "date" : "2026-06-28 11:31:48 +0200",
-            "Max" : 102,
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 102,
-            "units" : "count\/min",
-            "Min" : 102
-          },
-          {
-            "date" : "2026-06-28 11:31:49 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 103,
-            "units" : "count\/min",
-            "Avg" : 103,
-            "Max" : 103
-          },
-          {
-            "Max" : 107,
-            "Min" : 107,
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 107,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:31:58 +0200"
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 107,
-            "Avg" : 107,
-            "Max" : 107,
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:31:59 +0200"
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-06-28 11:32:06 +0200",
-            "Max" : 109,
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 109,
-            "Min" : 109
-          },
-          {
-            "units" : "count\/min",
-            "Min" : 108,
-            "date" : "2026-06-28 11:32:09 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 108,
-            "Max" : 108
-          },
-          {
-            "source" : "Bluetooth Device|Gabit",
-            "Avg" : 104,
-            "Max" : 104,
-            "date" : "2026-06-28 11:32:14 +0200",
-            "units" : "count\/min",
-            "Min" : 104
-          },
-          {
-            "Avg" : 107,
-            "Max" : 107,
-            "date" : "2026-06-28 11:32:19 +0200",
-            "source" : "Bluetooth Device|Gabit",
-            "Min" : 107,
-            "units" : "count\/min"
-          },
-          {
-            "units" : "count\/min",
-            "source" : "Bluetooth Device|Gabit",
-            "date" : "2026-06-28 11:32:28 +0200",
-            "Min" : 107,
-            "Max" : 107,
-            "Avg" : 107
-          }
-        ],
-        "stepCadence" : {
-          "units" : "count\/min",
-          "qty" : 21.613238707424678
-        },
-        "activeEnergy" : [
-          {
-            "date" : "2026-06-28 10:46:03 +0200",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 26.872944771298648
-          },
-          {
-            "date" : "2026-06-28 10:47:03 +0200",
-            "units" : "kJ",
-            "qty" : 36.710929183788259,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 21.429766250965884,
-            "units" : "kJ",
-            "date" : "2026-06-28 10:48:03 +0200"
-          },
-          {
-            "qty" : 20.877925941054222,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "date" : "2026-06-28 10:49:03 +0200"
-          },
-          {
-            "qty" : 34.825558729565124,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-06-28 10:50:03 +0200"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 30.53051835257979,
-            "date" : "2026-06-28 10:51:03 +0200"
-          },
-          {
-            "date" : "2026-06-28 10:52:03 +0200",
-            "units" : "kJ",
-            "qty" : 21.207461132253233,
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "qty" : 20.395677015636213,
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-06-28 10:53:03 +0200",
-            "units" : "kJ"
-          },
-          {
-            "qty" : 33.14289518734352,
-            "date" : "2026-06-28 10:54:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "date" : "2026-06-28 10:55:03 +0200",
-            "qty" : 40.581840974613407
-          },
-          {
-            "date" : "2026-06-28 10:56:03 +0200",
-            "qty" : 22.715290332630644,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ"
-          },
-          {
-            "date" : "2026-06-28 10:57:03 +0200",
-            "qty" : 20.403880975194955,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 32.393211161023949,
-            "date" : "2026-06-28 10:58:03 +0200",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "date" : "2026-06-28 10:59:03 +0200",
-            "qty" : 25.602989596684722
-          },
-          {
-            "date" : "2026-06-28 11:00:03 +0200",
-            "qty" : 18.97205873464199,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 18.943318254610531,
-            "date" : "2026-06-28 11:01:03 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "date" : "2026-06-28 11:02:03 +0200",
-            "qty" : 19.057681690426147
-          },
-          {
-            "qty" : 24.712353950149261,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "date" : "2026-06-28 11:03:03 +0200"
-          },
-          {
-            "qty" : 19.067533195549469,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "date" : "2026-06-28 11:04:03 +0200"
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-06-28 11:05:03 +0200",
-            "qty" : 19.049489023828837,
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "qty" : 27.066009943408901,
-            "date" : "2026-06-28 11:06:03 +0200",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "qty" : 20.572418636594232,
-            "date" : "2026-06-28 11:07:03 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-06-28 11:08:03 +0200",
-            "qty" : 20.574245558869169,
-            "units" : "kJ"
-          },
-          {
-            "qty" : 19.623857951740973,
-            "date" : "2026-06-28 11:09:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ"
-          },
-          {
-            "qty" : 25.811564388814723,
-            "units" : "kJ",
-            "date" : "2026-06-28 11:10:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "qty" : 18.896570703905375,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "date" : "2026-06-28 11:11:03 +0200"
-          },
-          {
-            "date" : "2026-06-28 11:12:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 18.889119101853638,
-            "units" : "kJ"
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-06-28 11:13:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 18.88507402255744
-          },
-          {
-            "date" : "2026-06-28 11:14:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "qty" : 26.855214020529612
-          },
-          {
-            "date" : "2026-06-28 11:15:03 +0200",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 29.753051893225962
-          },
-          {
-            "date" : "2026-06-28 11:16:03 +0200",
-            "qty" : 19.292499769523129,
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-06-28 11:17:03 +0200",
-            "qty" : 20.745837839175771,
-            "units" : "kJ"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 21.502890769867964,
-            "date" : "2026-06-28 11:18:03 +0200"
-          },
-          {
-            "qty" : 27.446729733543847,
-            "units" : "kJ",
-            "date" : "2026-06-28 11:19:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "units" : "kJ",
-            "qty" : 21.725229997199651,
-            "date" : "2026-06-28 11:20:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "date" : "2026-06-28 11:21:03 +0200",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 30.690418259608339
-          },
-          {
-            "qty" : 34.779128012797258,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-06-28 11:22:03 +0200"
-          },
-          {
-            "qty" : 24.839231758181121,
-            "date" : "2026-06-28 11:23:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ"
-          },
-          {
-            "date" : "2026-06-28 11:24:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "qty" : 21.331704198701225
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "units" : "kJ",
-            "date" : "2026-06-28 11:25:03 +0200",
-            "qty" : 20.069067507549654
-          },
-          {
-            "units" : "kJ",
-            "qty" : 24.317125955941368,
-            "date" : "2026-06-28 11:26:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "qty" : 27.538948150017553,
-            "units" : "kJ",
-            "date" : "2026-06-28 11:27:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit"
-          },
-          {
-            "date" : "2026-06-28 11:28:03 +0200",
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 25.316356134348915,
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone|Gabit",
-            "qty" : 22.046194931848369,
-            "date" : "2026-06-28 11:29:03 +0200",
-            "units" : "kJ"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone|Gabit",
-            "date" : "2026-06-28 11:30:03 +0200",
-            "qty" : 6.2971463063570159
-          }
-        ]
+        "id" : "83DAF68A-D7FB-490F-88EB-F848C86CE7E0",
+        "name" : "Traditional Strength Training"
       }
     ]
   }
