@@ -2,34 +2,11 @@
   "data" : {
     "metrics" : [
       {
-        "units" : "g",
         "data" : [
           {
             "source" : "MyFitnessPal",
             "date" : "2026-07-20 18:20:00 +0200",
-            "qty" : 57.799995422363281
-          },
-          {
-            "qty" : 109.19999694824219,
-            "source" : "MyFitnessPal",
-            "date" : "2026-07-20 20:56:00 +0200"
-          },
-          {
-            "source" : "MyFitnessPal",
-            "date" : "2026-07-21 18:20:00 +0200",
-            "qty" : 77.481369018554688
-          }
-        ],
-        "name" : "carbohydrates"
-      },
-      {
-        "name" : "cholesterol",
-        "units" : "mg",
-        "data" : [
-          {
-            "source" : "MyFitnessPal",
-            "qty" : 0,
-            "date" : "2026-07-20 18:20:00 +0200"
+            "qty" : 0
           },
           {
             "date" : "2026-07-20 20:56:00 +0200",
@@ -37,25 +14,27 @@
             "source" : "MyFitnessPal"
           },
           {
-            "date" : "2026-07-21 18:20:00 +0200",
             "qty" : 0,
+            "date" : "2026-07-21 18:20:00 +0200",
             "source" : "MyFitnessPal"
           }
-        ]
+        ],
+        "units" : "mg",
+        "name" : "cholesterol"
       },
       {
         "name" : "calcium",
         "units" : "mg",
         "data" : [
           {
-            "date" : "2026-07-20 18:20:00 +0200",
             "source" : "MyFitnessPal",
+            "date" : "2026-07-20 18:20:00 +0200",
             "qty" : 1050
           },
           {
             "qty" : 0,
-            "source" : "MyFitnessPal",
-            "date" : "2026-07-20 20:56:00 +0200"
+            "date" : "2026-07-20 20:56:00 +0200",
+            "source" : "MyFitnessPal"
           },
           {
             "qty" : 1058.4745788574219,
@@ -65,12 +44,34 @@
         ]
       },
       {
-        "name" : "dietary_energy",
         "data" : [
           {
+            "source" : "MyFitnessPal",
             "date" : "2026-07-20 18:20:00 +0200",
-            "qty" : 3359.5428510742186,
+            "qty" : 57.799995422363281
+          },
+          {
+            "date" : "2026-07-20 20:56:00 +0200",
+            "qty" : 109.19999694824219,
             "source" : "MyFitnessPal"
+          },
+          {
+            "qty" : 77.481369018554688,
+            "source" : "MyFitnessPal",
+            "date" : "2026-07-21 18:20:00 +0200"
+          }
+        ],
+        "name" : "carbohydrates",
+        "units" : "g"
+      },
+      {
+        "name" : "dietary_energy",
+        "units" : "kJ",
+        "data" : [
+          {
+            "qty" : 3359.5428510742186,
+            "source" : "MyFitnessPal",
+            "date" : "2026-07-20 18:20:00 +0200"
           },
           {
             "date" : "2026-07-20 20:56:00 +0200",
@@ -78,33 +79,32 @@
             "source" : "MyFitnessPal"
           },
           {
-            "date" : "2026-07-21 18:20:00 +0200",
             "source" : "MyFitnessPal",
+            "date" : "2026-07-21 18:20:00 +0200",
             "qty" : 3524.3215600585936
           }
-        ],
-        "units" : "kJ"
+        ]
       },
       {
+        "name" : "fiber",
+        "units" : "g",
         "data" : [
           {
-            "date" : "2026-07-20 18:20:00 +0200",
             "qty" : 2.25,
-            "source" : "MyFitnessPal"
+            "source" : "MyFitnessPal",
+            "date" : "2026-07-20 18:20:00 +0200"
           },
           {
-            "date" : "2026-07-20 20:56:00 +0200",
             "source" : "MyFitnessPal",
-            "qty" : 0
+            "qty" : 0,
+            "date" : "2026-07-20 20:56:00 +0200"
           },
           {
             "date" : "2026-07-21 18:20:00 +0200",
             "source" : "MyFitnessPal",
             "qty" : 4.7923741340637207
           }
-        ],
-        "name" : "fiber",
-        "units" : "g"
+        ]
       },
       {
         "name" : "flights_climbed",
@@ -117,12 +117,14 @@
           },
           {
             "date" : "2026-07-21 11:40:00 +0200",
-            "qty" : 1.476745027491265,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "qty" : 1.476745027491265
           }
         ]
       },
       {
+        "name" : "headphone_audio_exposure",
+        "units" : "dBASPL",
         "data" : [
           {
             "date" : "2026-07-20 17:59:00 +0200",
@@ -140,24 +142,24 @@
             "source" : "Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-20 18:24:00 +0200",
             "qty" : 53.100553572242994,
-            "date" : "2026-07-20 18:24:00 +0200"
-          },
-          {
-            "date" : "2026-07-20 18:26:00 +0200",
-            "qty" : 51.144405364990234,
             "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-07-20 18:27:00 +0200",
-            "qty" : 53.450924721482821,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-20 18:37:00 +0200",
             "source" : "Hardik’s iPhone",
-            "qty" : 54.656050085971358
+            "date" : "2026-07-20 18:26:00 +0200",
+            "qty" : 51.144405364990234
+          },
+          {
+            "qty" : 53.450924721482821,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-20 18:27:00 +0200"
+          },
+          {
+            "qty" : 54.656050085971358,
+            "date" : "2026-07-20 18:37:00 +0200",
+            "source" : "Hardik’s iPhone"
           },
           {
             "qty" : 50.410817723706373,
@@ -165,26 +167,23 @@
             "date" : "2026-07-20 18:52:00 +0200"
           },
           {
-            "source" : "Hardik’s iPhone",
             "date" : "2026-07-20 18:54:00 +0200",
-            "qty" : 47.484153747558594
+            "qty" : 47.484153747558594,
+            "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 60.633915054284692,
             "date" : "2026-07-20 18:59:00 +0200",
+            "qty" : 60.633915054284692,
             "source" : "Hardik’s iPhone"
           }
-        ],
-        "units" : "dBASPL",
-        "name" : "headphone_audio_exposure"
+        ]
       },
       {
-        "name" : "iron",
         "data" : [
           {
             "date" : "2026-07-20 18:20:00 +0200",
-            "qty" : 0,
-            "source" : "MyFitnessPal"
+            "source" : "MyFitnessPal",
+            "qty" : 0
           },
           {
             "source" : "MyFitnessPal",
@@ -197,53 +196,11 @@
             "date" : "2026-07-21 18:20:00 +0200"
           }
         ],
+        "name" : "iron",
         "units" : "mg"
       },
       {
         "units" : "g",
-        "name" : "monounsaturated_fat",
-        "data" : [
-          {
-            "source" : "MyFitnessPal",
-            "qty" : 0,
-            "date" : "2026-07-20 18:20:00 +0200"
-          },
-          {
-            "qty" : 0,
-            "date" : "2026-07-20 20:56:00 +0200",
-            "source" : "MyFitnessPal"
-          },
-          {
-            "source" : "MyFitnessPal",
-            "qty" : 0,
-            "date" : "2026-07-21 18:20:00 +0200"
-          }
-        ]
-      },
-      {
-        "data" : [
-          {
-            "qty" : 0,
-            "source" : "MyFitnessPal",
-            "date" : "2026-07-20 18:20:00 +0200"
-          },
-          {
-            "qty" : 0,
-            "date" : "2026-07-20 20:56:00 +0200",
-            "source" : "MyFitnessPal"
-          },
-          {
-            "source" : "MyFitnessPal",
-            "qty" : 0.084745801985263824,
-            "date" : "2026-07-21 18:20:00 +0200"
-          }
-        ],
-        "name" : "polyunsaturated_fat",
-        "units" : "g"
-      },
-      {
-        "units" : "mg",
-        "name" : "potassium",
         "data" : [
           {
             "source" : "MyFitnessPal",
@@ -251,41 +208,84 @@
             "qty" : 0
           },
           {
+            "qty" : 0,
             "date" : "2026-07-20 20:56:00 +0200",
+            "source" : "MyFitnessPal"
+          },
+          {
+            "source" : "MyFitnessPal",
+            "qty" : 0,
+            "date" : "2026-07-21 18:20:00 +0200"
+          }
+        ],
+        "name" : "monounsaturated_fat"
+      },
+      {
+        "name" : "polyunsaturated_fat",
+        "units" : "g",
+        "data" : [
+          {
+            "source" : "MyFitnessPal",
+            "qty" : 0,
+            "date" : "2026-07-20 18:20:00 +0200"
+          },
+          {
+            "date" : "2026-07-20 20:56:00 +0200",
+            "source" : "MyFitnessPal",
+            "qty" : 0
+          },
+          {
+            "date" : "2026-07-21 18:20:00 +0200",
+            "source" : "MyFitnessPal",
+            "qty" : 0.084745801985263824
+          }
+        ]
+      },
+      {
+        "data" : [
+          {
+            "date" : "2026-07-20 18:20:00 +0200",
             "qty" : 0,
             "source" : "MyFitnessPal"
           },
           {
             "source" : "MyFitnessPal",
+            "date" : "2026-07-20 20:56:00 +0200",
+            "qty" : 0
+          },
+          {
+            "date" : "2026-07-21 18:20:00 +0200",
             "qty" : 357.62730240821838,
-            "date" : "2026-07-21 18:20:00 +0200"
+            "source" : "MyFitnessPal"
           }
-        ]
+        ],
+        "units" : "mg",
+        "name" : "potassium"
       },
       {
-        "units" : "g",
         "data" : [
           {
             "source" : "MyFitnessPal",
-            "date" : "2026-07-20 18:20:00 +0200",
-            "qty" : 104.05000305175781
-          },
-          {
-            "qty" : 41,
-            "date" : "2026-07-20 20:56:00 +0200",
-            "source" : "MyFitnessPal"
+            "qty" : 104.05000305175781,
+            "date" : "2026-07-20 18:20:00 +0200"
           },
           {
             "source" : "MyFitnessPal",
+            "date" : "2026-07-20 20:56:00 +0200",
+            "qty" : 41
+          },
+          {
             "date" : "2026-07-21 18:20:00 +0200",
-            "qty" : 96.097457885742188
+            "qty" : 96.097457885742188,
+            "source" : "MyFitnessPal"
           }
         ],
+        "units" : "g",
         "name" : "protein"
       },
       {
-        "units" : "g",
         "name" : "saturated_fat",
+        "units" : "g",
         "data" : [
           {
             "date" : "2026-07-20 18:20:00 +0200",
@@ -293,40 +293,39 @@
             "qty" : 11.034998893737793
           },
           {
+            "date" : "2026-07-20 20:56:00 +0200",
             "source" : "MyFitnessPal",
-            "qty" : 9.5399999618530273,
-            "date" : "2026-07-20 20:56:00 +0200"
+            "qty" : 9.5399999618530273
           },
           {
-            "source" : "MyFitnessPal",
+            "date" : "2026-07-21 18:20:00 +0200",
             "qty" : 11.039745330810547,
-            "date" : "2026-07-21 18:20:00 +0200"
+            "source" : "MyFitnessPal"
           }
         ]
       },
       {
-        "units" : "mg",
         "name" : "sodium",
+        "units" : "mg",
         "data" : [
           {
-            "qty" : 0.6649999413639307,
+            "date" : "2026-07-20 18:20:00 +0200",
             "source" : "MyFitnessPal",
-            "date" : "2026-07-20 18:20:00 +0200"
+            "qty" : 0.6649999413639307
           },
           {
-            "date" : "2026-07-20 20:56:00 +0200",
             "qty" : 0,
+            "date" : "2026-07-20 20:56:00 +0200",
             "source" : "MyFitnessPal"
           },
           {
-            "qty" : 1.5124579658731818,
             "date" : "2026-07-21 18:20:00 +0200",
+            "qty" : 1.5124579658731818,
             "source" : "MyFitnessPal"
           }
         ]
       },
       {
-        "name" : "step_count",
         "units" : "count",
         "data" : [
           {
@@ -335,24 +334,24 @@
             "date" : "2026-07-20 13:25:00 +0200"
           },
           {
-            "qty" : 3.4898139251649476,
             "date" : "2026-07-20 13:26:00 +0200",
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "qty" : 3.4898139251649476
           },
           {
             "date" : "2026-07-20 13:27:00 +0200",
-            "qty" : 3.4898139251649472,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "qty" : 3.4898139251649472
           },
           {
+            "source" : "Hardik’s iPhone",
             "date" : "2026-07-20 13:28:00 +0200",
-            "qty" : 3.489813925164948,
-            "source" : "Hardik’s iPhone"
+            "qty" : 3.489813925164948
           },
           {
-            "date" : "2026-07-20 13:29:00 +0200",
             "qty" : 3.4898139251649472,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-20 13:29:00 +0200"
           },
           {
             "date" : "2026-07-20 13:30:00 +0200",
@@ -360,38 +359,38 @@
             "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 3.4898139251649476,
             "date" : "2026-07-20 13:31:00 +0200",
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "qty" : 3.4898139251649476
           },
           {
-            "qty" : 3.489813925164948,
+            "source" : "Hardik’s iPhone",
             "date" : "2026-07-20 13:32:00 +0200",
-            "source" : "Hardik’s iPhone"
+            "qty" : 3.489813925164948
           },
           {
-            "qty" : 3.0468046311649557,
             "date" : "2026-07-20 13:33:00 +0200",
+            "qty" : 3.0468046311649557,
             "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-07-20 14:58:00 +0200",
             "qty" : 0.99723685238373994,
+            "date" : "2026-07-20 14:58:00 +0200",
             "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 2.9975950372122493,
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 14:59:00 +0200"
+            "date" : "2026-07-20 14:59:00 +0200",
+            "qty" : 2.9975950372122493
           },
           {
-            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-20 15:00:00 +0200",
             "qty" : 2.9975950372122488,
-            "date" : "2026-07-20 15:00:00 +0200"
+            "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 2.9975950372122488,
             "date" : "2026-07-20 15:01:00 +0200",
+            "qty" : 2.9975950372122488,
             "source" : "Hardik’s iPhone"
           },
           {
@@ -400,9 +399,9 @@
             "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-07-20 15:03:00 +0200",
+            "source" : "Hardik’s iPhone",
             "qty" : 2.9975950372122484,
-            "source" : "Hardik’s iPhone"
+            "date" : "2026-07-20 15:03:00 +0200"
           },
           {
             "source" : "Hardik’s iPhone",
@@ -410,14 +409,14 @@
             "qty" : 2.9975950372122484
           },
           {
-            "qty" : 2.9975950372122484,
             "date" : "2026-07-20 15:05:00 +0200",
+            "qty" : 2.9975950372122484,
             "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-07-20 15:06:00 +0200",
+            "source" : "Hardik’s iPhone",
             "qty" : 2.9975950372122493,
-            "source" : "Hardik’s iPhone"
+            "date" : "2026-07-20 15:06:00 +0200"
           },
           {
             "qty" : 2.9975950372122484,
@@ -425,18 +424,18 @@
             "date" : "2026-07-20 15:07:00 +0200"
           },
           {
-            "date" : "2026-07-20 15:08:00 +0200",
             "source" : "Hardik’s iPhone",
-            "qty" : 1.0244078127060194
+            "qty" : 1.0244078127060194,
+            "date" : "2026-07-20 15:08:00 +0200"
           },
           {
-            "source" : "Hardik’s iPhone",
             "qty" : 4.387625562228413,
+            "source" : "Hardik’s iPhone",
             "date" : "2026-07-20 15:56:00 +0200"
           },
           {
-            "date" : "2026-07-20 15:57:00 +0200",
             "source" : "Hardik’s iPhone",
+            "date" : "2026-07-20 15:57:00 +0200",
             "qty" : 20.98860768460856
           },
           {
@@ -445,78 +444,78 @@
             "source" : "Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s iPhone",
             "date" : "2026-07-20 17:05:00 +0200",
-            "qty" : 12.153743422257051
+            "qty" : 12.153743422257051,
+            "source" : "Hardik’s iPhone"
           },
           {
+            "source" : "Hardik’s iPhone",
             "date" : "2026-07-20 17:06:00 +0200",
-            "qty" : 7.8462565777429489,
-            "source" : "Hardik’s iPhone"
+            "qty" : 7.8462565777429489
           },
           {
-            "qty" : 9,
+            "source" : "Hardik’s iPhone",
             "date" : "2026-07-20 17:43:00 +0200",
-            "source" : "Hardik’s iPhone"
+            "qty" : 9
           },
           {
-            "source" : "Hardik’s iPhone",
             "date" : "2026-07-20 18:11:00 +0200",
-            "qty" : 10
-          },
-          {
-            "date" : "2026-07-20 20:56:00 +0200",
-            "qty" : 12,
+            "qty" : 10,
             "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 8,
+            "qty" : 12,
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 21:36:00 +0200"
+            "date" : "2026-07-20 20:56:00 +0200"
           },
           {
+            "date" : "2026-07-20 21:36:00 +0200",
             "source" : "Hardik’s iPhone",
-            "qty" : 5.0142298421390743,
-            "date" : "2026-07-20 23:44:00 +0200"
+            "qty" : 8
           },
           {
+            "date" : "2026-07-20 23:44:00 +0200",
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 23:45:00 +0200",
-            "qty" : 7.8209359184180256
+            "qty" : 5.0142298421390743
           },
           {
             "qty" : 7.8209359184180256,
+            "date" : "2026-07-20 23:45:00 +0200",
+            "source" : "Hardik’s iPhone"
+          },
+          {
             "date" : "2026-07-20 23:46:00 +0200",
+            "qty" : 7.8209359184180256,
             "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-07-20 23:47:00 +0200",
+            "qty" : 7.8209359184180256,
             "source" : "Hardik’s iPhone",
-            "qty" : 7.8209359184180256
+            "date" : "2026-07-20 23:47:00 +0200"
           },
           {
+            "qty" : 7.8209359184180247,
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 23:48:00 +0200",
-            "qty" : 7.8209359184180247
+            "date" : "2026-07-20 23:48:00 +0200"
           },
           {
-            "date" : "2026-07-20 23:49:00 +0200",
             "qty" : 12.702026484188822,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-20 23:49:00 +0200"
           },
           {
-            "source" : "Hardik’s iPhone",
             "date" : "2026-07-21 08:15:00 +0200",
+            "source" : "Hardik’s iPhone",
             "qty" : 11
           },
           {
-            "date" : "2026-07-21 10:57:00 +0200",
             "source" : "Hardik’s iPhone",
+            "date" : "2026-07-21 10:57:00 +0200",
             "qty" : 7.5067477116006849
           },
           {
-            "date" : "2026-07-21 10:58:00 +0200",
             "source" : "Hardik’s iPhone",
+            "date" : "2026-07-21 10:58:00 +0200",
             "qty" : 0.49325228839931512
           },
           {
@@ -525,29 +524,29 @@
             "source" : "Hardik’s iPhone"
           },
           {
+            "date" : "2026-07-21 11:31:00 +0200",
             "qty" : 53.930921359355025,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-21 11:31:00 +0200"
+            "source" : "Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-21 11:32:00 +0200",
             "qty" : 53.930921359355018,
-            "date" : "2026-07-21 11:32:00 +0200"
+            "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-07-21 11:33:00 +0200",
             "qty" : 53.930921359355025,
+            "date" : "2026-07-21 11:33:00 +0200",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "qty" : 53.930921359355025,
+            "date" : "2026-07-21 11:34:00 +0200",
             "source" : "Hardik’s iPhone"
           },
           {
             "source" : "Hardik’s iPhone",
             "qty" : 53.930921359355025,
-            "date" : "2026-07-21 11:34:00 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-21 11:35:00 +0200",
-            "qty" : 53.930921359355025
+            "date" : "2026-07-21 11:35:00 +0200"
           },
           {
             "date" : "2026-07-21 11:36:00 +0200",
@@ -555,9 +554,9 @@
             "source" : "Hardik’s iPhone"
           },
           {
+            "source" : "Hardik’s iPhone",
             "date" : "2026-07-21 11:37:00 +0200",
-            "qty" : 53.930921359355033,
-            "source" : "Hardik’s iPhone"
+            "qty" : 53.930921359355033
           },
           {
             "qty" : 53.930921359355018,
@@ -565,49 +564,51 @@
             "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-07-21 11:39:00 +0200",
             "source" : "Hardik’s iPhone",
-            "qty" : 53.930921359355033
+            "qty" : 53.930921359355033,
+            "date" : "2026-07-21 11:39:00 +0200"
           },
           {
             "date" : "2026-07-21 11:40:00 +0200",
-            "source" : "Hardik’s iPhone",
-            "qty" : 14.780156420098287
+            "qty" : 14.780156420098287,
+            "source" : "Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s iPhone",
+            "qty" : 19,
             "date" : "2026-07-21 11:44:00 +0200",
-            "qty" : 19
+            "source" : "Hardik’s iPhone"
           }
-        ]
+        ],
+        "name" : "step_count"
       },
       {
+        "name" : "dietary_sugar",
+        "units" : "g",
         "data" : [
           {
-            "qty" : 55,
             "source" : "MyFitnessPal",
-            "date" : "2026-07-20 18:20:00 +0200"
+            "date" : "2026-07-20 18:20:00 +0200",
+            "qty" : 55
           },
           {
             "source" : "MyFitnessPal",
-            "qty" : 0.060000002384185791,
-            "date" : "2026-07-20 20:56:00 +0200"
+            "date" : "2026-07-20 20:56:00 +0200",
+            "qty" : 0.060000002384185791
           },
           {
             "date" : "2026-07-21 18:20:00 +0200",
             "qty" : 63.664413452148438,
             "source" : "MyFitnessPal"
           }
-        ],
-        "name" : "dietary_sugar",
-        "units" : "g"
+        ]
       },
       {
+        "name" : "total_fat",
         "units" : "g",
         "data" : [
           {
-            "source" : "MyFitnessPal",
             "qty" : 15.595000267028809,
+            "source" : "MyFitnessPal",
             "date" : "2026-07-20 18:20:00 +0200"
           },
           {
@@ -616,51 +617,50 @@
             "date" : "2026-07-20 20:56:00 +0200"
           },
           {
-            "qty" : 15.773983001708984,
+            "source" : "MyFitnessPal",
             "date" : "2026-07-21 18:20:00 +0200",
-            "source" : "MyFitnessPal"
+            "qty" : 15.773983001708984
           }
-        ],
-        "name" : "total_fat"
+        ]
       },
       {
-        "units" : "mg",
+        "name" : "vitamin_c",
         "data" : [
           {
+            "qty" : 0,
             "source" : "MyFitnessPal",
-            "date" : "2026-07-20 18:20:00 +0200",
-            "qty" : 0
+            "date" : "2026-07-20 18:20:00 +0200"
           },
           {
+            "qty" : 0,
             "source" : "MyFitnessPal",
-            "date" : "2026-07-20 20:56:00 +0200",
-            "qty" : 0
+            "date" : "2026-07-20 20:56:00 +0200"
           },
           {
             "qty" : 8.6440714076161385,
-            "date" : "2026-07-21 18:20:00 +0200",
-            "source" : "MyFitnessPal"
+            "source" : "MyFitnessPal",
+            "date" : "2026-07-21 18:20:00 +0200"
           }
         ],
-        "name" : "vitamin_c"
+        "units" : "mg"
       },
       {
-        "name" : "walking_running_distance",
+        "units" : "km",
         "data" : [
           {
-            "date" : "2026-07-20 13:25:00 +0200",
+            "source" : "Hardik’s iPhone",
             "qty" : 0.0012133361731031475,
-            "source" : "Hardik’s iPhone"
+            "date" : "2026-07-20 13:25:00 +0200"
           },
           {
-            "date" : "2026-07-20 13:26:00 +0200",
             "qty" : 0.0027775161206401023,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-20 13:26:00 +0200"
           },
           {
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 13:27:00 +0200",
-            "qty" : 0.0027775161206401023
+            "qty" : 0.0027775161206401023,
+            "date" : "2026-07-20 13:27:00 +0200"
           },
           {
             "qty" : 0.0027775161206401032,
@@ -668,9 +668,9 @@
             "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 0.0027775161206401028,
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 13:29:00 +0200"
+            "date" : "2026-07-20 13:29:00 +0200",
+            "qty" : 0.0027775161206401028
           },
           {
             "qty" : 0.0027775161206401032,
@@ -678,44 +678,44 @@
             "date" : "2026-07-20 13:30:00 +0200"
           },
           {
-            "date" : "2026-07-20 13:31:00 +0200",
-            "qty" : 0.0027775161206401032,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 0.0027775161206401032,
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 13:32:00 +0200"
+            "date" : "2026-07-20 13:31:00 +0200",
+            "qty" : 0.0027775161206401032
           },
           {
+            "date" : "2026-07-20 13:32:00 +0200",
+            "qty" : 0.0027775161206401032,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
             "date" : "2026-07-20 13:33:00 +0200",
-            "qty" : 0.0024249284233977034,
-            "source" : "Hardik’s iPhone"
+            "qty" : 0.0024249284233977034
           },
           {
-            "date" : "2026-07-20 14:58:00 +0200",
             "qty" : 0.00078241638645514032,
+            "date" : "2026-07-20 14:58:00 +0200",
             "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-07-20 14:59:00 +0200",
+            "source" : "Hardik’s iPhone",
             "qty" : 0.0023518660300862661,
+            "date" : "2026-07-20 14:59:00 +0200"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 0.0023518660300862657,
+            "date" : "2026-07-20 15:00:00 +0200"
+          },
+          {
+            "date" : "2026-07-20 15:01:00 +0200",
+            "qty" : 0.0023518660300862657,
             "source" : "Hardik’s iPhone"
           },
           {
             "qty" : 0.0023518660300862657,
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 15:00:00 +0200"
-          },
-          {
-            "date" : "2026-07-20 15:01:00 +0200",
-            "source" : "Hardik’s iPhone",
-            "qty" : 0.0023518660300862657
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 15:02:00 +0200",
-            "qty" : 0.0023518660300862657
+            "date" : "2026-07-20 15:02:00 +0200"
           },
           {
             "source" : "Hardik’s iPhone",
@@ -723,74 +723,74 @@
             "qty" : 0.0023518660300862657
           },
           {
-            "source" : "Hardik’s iPhone",
+            "qty" : 0.0023518660300862657,
             "date" : "2026-07-20 15:04:00 +0200",
-            "qty" : 0.0023518660300862657
+            "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 0.0023518660300862661,
             "date" : "2026-07-20 15:05:00 +0200",
+            "qty" : 0.0023518660300862661,
             "source" : "Hardik’s iPhone"
           },
           {
             "source" : "Hardik’s iPhone",
-            "qty" : 0.0023518660300862661,
-            "date" : "2026-07-20 15:06:00 +0200"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 15:07:00 +0200",
+            "date" : "2026-07-20 15:06:00 +0200",
             "qty" : 0.0023518660300862661
           },
           {
+            "date" : "2026-07-20 15:07:00 +0200",
+            "qty" : 0.0023518660300862661,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
             "qty" : 0.0008037342955767874,
-            "date" : "2026-07-20 15:08:00 +0200",
-            "source" : "Hardik’s iPhone"
+            "date" : "2026-07-20 15:08:00 +0200"
           },
           {
-            "qty" : 0.0032672910363468408,
             "date" : "2026-07-20 15:56:00 +0200",
+            "qty" : 0.0032672910363468408,
             "source" : "Hardik’s iPhone"
           },
           {
+            "date" : "2026-07-20 15:57:00 +0200",
             "qty" : 0.01562938513798184,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 15:57:00 +0200"
+            "source" : "Hardik’s iPhone"
           },
           {
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 15:58:00 +0200",
-            "qty" : 0.0064217776591321257
+            "qty" : 0.0064217776591321257,
+            "date" : "2026-07-20 15:58:00 +0200"
           },
           {
+            "date" : "2026-07-20 17:05:00 +0200",
             "qty" : 0.009846583808132893,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 17:05:00 +0200"
+            "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-07-20 17:06:00 +0200",
             "qty" : 0.006356792330449933,
+            "date" : "2026-07-20 17:06:00 +0200",
             "source" : "Hardik’s iPhone"
           },
           {
-            "source" : "Hardik’s iPhone",
+            "qty" : 0.006166463132016361,
             "date" : "2026-07-20 17:43:00 +0200",
-            "qty" : 0.006166463132016361
+            "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-07-20 18:11:00 +0200",
             "qty" : 0.010140716289170086,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-20 18:11:00 +0200"
           },
           {
             "qty" : 0.010582135704346001,
-            "date" : "2026-07-20 20:56:00 +0200",
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-20 20:56:00 +0200"
           },
           {
-            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-20 21:36:00 +0200",
             "qty" : 0.0052326701851561665,
-            "date" : "2026-07-20 21:36:00 +0200"
+            "source" : "Hardik’s iPhone"
           },
           {
             "date" : "2026-07-20 23:44:00 +0200",
@@ -798,24 +798,24 @@
             "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 0.0050736429004959206,
+            "date" : "2026-07-20 23:45:00 +0200",
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-20 23:45:00 +0200"
+            "qty" : 0.0050736429004959206
           },
           {
-            "date" : "2026-07-20 23:46:00 +0200",
             "qty" : 0.0050736429004959215,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-07-20 23:47:00 +0200",
             "source" : "Hardik’s iPhone",
-            "qty" : 0.0050736429004959215
+            "date" : "2026-07-20 23:46:00 +0200"
           },
           {
-            "date" : "2026-07-20 23:48:00 +0200",
-            "qty" : 0.0050736429004959206,
+            "qty" : 0.0050736429004959215,
+            "date" : "2026-07-20 23:47:00 +0200",
             "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-20 23:48:00 +0200",
+            "qty" : 0.0050736429004959206
           },
           {
             "date" : "2026-07-20 23:49:00 +0200",
@@ -823,64 +823,64 @@
             "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 0.011095136646181345,
             "date" : "2026-07-21 08:15:00 +0200",
-            "source" : "Hardik’s iPhone"
-          },
-          {
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-21 10:57:00 +0200",
-            "qty" : 0.0062937426431868664
+            "qty" : 0.011095136646181345
           },
           {
-            "date" : "2026-07-21 10:58:00 +0200",
-            "qty" : 0.00041354832753348435,
+            "date" : "2026-07-21 10:57:00 +0200",
+            "qty" : 0.0062937426431868664,
             "source" : "Hardik’s iPhone"
+          },
+          {
+            "qty" : 0.00041354832753348435,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-21 10:58:00 +0200"
           },
           {
             "date" : "2026-07-21 11:30:00 +0200",
-            "qty" : 0.00062731342479861718,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "qty" : 0.00062731342479861718
           },
           {
             "source" : "Hardik’s iPhone",
-            "qty" : 0.04020145788261751,
-            "date" : "2026-07-21 11:31:00 +0200"
+            "date" : "2026-07-21 11:31:00 +0200",
+            "qty" : 0.04020145788261751
           },
           {
-            "qty" : 0.04020145788261751,
+            "date" : "2026-07-21 11:32:00 +0200",
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-21 11:32:00 +0200"
-          },
-          {
-            "qty" : 0.040201457882617517,
-            "date" : "2026-07-21 11:33:00 +0200",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-21 11:34:00 +0200",
             "qty" : 0.04020145788261751
           },
           {
             "source" : "Hardik’s iPhone",
+            "date" : "2026-07-21 11:33:00 +0200",
+            "qty" : 0.040201457882617517
+          },
+          {
+            "qty" : 0.04020145788261751,
+            "date" : "2026-07-21 11:34:00 +0200",
+            "source" : "Hardik’s iPhone"
+          },
+          {
             "date" : "2026-07-21 11:35:00 +0200",
+            "source" : "Hardik’s iPhone",
             "qty" : 0.040201457882617517
           },
           {
             "date" : "2026-07-21 11:36:00 +0200",
-            "qty" : 0.040201457882617517,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "qty" : 0.040201457882617517
           },
           {
             "date" : "2026-07-21 11:37:00 +0200",
-            "qty" : 0.040201457882617517,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "qty" : 0.040201457882617517
           },
           {
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-21 11:38:00 +0200",
-            "qty" : 0.04020145788261751
+            "qty" : 0.04020145788261751,
+            "date" : "2026-07-21 11:38:00 +0200"
           },
           {
             "source" : "Hardik’s iPhone",
@@ -888,20 +888,19 @@
             "qty" : 0.04020145788261751
           },
           {
-            "qty" : 0.011017498326458892,
             "date" : "2026-07-21 11:40:00 +0200",
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "qty" : 0.011017498326458892
           },
           {
-            "source" : "Hardik’s iPhone",
             "date" : "2026-07-21 11:44:00 +0200",
+            "source" : "Hardik’s iPhone",
             "qty" : 0.017290369235910475
           }
         ],
-        "units" : "km"
+        "name" : "walking_running_distance"
       },
       {
-        "name" : "walking_asymmetry_percentage",
         "units" : "%",
         "data" : [
           {
@@ -914,31 +913,10 @@
             "date" : "2026-07-21 11:38:00 +0200",
             "qty" : 0
           }
-        ]
-      },
-      {
-        "name" : "walking_double_support_percentage",
-        "data" : [
-          {
-            "date" : "2026-07-21 11:35:00 +0200",
-            "qty" : 27.300000000000001,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-21 11:37:00 +0200",
-            "qty" : 30.300000000000001
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-21 11:38:00 +0200",
-            "qty" : 27.399999999999995
-          }
         ],
-        "units" : "%"
+        "name" : "walking_asymmetry_percentage"
       },
       {
-        "name" : "walking_speed",
         "units" : "km\/hr",
         "data" : [
           {
@@ -947,35 +925,57 @@
             "source" : "Hardik’s iPhone"
           },
           {
+            "date" : "2026-07-21 11:37:00 +0200",
             "qty" : 3.6719999999999997,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-21 11:37:00 +0200"
+            "source" : "Hardik’s iPhone"
           },
           {
             "date" : "2026-07-21 11:38:00 +0200",
             "qty" : 5.1839999999999993,
             "source" : "Hardik’s iPhone"
           }
-        ]
+        ],
+        "name" : "walking_speed"
       },
       {
-        "units" : "cm",
-        "name" : "walking_step_length",
+        "units" : "%",
         "data" : [
           {
-            "qty" : 75,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-07-21 11:35:00 +0200"
-          },
-          {
-            "date" : "2026-07-21 11:37:00 +0200",
-            "qty" : 67,
+            "date" : "2026-07-21 11:35:00 +0200",
+            "qty" : 27.300000000000001,
             "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 77,
             "source" : "Hardik’s iPhone",
-            "date" : "2026-07-21 11:38:00 +0200"
+            "qty" : 30.300000000000001,
+            "date" : "2026-07-21 11:37:00 +0200"
+          },
+          {
+            "qty" : 27.399999999999995,
+            "date" : "2026-07-21 11:38:00 +0200",
+            "source" : "Hardik’s iPhone"
+          }
+        ],
+        "name" : "walking_double_support_percentage"
+      },
+      {
+        "name" : "walking_step_length",
+        "units" : "cm",
+        "data" : [
+          {
+            "date" : "2026-07-21 11:35:00 +0200",
+            "qty" : 75,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 67,
+            "date" : "2026-07-21 11:37:00 +0200"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-07-21 11:38:00 +0200",
+            "qty" : 77
           }
         ]
       }
