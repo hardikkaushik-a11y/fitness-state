@@ -2,60 +2,86 @@
   "data" : {
     "workouts" : [
       {
+        "duration" : 1049.3840090036392,
+        "stepCadence" : {
+          "qty" : 26.015262063999419,
+          "units" : "count\/min"
+        },
         "heartRate" : {
-          "min" : {
+          "avg" : {
             "units" : "count\/min",
-            "qty" : 121
+            "qty" : 149.80630665630665
           },
           "max" : {
             "qty" : 167,
             "units" : "count\/min"
           },
-          "avg" : {
-            "qty" : 149.80630665630665,
+          "min" : {
+            "qty" : 121,
             "units" : "count\/min"
           }
         },
         "avgHeartRate" : {
-          "qty" : 149.80630665630665,
+          "units" : "count\/min",
+          "qty" : 149.80630665630665
+        },
+        "metadata" : {
+
+        },
+        "humidity" : {
+          "units" : "%",
+          "qty" : 27
+        },
+        "start" : "2026-08-13 13:21:57 +0200",
+        "activeEnergyBurned" : {
+          "units" : "kJ",
+          "qty" : 701.25945380605219
+        },
+        "maxHeartRate" : {
+          "qty" : 167,
           "units" : "count\/min"
+        },
+        "end" : "2026-08-13 13:39:27 +0200",
+        "temperature" : {
+          "units" : "degC",
+          "qty" : 30.55045890807861
         },
         "activeEnergy" : [
           {
-            "source" : "Hardik’s Apple Watch",
-            "units" : "kJ",
             "date" : "2026-08-13 13:21:57 +0200",
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
             "qty" : 32.98356440096812
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-08-13 13:22:57 +0200",
+            "units" : "kJ",
             "qty" : 38.709595856927862,
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-08-13 13:23:57 +0200",
-            "units" : "kJ",
-            "qty" : 42.801800404117429
-          },
-          {
-            "date" : "2026-08-13 13:24:57 +0200",
-            "qty" : 40.92784848944293,
-            "source" : "Hardik’s Apple Watch",
-            "units" : "kJ"
-          },
-          {
-            "qty" : 45.994822320787399,
-            "units" : "kJ",
-            "date" : "2026-08-13 13:25:57 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-08-13 13:26:57 +0200",
             "units" : "kJ",
-            "qty" : 53.277063789429334
+            "qty" : 42.801800404117429,
+            "date" : "2026-08-13 13:23:57 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 40.92784848944293,
+            "date" : "2026-08-13 13:24:57 +0200",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 45.994822320787399,
+            "units" : "kJ",
+            "date" : "2026-08-13 13:25:57 +0200"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-08-13 13:26:57 +0200",
+            "qty" : 53.277063789429334,
+            "units" : "kJ"
           },
           {
             "units" : "kJ",
@@ -64,46 +90,46 @@
             "qty" : 37.533863633954873
           },
           {
+            "units" : "kJ",
             "qty" : 44.055909375935727,
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-08-13 13:28:57 +0200",
-            "units" : "kJ"
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "qty" : 38.562234366758773,
             "source" : "Hardik’s Apple Watch",
             "date" : "2026-08-13 13:29:57 +0200",
+            "qty" : 38.562234366758773,
             "units" : "kJ"
           },
           {
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
             "date" : "2026-08-13 13:30:57 +0200",
-            "qty" : 36.959668060498522,
-            "source" : "Hardik’s Apple Watch",
-            "units" : "kJ"
+            "qty" : 36.959668060498522
           },
           {
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 38.358246519446681,
             "date" : "2026-08-13 13:31:57 +0200",
+            "qty" : 38.358246519446681,
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-08-13 13:32:57 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 35.270707584981928,
             "units" : "kJ"
           },
           {
+            "date" : "2026-08-13 13:33:57 +0200",
             "source" : "Hardik’s Apple Watch",
             "units" : "kJ",
-            "qty" : 35.270707584981928,
-            "date" : "2026-08-13 13:32:57 +0200"
+            "qty" : 34.426530166469362
           },
           {
+            "qty" : 35.395171646566403,
             "source" : "Hardik’s Apple Watch",
-            "qty" : 34.426530166469362,
             "units" : "kJ",
-            "date" : "2026-08-13 13:33:57 +0200"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-08-13 13:34:57 +0200",
-            "qty" : 35.395171646566403
+            "date" : "2026-08-13 13:34:57 +0200"
           },
           {
             "source" : "Hardik’s Apple Watch",
@@ -112,423 +138,150 @@
             "qty" : 45.513237854877481
           },
           {
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
             "qty" : 41.279896217770357,
-            "units" : "kJ",
-            "date" : "2026-08-13 13:36:57 +0200",
-            "source" : "Hardik’s Apple Watch"
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-08-13 13:37:57 +0200",
-            "qty" : 42.972261421179809,
-            "units" : "kJ"
-          },
-          {
-            "qty" : 21.801617889887098,
-            "source" : "Hardik’s Apple Watch",
-            "units" : "kJ",
-            "date" : "2026-08-13 13:38:57 +0200"
-          }
-        ],
-        "start" : "2026-08-13 13:21:57 +0200",
-        "maxHeartRate" : {
-          "qty" : 167,
-          "units" : "count\/min"
-        },
-        "name" : "Functional Strength Training",
-        "end" : "2026-08-13 13:39:27 +0200",
-        "stepCount" : [
-          {
-            "units" : "count",
-            "date" : "2026-08-13 13:28:57 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 35.235507263138103
-          },
-          {
-            "units" : "count",
-            "date" : "2026-08-13 13:29:57 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 39.676695805362783
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
-            "units" : "count",
-            "date" : "2026-08-13 13:30:57 +0200",
-            "qty" : 39.676695805362783
-          },
-          {
-            "date" : "2026-08-13 13:31:57 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 39.676695805362783,
-            "units" : "count"
-          },
-          {
-            "date" : "2026-08-13 13:32:57 +0200",
-            "qty" : 39.676695805362783,
-            "source" : "Hardik’s Apple Watch",
-            "units" : "count"
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
-            "units" : "count",
-            "qty" : 39.676695805362783,
-            "date" : "2026-08-13 13:33:57 +0200"
-          },
-          {
-            "qty" : 39.676695805362783,
-            "source" : "Hardik’s Apple Watch",
-            "units" : "count",
-            "date" : "2026-08-13 13:34:57 +0200"
-          },
-          {
-            "date" : "2026-08-13 13:35:57 +0200",
-            "units" : "count",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 39.67669580536279
-          },
-          {
-            "units" : "count",
-            "qty" : 39.676695805362783,
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-08-13 13:36:57 +0200"
           },
           {
-            "qty" : 39.67669580536279,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
-            "date" : "2026-08-13 13:37:57 +0200",
-            "units" : "count"
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "qty" : 42.972261421179809,
+            "date" : "2026-08-13 13:37:57 +0200"
           },
           {
-            "qty" : 62.674230488596827,
-            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
             "date" : "2026-08-13 13:38:57 +0200",
-            "units" : "count"
+            "qty" : 21.801617889887098
           }
         ],
-        "humidity" : {
-          "units" : "%",
-          "qty" : 27
-        },
-        "stepCadence" : {
-          "qty" : 26.015262063999419,
-          "units" : "count\/min"
-        },
-        "temperature" : {
-          "units" : "degC",
-          "qty" : 30.55045890807861
-        },
-        "duration" : 1049.3840090036392,
-        "heartRateRecovery" : [
-          {
-            "Max" : 130,
-            "Min" : 130,
-            "units" : "count\/min",
-            "Avg" : 130,
-            "date" : "2026-08-13 13:39:29 +0200"
-          },
-          {
-            "Avg" : 130,
-            "Max" : 130,
-            "date" : "2026-08-13 13:39:31 +0200",
-            "units" : "count\/min",
-            "Min" : 130
-          },
-          {
-            "Min" : 132,
-            "Avg" : 132,
-            "date" : "2026-08-13 13:39:40 +0200",
-            "Max" : 132,
-            "units" : "count\/min"
-          },
-          {
-            "Min" : 132,
-            "Avg" : 132,
-            "Max" : 132,
-            "units" : "count\/min",
-            "date" : "2026-08-13 13:39:45 +0200"
-          },
-          {
-            "Avg" : 132,
-            "Min" : 132,
-            "Max" : 132,
-            "units" : "count\/min",
-            "date" : "2026-08-13 13:39:49 +0200"
-          },
-          {
-            "Avg" : 133,
-            "date" : "2026-08-13 13:39:54 +0200",
-            "units" : "count\/min",
-            "Max" : 133,
-            "Min" : 133
-          },
-          {
-            "Avg" : 136,
-            "units" : "count\/min",
-            "Min" : 136,
-            "date" : "2026-08-13 13:40:00 +0200",
-            "Max" : 136
-          },
-          {
-            "date" : "2026-08-13 13:40:01 +0200",
-            "Avg" : 136,
-            "Max" : 136,
-            "units" : "count\/min",
-            "Min" : 136
-          },
-          {
-            "Min" : 133,
-            "Avg" : 133,
-            "date" : "2026-08-13 13:40:06 +0200",
-            "units" : "count\/min",
-            "Max" : 133
-          },
-          {
-            "Max" : 132,
-            "units" : "count\/min",
-            "Min" : 132,
-            "date" : "2026-08-13 13:40:14 +0200",
-            "Avg" : 132
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-08-13 13:40:16 +0200",
-            "Min" : 133,
-            "Max" : 133,
-            "Avg" : 133
-          },
-          {
-            "Avg" : 133,
-            "Max" : 133,
-            "units" : "count\/min",
-            "Min" : 133,
-            "date" : "2026-08-13 13:40:22 +0200"
-          },
-          {
-            "Min" : 135,
-            "date" : "2026-08-13 13:40:27 +0200",
-            "units" : "count\/min",
-            "Max" : 135,
-            "Avg" : 135
-          },
-          {
-            "Min" : 135,
-            "Max" : 135,
-            "Avg" : 135,
-            "date" : "2026-08-13 13:40:35 +0200",
-            "units" : "count\/min"
-          },
-          {
-            "units" : "count\/min",
-            "Max" : 133,
-            "Min" : 133,
-            "date" : "2026-08-13 13:40:37 +0200",
-            "Avg" : 133
-          },
-          {
-            "Min" : 133,
-            "Max" : 133,
-            "units" : "count\/min",
-            "Avg" : 133,
-            "date" : "2026-08-13 13:40:44 +0200"
-          },
-          {
-            "units" : "count\/min",
-            "Avg" : 133,
-            "date" : "2026-08-13 13:40:49 +0200",
-            "Min" : 133,
-            "Max" : 133
-          },
-          {
-            "Max" : 133,
-            "units" : "count\/min",
-            "date" : "2026-08-13 13:40:52 +0200",
-            "Avg" : 133,
-            "Min" : 133
-          },
-          {
-            "Avg" : 134,
-            "units" : "count\/min",
-            "Min" : 134,
-            "Max" : 134,
-            "date" : "2026-08-13 13:40:58 +0200"
-          },
-          {
-            "Avg" : 134,
-            "units" : "count\/min",
-            "Max" : 134,
-            "Min" : 134,
-            "date" : "2026-08-13 13:41:01 +0200"
-          },
-          {
-            "Avg" : 117,
-            "units" : "count\/min",
-            "Max" : 117,
-            "date" : "2026-08-13 13:41:10 +0200",
-            "Min" : 117
-          },
-          {
-            "date" : "2026-08-13 13:41:15 +0200",
-            "Min" : 116,
-            "Max" : 116,
-            "Avg" : 116,
-            "units" : "count\/min"
-          },
-          {
-            "date" : "2026-08-13 13:41:19 +0200",
-            "Max" : 118,
-            "Avg" : 118,
-            "Min" : 118,
-            "units" : "count\/min"
-          },
-          {
-            "Min" : 112,
-            "Max" : 112,
-            "Avg" : 112,
-            "units" : "count\/min",
-            "date" : "2026-08-13 13:41:25 +0200"
-          }
-        ],
-        "metadata" : {
-
-        },
-        "activeEnergyBurned" : {
-          "qty" : 701.25945380605219,
-          "units" : "kJ"
-        },
-        "intensity" : {
-          "qty" : 8.9069550138264173,
-          "units" : "kcal\/hr·kg"
-        },
-        "totalEnergy" : {
-          "qty" : 824.94125547944236,
-          "units" : "kJ"
-        },
         "heartRateData" : [
           {
-            "Min" : 121,
             "date" : "2026-08-13 13:22:00 +0200",
-            "Avg" : 138.40000000000001,
             "Max" : 145,
-            "units" : "count\/min"
+            "units" : "count\/min",
+            "Avg" : 138.40000000000001,
+            "Min" : 121
           },
           {
-            "Min" : 148,
+            "date" : "2026-08-13 13:23:00 +0200",
             "Avg" : 154.27272727272728,
             "units" : "count\/min",
-            "date" : "2026-08-13 13:23:00 +0200",
+            "Min" : 148,
             "Max" : 161
           },
           {
-            "date" : "2026-08-13 13:24:00 +0200",
-            "units" : "count\/min",
             "Min" : 149,
+            "Max" : 159,
             "Avg" : 154.45454545454547,
-            "Max" : 159
-          },
-          {
-            "Min" : 154,
-            "date" : "2026-08-13 13:25:00 +0200",
-            "Avg" : 160.38461538461539,
-            "Max" : 164,
+            "date" : "2026-08-13 13:24:00 +0200",
             "units" : "count\/min"
           },
           {
+            "date" : "2026-08-13 13:25:00 +0200",
             "units" : "count\/min",
+            "Max" : 164,
+            "Avg" : 160.38461538461539,
+            "Min" : 154
+          },
+          {
+            "Avg" : 160.66666666666666,
             "Max" : 166,
             "Min" : 151,
-            "Avg" : 160.66666666666666,
-            "date" : "2026-08-13 13:26:00 +0200"
-          },
-          {
-            "Min" : 156,
-            "date" : "2026-08-13 13:27:00 +0200",
-            "units" : "count\/min",
-            "Avg" : 157.91666666666666,
-            "Max" : 161
-          },
-          {
-            "date" : "2026-08-13 13:28:00 +0200",
-            "Avg" : 161.33333333333334,
-            "Min" : 155,
-            "units" : "count\/min",
-            "Max" : 167
-          },
-          {
-            "Max" : 164,
-            "units" : "count\/min",
-            "Min" : 158,
-            "Avg" : 161,
-            "date" : "2026-08-13 13:29:00 +0200"
-          },
-          {
-            "date" : "2026-08-13 13:30:00 +0200",
-            "Max" : 142,
-            "Min" : 129,
-            "Avg" : 134.25,
+            "date" : "2026-08-13 13:26:00 +0200",
             "units" : "count\/min"
           },
           {
             "units" : "count\/min",
-            "Max" : 160,
-            "date" : "2026-08-13 13:31:00 +0200",
+            "date" : "2026-08-13 13:27:00 +0200",
+            "Max" : 161,
+            "Min" : 156,
+            "Avg" : 157.91666666666666
+          },
+          {
+            "Max" : 167,
+            "Avg" : 161.33333333333334,
+            "units" : "count\/min",
+            "Min" : 155,
+            "date" : "2026-08-13 13:28:00 +0200"
+          },
+          {
+            "Max" : 164,
+            "Min" : 158,
+            "date" : "2026-08-13 13:29:00 +0200",
+            "Avg" : 161,
+            "units" : "count\/min"
+          },
+          {
+            "units" : "count\/min",
+            "Avg" : 134.25,
+            "Min" : 129,
+            "Max" : 142,
+            "date" : "2026-08-13 13:30:00 +0200"
+          },
+          {
             "Min" : 151,
-            "Avg" : 154.09090909090909
+            "Avg" : 154.09090909090909,
+            "date" : "2026-08-13 13:31:00 +0200",
+            "Max" : 160,
+            "units" : "count\/min"
           },
           {
             "date" : "2026-08-13 13:32:00 +0200",
             "Avg" : 152.41666666666666,
             "Max" : 160,
-            "units" : "count\/min",
-            "Min" : 143
+            "Min" : 143,
+            "units" : "count\/min"
           },
           {
             "date" : "2026-08-13 13:33:00 +0200",
-            "Max" : 148,
-            "Min" : 141,
             "Avg" : 145.66666666666666,
+            "Min" : 141,
+            "Max" : 148,
             "units" : "count\/min"
           },
           {
             "Max" : 162,
-            "date" : "2026-08-13 13:34:00 +0200",
             "Min" : 141,
+            "units" : "count\/min",
             "Avg" : 152.54545454545453,
-            "units" : "count\/min"
+            "date" : "2026-08-13 13:34:00 +0200"
           },
           {
-            "date" : "2026-08-13 13:35:00 +0200",
             "Avg" : 144.23076923076923,
             "Min" : 126,
+            "units" : "count\/min",
             "Max" : 154,
-            "units" : "count\/min"
+            "date" : "2026-08-13 13:35:00 +0200"
           },
           {
-            "Avg" : 152.09090909090909,
-            "Max" : 158,
-            "units" : "count\/min",
             "Min" : 147,
+            "Max" : 158,
+            "Avg" : 152.09090909090909,
+            "units" : "count\/min",
             "date" : "2026-08-13 13:36:00 +0200"
           },
           {
-            "date" : "2026-08-13 13:37:00 +0200",
-            "Avg" : 141.91666666666666,
+            "units" : "count\/min",
             "Min" : 138,
-            "Max" : 146,
-            "units" : "count\/min"
+            "Avg" : 141.91666666666666,
+            "date" : "2026-08-13 13:37:00 +0200",
+            "Max" : 146
           },
           {
-            "units" : "count\/min",
-            "Min" : 134,
-            "date" : "2026-08-13 13:38:00 +0200",
             "Avg" : 138.07692307692307,
+            "Min" : 134,
+            "units" : "count\/min",
+            "date" : "2026-08-13 13:38:00 +0200",
             "Max" : 140
           },
           {
             "units" : "count\/min",
-            "Max" : 134,
+            "date" : "2026-08-13 13:39:00 +0200",
             "Min" : 132,
             "Avg" : 132.80000000000001,
-            "date" : "2026-08-13 13:39:00 +0200"
+            "Max" : 134
           }
         ],
         "basalEnergy" : [
@@ -539,9 +292,9 @@
             "source" : "Hardik’s Apple Watch"
           },
           {
-            "qty" : 6.9344687125581306,
             "source" : "Hardik’s Apple Watch",
             "units" : "kJ",
+            "qty" : 6.9344687125581306,
             "date" : "2026-08-13 13:22:57 +0200"
           },
           {
@@ -551,87 +304,87 @@
             "units" : "kJ"
           },
           {
+            "units" : "kJ",
             "source" : "Hardik’s Apple Watch",
-            "qty" : 6.9346616936887742,
             "date" : "2026-08-13 13:24:57 +0200",
+            "qty" : 6.9346616936887742
+          },
+          {
+            "date" : "2026-08-13 13:25:57 +0200",
+            "units" : "kJ",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 6.9347355817586545
+          },
+          {
+            "date" : "2026-08-13 13:26:57 +0200",
+            "qty" : 6.9347892649940279,
+            "source" : "Hardik’s Apple Watch",
             "units" : "kJ"
           },
           {
+            "qty" : 6.9348595586000705,
             "units" : "kJ",
-            "qty" : 6.9347355817586545,
-            "date" : "2026-08-13 13:25:57 +0200",
+            "date" : "2026-08-13 13:27:57 +0200",
             "source" : "Hardik’s Apple Watch"
           },
           {
             "units" : "kJ",
-            "date" : "2026-08-13 13:26:57 +0200",
             "source" : "Hardik’s Apple Watch",
-            "qty" : 6.9347892649940279
-          },
-          {
-            "source" : "Hardik’s Apple Watch",
-            "date" : "2026-08-13 13:27:57 +0200",
-            "units" : "kJ",
-            "qty" : 6.9348595586000705
-          },
-          {
             "date" : "2026-08-13 13:28:57 +0200",
-            "source" : "Hardik’s Apple Watch",
-            "units" : "kJ",
             "qty" : 6.9349102491043935
           },
           {
+            "units" : "kJ",
             "date" : "2026-08-13 13:29:57 +0200",
-            "units" : "kJ",
-            "source" : "Hardik’s Apple Watch",
-            "qty" : 6.934929452958154
+            "qty" : 6.934929452958154,
+            "source" : "Hardik’s Apple Watch"
           },
           {
-            "source" : "Hardik’s Apple Watch",
             "date" : "2026-08-13 13:30:57 +0200",
-            "qty" : 6.9349482461997543,
-            "units" : "kJ"
+            "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
+            "qty" : 6.9349482461997543
           },
           {
-            "units" : "kJ",
             "qty" : 6.9349649343293702,
             "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
             "date" : "2026-08-13 13:31:57 +0200"
           },
           {
-            "date" : "2026-08-13 13:32:57 +0200",
             "source" : "Hardik’s Apple Watch",
             "qty" : 6.9219616972460241,
+            "date" : "2026-08-13 13:32:57 +0200",
             "units" : "kJ"
           },
           {
-            "date" : "2026-08-13 13:33:57 +0200",
+            "qty" : 6.8373423256570875,
             "source" : "Hardik’s Apple Watch",
-            "units" : "kJ",
-            "qty" : 6.8373423256570875
+            "date" : "2026-08-13 13:33:57 +0200",
+            "units" : "kJ"
           },
           {
-            "units" : "kJ",
-            "qty" : 6.8373547907571917,
             "date" : "2026-08-13 13:34:57 +0200",
+            "qty" : 6.8373547907571917,
+            "units" : "kJ",
             "source" : "Hardik’s Apple Watch"
           },
           {
             "source" : "Hardik’s Apple Watch",
-            "date" : "2026-08-13 13:35:57 +0200",
             "units" : "kJ",
+            "date" : "2026-08-13 13:35:57 +0200",
             "qty" : 6.837366151011496
           },
           {
+            "qty" : 6.8373815060137222,
             "units" : "kJ",
             "source" : "Hardik’s Apple Watch",
-            "qty" : 6.8373815060137222,
             "date" : "2026-08-13 13:36:57 +0200"
           },
           {
-            "units" : "kJ",
             "date" : "2026-08-13 13:37:57 +0200",
             "source" : "Hardik’s Apple Watch",
+            "units" : "kJ",
             "qty" : 6.8373862811613648
           },
           {
@@ -641,7 +394,254 @@
             "date" : "2026-08-13 13:38:57 +0200"
           }
         ],
-        "id" : "C9D76181-7C4E-4755-BA6E-8B99EE4AF93C"
+        "heartRateRecovery" : [
+          {
+            "Max" : 130,
+            "Avg" : 130,
+            "units" : "count\/min",
+            "date" : "2026-08-13 13:39:29 +0200",
+            "Min" : 130
+          },
+          {
+            "units" : "count\/min",
+            "Avg" : 130,
+            "Min" : 130,
+            "Max" : 130,
+            "date" : "2026-08-13 13:39:31 +0200"
+          },
+          {
+            "date" : "2026-08-13 13:39:40 +0200",
+            "Max" : 132,
+            "Avg" : 132,
+            "Min" : 132,
+            "units" : "count\/min"
+          },
+          {
+            "Avg" : 132,
+            "date" : "2026-08-13 13:39:45 +0200",
+            "Max" : 132,
+            "units" : "count\/min",
+            "Min" : 132
+          },
+          {
+            "date" : "2026-08-13 13:39:49 +0200",
+            "Max" : 132,
+            "Min" : 132,
+            "Avg" : 132,
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 133,
+            "units" : "count\/min",
+            "date" : "2026-08-13 13:39:54 +0200",
+            "Max" : 133,
+            "Avg" : 133
+          },
+          {
+            "Min" : 136,
+            "Max" : 136,
+            "units" : "count\/min",
+            "date" : "2026-08-13 13:40:00 +0200",
+            "Avg" : 136
+          },
+          {
+            "Min" : 136,
+            "units" : "count\/min",
+            "Avg" : 136,
+            "Max" : 136,
+            "date" : "2026-08-13 13:40:01 +0200"
+          },
+          {
+            "Min" : 133,
+            "Avg" : 133,
+            "date" : "2026-08-13 13:40:06 +0200",
+            "Max" : 133,
+            "units" : "count\/min"
+          },
+          {
+            "date" : "2026-08-13 13:40:14 +0200",
+            "units" : "count\/min",
+            "Max" : 132,
+            "Min" : 132,
+            "Avg" : 132
+          },
+          {
+            "Max" : 133,
+            "Min" : 133,
+            "date" : "2026-08-13 13:40:16 +0200",
+            "Avg" : 133,
+            "units" : "count\/min"
+          },
+          {
+            "date" : "2026-08-13 13:40:22 +0200",
+            "units" : "count\/min",
+            "Avg" : 133,
+            "Max" : 133,
+            "Min" : 133
+          },
+          {
+            "Max" : 135,
+            "date" : "2026-08-13 13:40:27 +0200",
+            "Min" : 135,
+            "units" : "count\/min",
+            "Avg" : 135
+          },
+          {
+            "Max" : 135,
+            "date" : "2026-08-13 13:40:35 +0200",
+            "units" : "count\/min",
+            "Min" : 135,
+            "Avg" : 135
+          },
+          {
+            "units" : "count\/min",
+            "Max" : 133,
+            "Min" : 133,
+            "Avg" : 133,
+            "date" : "2026-08-13 13:40:37 +0200"
+          },
+          {
+            "Max" : 133,
+            "date" : "2026-08-13 13:40:44 +0200",
+            "Avg" : 133,
+            "units" : "count\/min",
+            "Min" : 133
+          },
+          {
+            "Avg" : 133,
+            "date" : "2026-08-13 13:40:49 +0200",
+            "units" : "count\/min",
+            "Max" : 133,
+            "Min" : 133
+          },
+          {
+            "Min" : 133,
+            "Avg" : 133,
+            "date" : "2026-08-13 13:40:52 +0200",
+            "Max" : 133,
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 134,
+            "date" : "2026-08-13 13:40:58 +0200",
+            "units" : "count\/min",
+            "Min" : 134,
+            "Avg" : 134
+          },
+          {
+            "Avg" : 134,
+            "Max" : 134,
+            "date" : "2026-08-13 13:41:01 +0200",
+            "units" : "count\/min",
+            "Min" : 134
+          },
+          {
+            "units" : "count\/min",
+            "Min" : 117,
+            "Avg" : 117,
+            "date" : "2026-08-13 13:41:10 +0200",
+            "Max" : 117
+          },
+          {
+            "Avg" : 116,
+            "units" : "count\/min",
+            "Max" : 116,
+            "Min" : 116,
+            "date" : "2026-08-13 13:41:15 +0200"
+          },
+          {
+            "Avg" : 118,
+            "Max" : 118,
+            "Min" : 118,
+            "date" : "2026-08-13 13:41:19 +0200",
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 112,
+            "Avg" : 112,
+            "date" : "2026-08-13 13:41:25 +0200",
+            "Min" : 112,
+            "units" : "count\/min"
+          }
+        ],
+        "id" : "C9D76181-7C4E-4755-BA6E-8B99EE4AF93C",
+        "totalEnergy" : {
+          "qty" : 824.94125547944236,
+          "units" : "kJ"
+        },
+        "intensity" : {
+          "units" : "kcal\/hr·kg",
+          "qty" : 8.9069550138264173
+        },
+        "stepCount" : [
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-08-13 13:28:57 +0200",
+            "qty" : 35.235507263138103,
+            "units" : "count"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-08-13 13:29:57 +0200",
+            "qty" : 39.676695805362783,
+            "units" : "count"
+          },
+          {
+            "units" : "count",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 39.676695805362783,
+            "date" : "2026-08-13 13:30:57 +0200"
+          },
+          {
+            "units" : "count",
+            "qty" : 39.676695805362783,
+            "source" : "Hardik’s Apple Watch",
+            "date" : "2026-08-13 13:31:57 +0200"
+          },
+          {
+            "units" : "count",
+            "date" : "2026-08-13 13:32:57 +0200",
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 39.676695805362783
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "units" : "count",
+            "qty" : 39.676695805362783,
+            "date" : "2026-08-13 13:33:57 +0200"
+          },
+          {
+            "qty" : 39.676695805362783,
+            "units" : "count",
+            "date" : "2026-08-13 13:34:57 +0200",
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "source" : "Hardik’s Apple Watch",
+            "qty" : 39.67669580536279,
+            "date" : "2026-08-13 13:35:57 +0200",
+            "units" : "count"
+          },
+          {
+            "units" : "count",
+            "date" : "2026-08-13 13:36:57 +0200",
+            "qty" : 39.676695805362783,
+            "source" : "Hardik’s Apple Watch"
+          },
+          {
+            "date" : "2026-08-13 13:37:57 +0200",
+            "units" : "count",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 39.67669580536279
+          },
+          {
+            "units" : "count",
+            "date" : "2026-08-13 13:38:57 +0200",
+            "source" : "Hardik’s Apple Watch|Hardik’s iPhone",
+            "qty" : 62.674230488596827
+          }
+        ],
+        "name" : "Functional Strength Training"
       }
     ]
   }
