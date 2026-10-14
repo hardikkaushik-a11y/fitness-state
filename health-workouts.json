@@ -2,841 +2,57 @@
   "data" : {
     "workouts" : [
       {
-        "start" : "2026-10-12 11:04:24 +0530",
-        "maxHeartRate" : {
-          "qty" : 145,
-          "units" : "count\/min"
-        },
-        "heartRateRecovery" : [
-          {
-            "date" : "2026-10-12 11:43:42 +0530",
-            "Avg" : 114,
-            "Max" : 114,
-            "units" : "count\/min",
-            "Min" : 114
-          },
-          {
-            "date" : "2026-10-12 11:43:47 +0530",
-            "Avg" : 113,
-            "Min" : 113,
-            "Max" : 113,
-            "units" : "count\/min"
-          },
-          {
-            "date" : "2026-10-12 11:43:56 +0530",
-            "Max" : 108,
-            "units" : "count\/min",
-            "Avg" : 108,
-            "Min" : 108
-          },
-          {
-            "Avg" : 108,
-            "Max" : 108,
-            "date" : "2026-10-12 11:43:57 +0530",
-            "units" : "count\/min",
-            "Min" : 108
-          },
-          {
-            "units" : "count\/min",
-            "Max" : 108,
-            "Avg" : 108,
-            "date" : "2026-10-12 11:44:02 +0530",
-            "Min" : 108
-          },
-          {
-            "date" : "2026-10-12 11:44:07 +0530",
-            "Max" : 105,
-            "units" : "count\/min",
-            "Avg" : 105,
-            "Min" : 105
-          },
-          {
-            "Min" : 107,
-            "date" : "2026-10-12 11:44:14 +0530",
-            "Max" : 107,
-            "units" : "count\/min",
-            "Avg" : 107
-          },
-          {
-            "units" : "count\/min",
-            "Avg" : 109,
-            "Max" : 109,
-            "Min" : 109,
-            "date" : "2026-10-12 11:44:17 +0530"
-          },
-          {
-            "date" : "2026-10-12 11:44:22 +0530",
-            "Avg" : 110,
-            "Min" : 110,
-            "Max" : 110,
-            "units" : "count\/min"
-          },
-          {
-            "Min" : 112,
-            "Avg" : 112,
-            "Max" : 112,
-            "units" : "count\/min",
-            "date" : "2026-10-12 11:44:27 +0530"
-          }
-        ],
-        "location" : "Indoor",
-        "heartRateData" : [
-          {
-            "Min" : 81,
-            "Avg" : 84,
-            "date" : "2026-10-12 11:04:00 +0530",
-            "Max" : 88,
-            "units" : "count\/min"
-          },
-          {
-            "Max" : 96,
-            "Min" : 80,
-            "date" : "2026-10-12 11:05:00 +0530",
-            "units" : "count\/min",
-            "Avg" : 87.25
-          },
-          {
-            "Min" : 77,
-            "date" : "2026-10-12 11:06:00 +0530",
-            "units" : "count\/min",
-            "Max" : 103,
-            "Avg" : 90.833333333333329
-          },
-          {
-            "Max" : 84,
-            "units" : "count\/min",
-            "Avg" : 76,
-            "date" : "2026-10-12 11:07:00 +0530",
-            "Min" : 72
-          },
-          {
-            "date" : "2026-10-12 11:08:00 +0530",
-            "Max" : 104,
-            "Avg" : 87.5,
-            "Min" : 78,
-            "units" : "count\/min"
-          },
-          {
-            "Min" : 90,
-            "units" : "count\/min",
-            "Avg" : 101.83333333333333,
-            "date" : "2026-10-12 11:09:00 +0530",
-            "Max" : 118
-          },
-          {
-            "Min" : 86,
-            "Avg" : 96.916666666666671,
-            "Max" : 109,
-            "date" : "2026-10-12 11:10:00 +0530",
-            "units" : "count\/min"
-          },
-          {
-            "units" : "count\/min",
-            "Max" : 121,
-            "Avg" : 96.333333333333329,
-            "date" : "2026-10-12 11:11:00 +0530",
-            "Min" : 81
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-10-12 11:12:00 +0530",
-            "Avg" : 96.5,
-            "Max" : 104,
-            "Min" : 90
-          },
-          {
-            "date" : "2026-10-12 11:13:00 +0530",
-            "Avg" : 105.08333333333333,
-            "Max" : 113,
-            "units" : "count\/min",
-            "Min" : 97
-          },
-          {
-            "Min" : 85,
-            "units" : "count\/min",
-            "Avg" : 97,
-            "date" : "2026-10-12 11:14:00 +0530",
-            "Max" : 120
-          },
-          {
-            "Min" : 82,
-            "date" : "2026-10-12 11:15:00 +0530",
-            "Max" : 88,
-            "units" : "count\/min",
-            "Avg" : 84.166666666666671
-          },
-          {
-            "Max" : 107,
-            "Avg" : 95.5,
-            "date" : "2026-10-12 11:16:00 +0530",
-            "Min" : 84,
-            "units" : "count\/min"
-          },
-          {
-            "Avg" : 107.41666666666667,
-            "Min" : 101,
-            "units" : "count\/min",
-            "date" : "2026-10-12 11:17:00 +0530",
-            "Max" : 116
-          },
-          {
-            "Max" : 115,
-            "date" : "2026-10-12 11:18:00 +0530",
-            "units" : "count\/min",
-            "Avg" : 102.66666666666667,
-            "Min" : 90
-          },
-          {
-            "Min" : 97,
-            "Max" : 110,
-            "date" : "2026-10-12 11:19:00 +0530",
-            "Avg" : 102.75,
-            "units" : "count\/min"
-          },
-          {
-            "Min" : 93,
-            "Avg" : 103.41666666666667,
-            "Max" : 120,
-            "units" : "count\/min",
-            "date" : "2026-10-12 11:20:00 +0530"
-          },
-          {
-            "Max" : 130,
-            "date" : "2026-10-12 11:21:00 +0530",
-            "Avg" : 120.41666666666667,
-            "Min" : 112,
-            "units" : "count\/min"
-          },
-          {
-            "Avg" : 108.45454545454545,
-            "date" : "2026-10-12 11:22:00 +0530",
-            "Max" : 120,
-            "units" : "count\/min",
-            "Min" : 96
-          },
-          {
-            "date" : "2026-10-12 11:23:00 +0530",
-            "Min" : 101,
-            "units" : "count\/min",
-            "Avg" : 113.46153846153847,
-            "Max" : 126
-          },
-          {
-            "Avg" : 116.33333333333333,
-            "Min" : 113,
-            "Max" : 120,
-            "units" : "count\/min",
-            "date" : "2026-10-12 11:24:00 +0530"
-          },
-          {
-            "units" : "count\/min",
-            "Avg" : 115.75,
-            "date" : "2026-10-12 11:25:00 +0530",
-            "Min" : 103,
-            "Max" : 136
-          },
-          {
-            "date" : "2026-10-12 11:26:00 +0530",
-            "Min" : 115,
-            "units" : "count\/min",
-            "Max" : 137,
-            "Avg" : 124
-          },
-          {
-            "Max" : 120,
-            "units" : "count\/min",
-            "date" : "2026-10-12 11:27:00 +0530",
-            "Avg" : 109.69230769230769,
-            "Min" : 101
-          },
-          {
-            "Max" : 117,
-            "units" : "count\/min",
-            "Avg" : 103.58333333333333,
-            "Min" : 100,
-            "date" : "2026-10-12 11:28:00 +0530"
-          },
-          {
-            "Max" : 134,
-            "Avg" : 117.75,
-            "units" : "count\/min",
-            "date" : "2026-10-12 11:29:00 +0530",
-            "Min" : 107
-          },
-          {
-            "Max" : 108,
-            "date" : "2026-10-12 11:30:00 +0530",
-            "units" : "count\/min",
-            "Avg" : 103.41666666666667,
-            "Min" : 100
-          },
-          {
-            "Avg" : 104.08333333333333,
-            "Max" : 116,
-            "units" : "count\/min",
-            "date" : "2026-10-12 11:31:00 +0530",
-            "Min" : 97
-          },
-          {
-            "Min" : 104,
-            "Avg" : 112.83333333333333,
-            "date" : "2026-10-12 11:32:00 +0530",
-            "Max" : 128,
-            "units" : "count\/min"
-          },
-          {
-            "Min" : 95,
-            "Avg" : 109.83333333333333,
-            "units" : "count\/min",
-            "date" : "2026-10-12 11:33:00 +0530",
-            "Max" : 126
-          },
-          {
-            "Min" : 105,
-            "Avg" : 107.66666666666667,
-            "units" : "count\/min",
-            "date" : "2026-10-12 11:34:00 +0530",
-            "Max" : 111
-          },
-          {
-            "units" : "count\/min",
-            "Avg" : 106.25,
-            "Min" : 103,
-            "Max" : 114,
-            "date" : "2026-10-12 11:35:00 +0530"
-          },
-          {
-            "Min" : 103,
-            "Max" : 145,
-            "Avg" : 122,
-            "units" : "count\/min",
-            "date" : "2026-10-12 11:36:00 +0530"
-          },
-          {
-            "units" : "count\/min",
-            "Min" : 103,
-            "Avg" : 110.90909090909091,
-            "Max" : 119,
-            "date" : "2026-10-12 11:37:00 +0530"
-          },
-          {
-            "Max" : 140,
-            "date" : "2026-10-12 11:38:00 +0530",
-            "units" : "count\/min",
-            "Min" : 102,
-            "Avg" : 118.41666666666667
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-10-12 11:39:00 +0530",
-            "Max" : 134,
-            "Avg" : 125.61538461538461,
-            "Min" : 119
-          },
-          {
-            "units" : "count\/min",
-            "Avg" : 115.18181818181819,
-            "date" : "2026-10-12 11:40:00 +0530",
-            "Min" : 110,
-            "Max" : 122
-          },
-          {
-            "date" : "2026-10-12 11:41:00 +0530",
-            "Min" : 114,
-            "units" : "count\/min",
-            "Avg" : 119.76923076923077,
-            "Max" : 129
-          },
-          {
-            "Min" : 108,
-            "date" : "2026-10-12 11:42:00 +0530",
-            "Max" : 124,
-            "units" : "count\/min",
-            "Avg" : 115.66666666666667
-          },
-          {
-            "units" : "count\/min",
-            "date" : "2026-10-12 11:43:00 +0530",
-            "Min" : 113,
-            "Avg" : 114.25,
-            "Max" : 115
-          }
-        ],
-        "activeEnergy" : [
-          {
-            "date" : "2026-10-12 11:13:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 15.888658502659641
-          },
-          {
-            "date" : "2026-10-12 11:14:00 +0530",
-            "units" : "kJ",
-            "qty" : 19.300751720700763,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 19.08898861351398,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:15:00 +0530",
-            "units" : "kJ"
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-10-12 11:16:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "qty" : 19.188724891432997
-          },
-          {
-            "units" : "kJ",
-            "qty" : 20.891674179484401,
-            "date" : "2026-10-12 11:17:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 19.757890869410257,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:18:00 +0530",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 22.45758127306943,
-            "units" : "kJ",
-            "date" : "2026-10-12 11:19:00 +0530"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 25.183183384216385,
-            "units" : "kJ",
-            "date" : "2026-10-12 11:20:00 +0530"
-          },
-          {
-            "qty" : 28.851628613004159,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:21:00 +0530"
-          },
-          {
-            "date" : "2026-10-12 11:22:00 +0530",
-            "units" : "kJ",
-            "qty" : 21.012642604430795,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:23:00 +0530",
-            "qty" : 26.777493903831196,
-            "units" : "kJ"
-          },
-          {
-            "units" : "kJ",
-            "qty" : 23.482650754532596,
-            "date" : "2026-10-12 11:24:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 27.203680248438985,
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "date" : "2026-10-12 11:25:00 +0530"
-          },
-          {
-            "qty" : 27.227201475103403,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:26:00 +0530"
-          },
-          {
-            "date" : "2026-10-12 11:27:00 +0530",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "qty" : 19.410106524338261
-          },
-          {
-            "date" : "2026-10-12 11:28:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "qty" : 19.383042704995983,
-            "units" : "kJ"
-          },
-          {
-            "qty" : 26.472653627453383,
-            "date" : "2026-10-12 11:29:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "qty" : 19.033468944398262,
-            "date" : "2026-10-12 11:30:00 +0530",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-10-12 11:31:00 +0530",
-            "units" : "kJ",
-            "qty" : 19.780902664461291,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 23.901272838934005,
-            "units" : "kJ",
-            "date" : "2026-10-12 11:32:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 24.18246275674008,
-            "date" : "2026-10-12 11:33:00 +0530"
-          },
-          {
-            "date" : "2026-10-12 11:34:00 +0530",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "qty" : 23.507217928409499
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 22.171144976440313,
-            "units" : "kJ",
-            "date" : "2026-10-12 11:35:00 +0530"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 31.850229092023106,
-            "date" : "2026-10-12 11:36:00 +0530"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "qty" : 19.202000400370164,
-            "date" : "2026-10-12 11:37:00 +0530"
-          },
-          {
-            "units" : "kJ",
-            "qty" : 31.544148876619612,
-            "date" : "2026-10-12 11:38:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 34.41067129686818,
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "date" : "2026-10-12 11:39:00 +0530"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:40:00 +0530",
-            "qty" : 26.588406682168678
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 27.276731043059694,
-            "units" : "kJ",
-            "date" : "2026-10-12 11:41:00 +0530"
-          },
-          {
-            "qty" : 24.791144559550972,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:42:00 +0530",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:43:00 +0530",
-            "units" : "kJ",
-            "qty" : 12.302388049339617
-          }
-        ],
-        "source" : {
-          "name" : "Hevy",
-          "identifier" : "com.hevyapp.hevy"
-        },
         "isIndoor" : true,
         "avgHeartRate" : {
           "units" : "count\/min",
           "qty" : 105.94095255393793
         },
-        "stepCount" : [
+        "activeEnergyBurned" : {
+          "qty" : 900.7608079999975,
+          "units" : "kJ"
+        },
+        "basalEnergy" : [
           {
-            "source" : "Hardik’s iPhone",
-            "qty" : 8.5002815617278333,
-            "date" : "2026-10-12 11:12:00 +0530",
-            "units" : "count"
-          },
-          {
-            "qty" : 9.6773023643058824,
+            "qty" : 4.3690246825435413,
+            "units" : "kJ",
             "date" : "2026-10-12 11:13:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "count"
+            "source" : "Hardik’s iPhone"
           },
           {
-            "units" : "count",
             "date" : "2026-10-12 11:14:00 +0530",
-            "qty" : 9.6773023643058806,
-            "source" : "Hardik’s iPhone"
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "qty" : 5.0741444082540932
           },
           {
             "date" : "2026-10-12 11:15:00 +0530",
-            "units" : "count",
-            "qty" : 9.6773023643058806,
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "qty" : 5.0952252657022035
           },
           {
+            "units" : "kJ",
             "date" : "2026-10-12 11:16:00 +0530",
-            "qty" : 9.6773023643058824,
-            "units" : "count",
+            "qty" : 5.1058359710488004,
             "source" : "Hardik’s iPhone"
           },
           {
             "date" : "2026-10-12 11:17:00 +0530",
             "source" : "Hardik’s iPhone",
-            "units" : "count",
-            "qty" : 9.6773023643058842
+            "units" : "kJ",
+            "qty" : 5.0974843145291731
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-10-12 11:18:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 5.0933218318427373
           },
           {
             "source" : "Hardik’s iPhone",
-            "units" : "count",
-            "qty" : 9.6773023643058824,
-            "date" : "2026-10-12 11:18:00 +0530"
-          },
-          {
+            "qty" : 5.1059177155677382,
             "date" : "2026-10-12 11:19:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "qty" : 9.6773023643058824,
-            "units" : "count"
-          },
-          {
-            "units" : "count",
-            "date" : "2026-10-12 11:20:00 +0530",
-            "qty" : 3.7586018881309968,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-10-12 11:24:00 +0530",
-            "units" : "count",
-            "source" : "Hardik’s iPhone",
-            "qty" : 1.4701741206713177
-          },
-          {
-            "date" : "2026-10-12 11:25:00 +0530",
-            "qty" : 10.686025316282263,
-            "source" : "Hardik’s iPhone",
-            "units" : "count"
-          },
-          {
-            "qty" : 10.686025316282262,
-            "date" : "2026-10-12 11:26:00 +0530",
-            "units" : "count",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:27:00 +0530",
-            "units" : "count",
-            "qty" : 10.686025316282262
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:28:00 +0530",
-            "qty" : 10.686025316282262,
-            "units" : "count"
-          },
-          {
-            "date" : "2026-10-12 11:29:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "qty" : 10.68602531628226,
-            "units" : "count"
-          },
-          {
-            "qty" : 10.686025316282262,
-            "date" : "2026-10-12 11:30:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "count"
-          },
-          {
-            "qty" : 10.68602531628226,
-            "date" : "2026-10-12 11:31:00 +0530",
-            "units" : "count",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 10.686025316282258,
-            "units" : "count",
-            "date" : "2026-10-12 11:32:00 +0530"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "units" : "count",
-            "date" : "2026-10-12 11:33:00 +0530",
-            "qty" : 10.68602531628226
-          },
-          {
-            "units" : "count",
-            "qty" : 6.4492859195832466,
-            "date" : "2026-10-12 11:34:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 12.587090658089862,
-            "units" : "count",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:35:00 +0530"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 12.587090658089862,
-            "date" : "2026-10-12 11:36:00 +0530",
-            "units" : "count"
-          },
-          {
-            "qty" : 12.587090658089862,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:37:00 +0530",
-            "units" : "count"
-          },
-          {
-            "units" : "count",
-            "date" : "2026-10-12 11:38:00 +0530",
-            "qty" : 12.58709065808986,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "units" : "count",
-            "date" : "2026-10-12 11:39:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "qty" : 12.58709065808986
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 12.58709065808986,
-            "units" : "count",
-            "date" : "2026-10-12 11:40:00 +0530"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:41:00 +0530",
-            "units" : "count",
-            "qty" : 12.58709065808986
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 12.587090658089858,
-            "date" : "2026-10-12 11:42:00 +0530",
-            "units" : "count"
-          },
-          {
-            "units" : "count",
-            "source" : "Hardik’s iPhone",
-            "qty" : 12.587090658089858,
-            "date" : "2026-10-12 11:43:00 +0530"
-          },
-          {
-            "qty" : 2.6224961903963049,
-            "date" : "2026-10-12 11:44:00 +0530",
-            "units" : "count",
-            "source" : "Hardik’s iPhone"
-          }
-        ],
-        "metadata" : {
-
-        },
-        "activeEnergyBurned" : {
-          "qty" : 900.7608079999975,
-          "units" : "kJ"
-        },
-        "totalEnergy" : {
-          "units" : "kJ",
-          "qty" : 1055.5144159999975
-        },
-        "duration" : 2354.1825820207596,
-        "activities" : [
-          {
-            "activityTypeCode" : 50,
-            "duration" : 2354.1825820207596,
-            "index" : 1,
-            "activityType" : "traditional_strength_training",
-            "start" : "2026-10-12 11:04:24 +0530",
-            "activeDuration" : 2354.1825820207596,
-            "elapsedDuration" : 2354.1825820207596,
-            "boundaryKind" : "interval",
-            "end" : "2026-10-12 11:43:38 +0530",
-            "metrics" : {
-              "activeEnergy" : {
-                "origin" : "activityStatistics",
-                "qty" : 215.28699999999941,
-                "units" : "kcal"
-              },
-              "heartRateMinimum" : {
-                "origin" : "activityStatistics",
-                "units" : "bpm",
-                "qty" : 72
-              },
-              "heartRateAverage" : {
-                "units" : "bpm",
-                "qty" : 105.94095255393793,
-                "origin" : "activityStatistics"
-              },
-              "heartRateMaximum" : {
-                "qty" : 145,
-                "units" : "bpm",
-                "origin" : "activityStatistics"
-              }
-            },
-            "id" : "27E8A1CF-BCAD-4411-98D5-876CB76E090B",
-            "configuration" : {
-              "locationType" : "indoor",
-              "swimmingLocationType" : "unknown"
-            },
-            "boundaryOrigin" : "recordedActivity"
-          }
-        ],
-        "id" : "27E8A1CF-BCAD-4411-98D5-876CB76E090B",
-        "basalEnergy" : [
-          {
-            "date" : "2026-10-12 11:13:00 +0530",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "qty" : 4.3690246825435413
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:14:00 +0530",
-            "qty" : 5.0741444082540932,
             "units" : "kJ"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "qty" : 5.0952252657022035,
-            "date" : "2026-10-12 11:15:00 +0530"
-          },
-          {
-            "qty" : 5.1058359710488004,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:16:00 +0530",
-            "units" : "kJ"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "qty" : 5.0974843145291731,
-            "date" : "2026-10-12 11:17:00 +0530"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 5.0933218318427373,
-            "units" : "kJ",
-            "date" : "2026-10-12 11:18:00 +0530"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:19:00 +0530",
-            "qty" : 5.1059177155677382
           },
           {
             "qty" : 5.105931462620136,
@@ -845,1353 +61,1180 @@
             "units" : "kJ"
           },
           {
-            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:21:00 +0530",
             "units" : "kJ",
             "qty" : 5.1011338153894057,
-            "date" : "2026-10-12 11:21:00 +0530"
+            "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 5.1066249730149282,
-            "units" : "kJ",
             "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "qty" : 5.1066249730149282,
             "date" : "2026-10-12 11:22:00 +0530"
           },
           {
-            "date" : "2026-10-12 11:23:00 +0530",
+            "units" : "kJ",
             "qty" : 5.1052812320747956,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:23:00 +0530"
           },
           {
+            "source" : "Hardik’s iPhone",
             "date" : "2026-10-12 11:24:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "qty" : 5.1049250757156059,
-            "units" : "kJ"
+            "units" : "kJ",
+            "qty" : 5.1049250757156059
           },
           {
+            "units" : "kJ",
+            "qty" : 5.1076463563375505,
             "date" : "2026-10-12 11:25:00 +0530",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "qty" : 5.1076463563375505
+            "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 5.1039848079476187,
-            "date" : "2026-10-12 11:26:00 +0530",
             "units" : "kJ",
-            "source" : "Hardik’s iPhone"
+            "qty" : 5.1039848079476187,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:26:00 +0530"
           },
           {
             "qty" : 5.0576235772297116,
-            "units" : "kJ",
-            "date" : "2026-10-12 11:27:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-10-12 11:28:00 +0530",
-            "units" : "kJ",
-            "qty" : 5.0596007136921726,
-            "source" : "Hardik’s iPhone"
-          },
-          {
             "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:29:00 +0530",
-            "units" : "kJ",
-            "qty" : 5.0722532339875652
+            "date" : "2026-10-12 11:27:00 +0530",
+            "units" : "kJ"
           },
           {
-            "date" : "2026-10-12 11:30:00 +0530",
-            "qty" : 5.0471783120938518,
+            "qty" : 5.0596007136921726,
+            "date" : "2026-10-12 11:28:00 +0530",
             "source" : "Hardik’s iPhone",
             "units" : "kJ"
+          },
+          {
+            "date" : "2026-10-12 11:29:00 +0530",
+            "qty" : 5.0722532339875652,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "qty" : 5.0471783120938518,
+            "date" : "2026-10-12 11:30:00 +0530"
           },
           {
             "qty" : 5.0681081437393765,
-            "source" : "Hardik’s iPhone",
             "date" : "2026-10-12 11:31:00 +0530",
+            "source" : "Hardik’s iPhone",
             "units" : "kJ"
           },
           {
-            "qty" : 5.1057136635783902,
             "units" : "kJ",
+            "date" : "2026-10-12 11:32:00 +0530",
             "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:32:00 +0530"
+            "qty" : 5.1057136635783902
           },
           {
-            "date" : "2026-10-12 11:33:00 +0530",
-            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
             "qty" : 5.1015620367819814,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:33:00 +0530"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 5.1058092559650969,
+            "date" : "2026-10-12 11:34:00 +0530",
             "units" : "kJ"
           },
           {
-            "units" : "kJ",
-            "date" : "2026-10-12 11:34:00 +0530",
-            "qty" : 5.1058092559650969,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-10-12 11:35:00 +0530",
+            "source" : "Hardik’s iPhone",
             "qty" : 5.104549150343562,
             "units" : "kJ",
-            "source" : "Hardik’s iPhone"
+            "date" : "2026-10-12 11:35:00 +0530"
           },
           {
-            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
             "date" : "2026-10-12 11:36:00 +0530",
-            "qty" : 5.0885474093554866,
-            "source" : "Hardik’s iPhone"
+            "units" : "kJ",
+            "qty" : 5.0885474093554866
           },
           {
-            "units" : "kJ",
             "qty" : 5.0825063219493849,
             "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:37:00 +0530"
-          },
-          {
-            "units" : "kJ",
-            "qty" : 5.1016711670985613,
-            "date" : "2026-10-12 11:38:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-10-12 11:39:00 +0530",
-            "units" : "kJ",
-            "qty" : 5.0973421567458095,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 5.1015274463816747,
-            "date" : "2026-10-12 11:40:00 +0530"
-          },
-          {
-            "qty" : 5.1058394694316016,
-            "date" : "2026-10-12 11:41:00 +0530",
-            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:37:00 +0530",
             "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 5.1016711670985613,
+            "units" : "kJ",
+            "date" : "2026-10-12 11:38:00 +0530"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 5.0973421567458095,
+            "units" : "kJ",
+            "date" : "2026-10-12 11:39:00 +0530"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:40:00 +0530",
+            "qty" : 5.1015274463816747
+          },
+          {
+            "date" : "2026-10-12 11:41:00 +0530",
+            "qty" : 5.1058394694316016,
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone"
           },
           {
             "source" : "Hardik’s iPhone",
             "qty" : 5.1057879928954657,
-            "date" : "2026-10-12 11:42:00 +0530",
-            "units" : "kJ"
+            "units" : "kJ",
+            "date" : "2026-10-12 11:42:00 +0530"
           },
           {
-            "units" : "kJ",
+            "date" : "2026-10-12 11:43:00 +0530",
             "qty" : 2.6715060361420262,
             "source" : "Hardik’s iPhone",
-            "date" : "2026-10-12 11:43:00 +0530"
+            "units" : "kJ"
           }
         ],
         "stepCadence" : {
           "qty" : 7.6459660085282497,
           "units" : "count\/min"
         },
-        "name" : "Traditional Strength Training",
-        "end" : "2026-10-12 11:43:38 +0530",
         "heartRate" : {
+          "min" : {
+            "qty" : 72,
+            "units" : "count\/min"
+          },
+          "avg" : {
+            "qty" : 105.94095255393793,
+            "units" : "count\/min"
+          },
           "max" : {
             "qty" : 145,
             "units" : "count\/min"
-          },
-          "min" : {
-            "units" : "count\/min",
-            "qty" : 72
-          },
-          "avg" : {
-            "units" : "count\/min",
-            "qty" : 105.94095255393793
           }
-        }
-      },
-      {
-        "id" : "BBD5FB3F-4B62-4679-9D66-D3C4C708150E",
-        "location" : "Indoor",
+        },
         "totalEnergy" : {
-          "qty" : 1389.803463999996,
+          "qty" : 1055.5144159999975,
           "units" : "kJ"
         },
-        "stepCount" : [
+        "start" : "2026-10-12 11:04:24 +0530",
+        "duration" : 2354.1825820207596,
+        "activities" : [
           {
-            "date" : "2026-10-09 09:18:00 +0530",
-            "qty" : 0.0079971519072601846,
-            "units" : "count",
+            "metrics" : {
+              "heartRateMaximum" : {
+                "qty" : 145,
+                "units" : "bpm",
+                "origin" : "activityStatistics"
+              },
+              "heartRateAverage" : {
+                "units" : "bpm",
+                "origin" : "activityStatistics",
+                "qty" : 105.94095255393793
+              },
+              "heartRateMinimum" : {
+                "units" : "bpm",
+                "qty" : 72,
+                "origin" : "activityStatistics"
+              },
+              "activeEnergy" : {
+                "qty" : 215.28699999999941,
+                "units" : "kcal",
+                "origin" : "activityStatistics"
+              }
+            },
+            "id" : "27E8A1CF-BCAD-4411-98D5-876CB76E090B",
+            "elapsedDuration" : 2354.1825820207596,
+            "end" : "2026-10-12 11:43:38 +0530",
+            "boundaryOrigin" : "recordedActivity",
+            "activityType" : "traditional_strength_training",
+            "configuration" : {
+              "swimmingLocationType" : "unknown",
+              "locationType" : "indoor"
+            },
+            "start" : "2026-10-12 11:04:24 +0530",
+            "duration" : 2354.1825820207596,
+            "boundaryKind" : "interval",
+            "activityTypeCode" : 50,
+            "index" : 1,
+            "activeDuration" : 2354.1825820207596
+          }
+        ],
+        "end" : "2026-10-12 11:43:38 +0530",
+        "activeEnergy" : [
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:13:00 +0530",
+            "qty" : 15.888658502659641
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "date" : "2026-10-12 11:14:00 +0530",
+            "qty" : 19.300751720700763
+          },
+          {
+            "qty" : 19.08898861351398,
+            "units" : "kJ",
+            "date" : "2026-10-12 11:15:00 +0530",
             "source" : "Hardik’s iPhone"
           },
           {
-            "date" : "2026-10-09 09:19:00 +0530",
-            "units" : "count",
+            "units" : "kJ",
+            "date" : "2026-10-12 11:16:00 +0530",
             "source" : "Hardik’s iPhone",
-            "qty" : 11.471046213614111
+            "qty" : 19.188724891432997
           },
           {
-            "qty" : 11.471046213614111,
-            "date" : "2026-10-09 09:20:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "count"
-          },
-          {
-            "date" : "2026-10-09 09:21:00 +0530",
-            "units" : "count",
-            "qty" : 11.471046213614111,
+            "qty" : 20.891674179484401,
+            "date" : "2026-10-12 11:17:00 +0530",
+            "units" : "kJ",
             "source" : "Hardik’s iPhone"
           },
           {
+            "units" : "kJ",
+            "qty" : 19.757890869410257,
             "source" : "Hardik’s iPhone",
-            "qty" : 11.471046213614109,
-            "units" : "count",
-            "date" : "2026-10-09 09:22:00 +0530"
+            "date" : "2026-10-12 11:18:00 +0530"
           },
           {
-            "date" : "2026-10-09 09:23:00 +0530",
-            "units" : "count",
+            "qty" : 22.45758127306943,
             "source" : "Hardik’s iPhone",
-            "qty" : 11.471046213614107
+            "date" : "2026-10-12 11:19:00 +0530",
+            "units" : "kJ"
           },
           {
-            "qty" : 11.471046213614107,
-            "date" : "2026-10-09 09:24:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "count"
-          },
-          {
-            "units" : "count",
-            "qty" : 11.471046213614105,
-            "date" : "2026-10-09 09:25:00 +0530",
+            "units" : "kJ",
+            "qty" : 25.183183384216385,
+            "date" : "2026-10-12 11:20:00 +0530",
             "source" : "Hardik’s iPhone"
           },
           {
-            "units" : "count",
-            "date" : "2026-10-09 09:26:00 +0530",
+            "units" : "kJ",
             "source" : "Hardik’s iPhone",
-            "qty" : 11.471046213614107
+            "qty" : 28.851628613004159,
+            "date" : "2026-10-12 11:21:00 +0530"
           },
           {
-            "qty" : 11.471046213614107,
-            "date" : "2026-10-09 09:27:00 +0530",
+            "qty" : 21.012642604430795,
+            "date" : "2026-10-12 11:22:00 +0530",
             "source" : "Hardik’s iPhone",
-            "units" : "count"
+            "units" : "kJ"
           },
           {
-            "units" : "count",
-            "qty" : 9.2958326172132786,
+            "qty" : 26.777493903831196,
+            "date" : "2026-10-12 11:23:00 +0530",
             "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:28:00 +0530"
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-10-12 11:24:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "qty" : 23.482650754532596
           },
           {
             "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:29:00 +0530",
-            "qty" : 22.505072148201435,
-            "units" : "count"
+            "units" : "kJ",
+            "date" : "2026-10-12 11:25:00 +0530",
+            "qty" : 27.203680248438985
           },
           {
-            "date" : "2026-10-09 09:30:00 +0530",
-            "units" : "count",
-            "qty" : 22.505072148201435,
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "qty" : 27.227201475103403,
+            "date" : "2026-10-12 11:26:00 +0530"
+          },
+          {
+            "qty" : 19.410106524338261,
+            "date" : "2026-10-12 11:27:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-10-12 11:28:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 19.383042704995983
+          },
+          {
+            "qty" : 26.472653627453383,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "date" : "2026-10-12 11:29:00 +0530"
+          },
+          {
+            "date" : "2026-10-12 11:30:00 +0530",
+            "qty" : 19.033468944398262,
+            "units" : "kJ",
             "source" : "Hardik’s iPhone"
           },
           {
+            "qty" : 19.780902664461291,
+            "date" : "2026-10-12 11:31:00 +0530",
             "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:31:00 +0530",
-            "qty" : 22.505072148201432,
-            "units" : "count"
+            "units" : "kJ"
+          },
+          {
+            "qty" : 23.901272838934005,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:32:00 +0530",
+            "units" : "kJ"
           },
           {
             "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:32:00 +0530",
-            "qty" : 22.505072148201435,
-            "units" : "count"
+            "qty" : 24.18246275674008,
+            "date" : "2026-10-12 11:33:00 +0530",
+            "units" : "kJ"
           },
           {
-            "qty" : 22.505072148201435,
-            "units" : "count",
-            "date" : "2026-10-09 09:33:00 +0530",
+            "qty" : 23.507217928409499,
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:34:00 +0530"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:35:00 +0530",
+            "qty" : 22.171144976440313
+          },
+          {
+            "date" : "2026-10-12 11:36:00 +0530",
+            "units" : "kJ",
+            "qty" : 31.850229092023106,
             "source" : "Hardik’s iPhone"
           },
           {
+            "date" : "2026-10-12 11:37:00 +0530",
+            "qty" : 19.202000400370164,
             "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:34:00 +0530",
-            "qty" : 22.505072148201432,
-            "units" : "count"
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:38:00 +0530",
+            "qty" : 31.544148876619612
           },
           {
             "source" : "Hardik’s iPhone",
-            "units" : "count",
-            "date" : "2026-10-09 09:35:00 +0530",
-            "qty" : 22.505072148201435
+            "qty" : 34.41067129686818,
+            "units" : "kJ",
+            "date" : "2026-10-12 11:39:00 +0530"
           },
           {
+            "qty" : 26.588406682168678,
             "source" : "Hardik’s iPhone",
-            "units" : "count",
-            "qty" : 22.505072148201432,
-            "date" : "2026-10-09 09:36:00 +0530"
+            "date" : "2026-10-12 11:40:00 +0530",
+            "units" : "kJ"
           },
           {
-            "units" : "count",
-            "date" : "2026-10-09 09:37:00 +0530",
-            "qty" : 5.4161771227409794,
+            "qty" : 27.276731043059694,
+            "date" : "2026-10-12 11:41:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "qty" : 24.791144559550972,
+            "date" : "2026-10-12 11:42:00 +0530",
             "source" : "Hardik’s iPhone"
           },
           {
-            "qty" : 3.155302215701584,
-            "date" : "2026-10-09 09:48:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "count"
-          },
-          {
-            "qty" : 9.3061479318253202,
-            "source" : "Hardik’s iPhone",
-            "units" : "count",
-            "date" : "2026-10-09 09:49:00 +0530"
-          },
-          {
-            "qty" : 9.306147931825322,
-            "date" : "2026-10-09 09:50:00 +0530",
-            "units" : "count",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "units" : "count",
-            "source" : "Hardik’s iPhone",
-            "qty" : 9.3061479318253202,
-            "date" : "2026-10-09 09:51:00 +0530"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "units" : "count",
-            "date" : "2026-10-09 09:52:00 +0530",
-            "qty" : 9.306147931825322
-          },
-          {
-            "qty" : 9.3061479318253202,
-            "units" : "count",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:53:00 +0530"
-          },
-          {
-            "qty" : 9.306147931825322,
-            "date" : "2026-10-09 09:54:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "count"
-          },
-          {
-            "qty" : 9.3061479318253202,
-            "source" : "Hardik’s iPhone",
-            "units" : "count",
-            "date" : "2026-10-09 09:55:00 +0530"
-          },
-          {
-            "units" : "count",
-            "source" : "Hardik’s iPhone",
-            "qty" : 9.3061479318253202,
-            "date" : "2026-10-09 09:56:00 +0530"
-          },
-          {
-            "units" : "count",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:57:00 +0530",
-            "qty" : 9.3061479318253202
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "units" : "count",
-            "qty" : 5.0893663978705241,
-            "date" : "2026-10-09 09:58:00 +0530"
-          },
-          {
-            "date" : "2026-10-09 09:59:00 +0530",
-            "units" : "count",
-            "qty" : 23.482736259906503,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "units" : "count",
-            "qty" : 24.93279115851562,
-            "date" : "2026-10-09 10:00:00 +0530",
+            "date" : "2026-10-12 11:43:00 +0530",
+            "units" : "kJ",
+            "qty" : 12.302388049339617,
             "source" : "Hardik’s iPhone"
           }
         ],
-        "name" : "Traditional Strength Training",
-        "metadata" : {
-
-        },
-        "start" : "2026-10-09 09:11:53 +0530",
-        "isIndoor" : true,
         "source" : {
           "name" : "Hevy",
           "identifier" : "com.hevyapp.hevy"
         },
-        "basalEnergy" : [
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:17:00 +0530",
-            "qty" : 1.8326165324272141,
-            "units" : "kJ"
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:18:00 +0530",
-            "qty" : 5.0536224493309199
-          },
-          {
-            "qty" : 5.1007313376311219,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:19:00 +0530"
-          },
-          {
-            "qty" : 5.0967032601740412,
-            "date" : "2026-10-09 09:20:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "qty" : 5.0868336253529627,
-            "date" : "2026-10-09 09:21:00 +0530",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-10-09 09:22:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 5.0935176770791593
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-10-09 09:23:00 +0530",
-            "qty" : 5.1050644358886936,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 5.1006525589951224,
-            "date" : "2026-10-09 09:24:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:25:00 +0530",
-            "units" : "kJ",
-            "qty" : 5.0868101802822832
-          },
-          {
-            "qty" : 5.1024257359504075,
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "date" : "2026-10-09 09:26:00 +0530"
-          },
-          {
-            "qty" : 5.0631388603179204,
-            "units" : "kJ",
-            "date" : "2026-10-09 09:27:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "units" : "kJ",
-            "qty" : 4.6608682546973981,
-            "date" : "2026-10-09 09:28:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-10-09 09:29:00 +0530",
-            "qty" : 5.1042153236014149,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "date" : "2026-10-09 09:30:00 +0530",
-            "qty" : 5.1036005074867719
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 5.088731172867841,
-            "date" : "2026-10-09 09:31:00 +0530"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:32:00 +0530",
-            "units" : "kJ",
-            "qty" : 5.070991396756459
-          },
-          {
-            "qty" : 5.1048105996085704,
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "date" : "2026-10-09 09:33:00 +0530"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:34:00 +0530",
-            "units" : "kJ",
-            "qty" : 5.0980780151559291
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-10-09 09:35:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "qty" : 5.0834022543833086
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-10-09 09:36:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "qty" : 5.0963789314122101
-          },
-          {
-            "date" : "2026-10-09 09:37:00 +0530",
-            "qty" : 5.1001093251811529,
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:38:00 +0530",
-            "units" : "kJ",
-            "qty" : 5.0816269274378421
-          },
-          {
-            "qty" : 5.1056239307554474,
-            "date" : "2026-10-09 09:39:00 +0530",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-10-09 09:40:00 +0530",
-            "qty" : 5.0805687933715635,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:41:00 +0530",
-            "qty" : 5.0973306469914244,
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 5.0973510097455543,
-            "units" : "kJ",
-            "date" : "2026-10-09 09:42:00 +0530"
-          },
-          {
-            "units" : "kJ",
-            "qty" : 5.0931966286618078,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:43:00 +0530"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 5.0973528016837788,
-            "date" : "2026-10-09 09:44:00 +0530",
-            "units" : "kJ"
-          },
-          {
-            "qty" : 5.0961652902572157,
-            "units" : "kJ",
-            "date" : "2026-10-09 09:45:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:46:00 +0530",
-            "units" : "kJ",
-            "qty" : 5.0689980783516297
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:47:00 +0530",
-            "units" : "kJ",
-            "qty" : 5.0805594710683284
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-10-09 09:48:00 +0530",
-            "qty" : 5.1057463736722717,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-10-09 09:49:00 +0530",
-            "qty" : 5.0723396138669115,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 5.0723811113591255,
-            "date" : "2026-10-09 09:50:00 +0530",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:51:00 +0530",
-            "qty" : 5.1016809455805996,
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 5.1017211286907731,
-            "date" : "2026-10-09 09:52:00 +0530",
-            "units" : "kJ"
-          },
-          {
-            "qty" : 5.0935521397750456,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:53:00 +0530",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:54:00 +0530",
-            "units" : "kJ",
-            "qty" : 5.1057515143908763
-          },
-          {
-            "date" : "2026-10-09 09:55:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 5.0934377166443845
-          },
-          {
-            "date" : "2026-10-09 09:56:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 5.0971116225991118
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:57:00 +0530",
-            "qty" : 5.1058345785256902,
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:58:00 +0530",
-            "units" : "kJ",
-            "qty" : 5.0933541043799595
-          },
-          {
-            "units" : "kJ",
-            "qty" : 3.5604691376098203,
-            "date" : "2026-10-09 09:59:00 +0530",
-            "source" : "Hardik’s iPhone"
-          }
-        ],
         "maxHeartRate" : {
-          "qty" : 153,
-          "units" : "count\/min"
+          "units" : "count\/min",
+          "qty" : 145
         },
-        "heartRateRecovery" : [
+        "name" : "Traditional Strength Training",
+        "metadata" : {
+
+        },
+        "heartRateData" : [
           {
-            "Min" : 114,
-            "Avg" : 114,
+            "Min" : 81,
+            "Max" : 88,
+            "Avg" : 84,
             "units" : "count\/min",
-            "date" : "2026-10-09 09:59:52 +0530",
-            "Max" : 114
+            "date" : "2026-10-12 11:04:00 +0530"
           },
           {
-            "Min" : 113,
-            "date" : "2026-10-09 09:59:57 +0530",
-            "Avg" : 113,
+            "Avg" : 87.25,
+            "Min" : 80,
+            "Max" : 96,
+            "date" : "2026-10-12 11:05:00 +0530",
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 77,
+            "Max" : 103,
+            "units" : "count\/min",
+            "Avg" : 90.833333333333329,
+            "date" : "2026-10-12 11:06:00 +0530"
+          },
+          {
+            "date" : "2026-10-12 11:07:00 +0530",
+            "units" : "count\/min",
+            "Min" : 72,
+            "Avg" : 76,
+            "Max" : 84
+          },
+          {
+            "Min" : 78,
+            "Avg" : 87.5,
+            "Max" : 104,
+            "units" : "count\/min",
+            "date" : "2026-10-12 11:08:00 +0530"
+          },
+          {
+            "date" : "2026-10-12 11:09:00 +0530",
+            "units" : "count\/min",
+            "Max" : 118,
+            "Min" : 90,
+            "Avg" : 101.83333333333333
+          },
+          {
+            "date" : "2026-10-12 11:10:00 +0530",
+            "Avg" : 96.916666666666671,
+            "Min" : 86,
+            "units" : "count\/min",
+            "Max" : 109
+          },
+          {
+            "Min" : 81,
+            "Max" : 121,
+            "units" : "count\/min",
+            "date" : "2026-10-12 11:11:00 +0530",
+            "Avg" : 96.333333333333329
+          },
+          {
+            "Min" : 90,
+            "Max" : 104,
+            "Avg" : 96.5,
+            "date" : "2026-10-12 11:12:00 +0530",
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 97,
+            "date" : "2026-10-12 11:13:00 +0530",
             "Max" : 113,
+            "units" : "count\/min",
+            "Avg" : 105.08333333333333
+          },
+          {
+            "Avg" : 97,
+            "date" : "2026-10-12 11:14:00 +0530",
+            "Max" : 120,
+            "units" : "count\/min",
+            "Min" : 85
+          },
+          {
+            "Avg" : 84.166666666666671,
+            "date" : "2026-10-12 11:15:00 +0530",
+            "Max" : 88,
+            "Min" : 82,
             "units" : "count\/min"
           },
           {
-            "date" : "2026-10-09 10:00:04 +0530",
-            "Min" : 105,
-            "Max" : 105,
-            "Avg" : 105,
+            "Min" : 84,
+            "units" : "count\/min",
+            "Avg" : 95.5,
+            "date" : "2026-10-12 11:16:00 +0530",
+            "Max" : 107
+          },
+          {
+            "Min" : 101,
+            "Max" : 116,
+            "Avg" : 107.41666666666667,
+            "date" : "2026-10-12 11:17:00 +0530",
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 90,
+            "Max" : 115,
+            "units" : "count\/min",
+            "Avg" : 102.66666666666667,
+            "date" : "2026-10-12 11:18:00 +0530"
+          },
+          {
+            "Min" : 97,
+            "Avg" : 102.75,
+            "units" : "count\/min",
+            "date" : "2026-10-12 11:19:00 +0530",
+            "Max" : 110
+          },
+          {
+            "Avg" : 103.41666666666667,
+            "date" : "2026-10-12 11:20:00 +0530",
+            "Max" : 120,
+            "units" : "count\/min",
+            "Min" : 93
+          },
+          {
+            "units" : "count\/min",
+            "Min" : 112,
+            "Avg" : 120.41666666666667,
+            "date" : "2026-10-12 11:21:00 +0530",
+            "Max" : 130
+          },
+          {
+            "units" : "count\/min",
+            "Avg" : 108.45454545454545,
+            "date" : "2026-10-12 11:22:00 +0530",
+            "Min" : 96,
+            "Max" : 120
+          },
+          {
+            "date" : "2026-10-12 11:23:00 +0530",
+            "Max" : 126,
+            "Avg" : 113.46153846153847,
+            "Min" : 101,
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 120,
+            "Avg" : 116.33333333333333,
+            "units" : "count\/min",
+            "date" : "2026-10-12 11:24:00 +0530",
+            "Min" : 113
+          },
+          {
+            "Min" : 103,
+            "Avg" : 115.75,
+            "Max" : 136,
+            "date" : "2026-10-12 11:25:00 +0530",
+            "units" : "count\/min"
+          },
+          {
+            "Avg" : 124,
+            "date" : "2026-10-12 11:26:00 +0530",
+            "Min" : 115,
+            "Max" : 137,
             "units" : "count\/min"
           },
           {
             "units" : "count\/min",
-            "Max" : 110,
-            "date" : "2026-10-09 10:00:11 +0530",
-            "Min" : 110,
-            "Avg" : 110
+            "Max" : 120,
+            "date" : "2026-10-12 11:27:00 +0530",
+            "Avg" : 109.69230769230769,
+            "Min" : 101
           },
           {
-            "Max" : 109,
-            "Avg" : 109,
+            "Avg" : 103.58333333333333,
             "units" : "count\/min",
-            "date" : "2026-10-09 10:00:12 +0530",
-            "Min" : 109
+            "Min" : 100,
+            "Max" : 117,
+            "date" : "2026-10-12 11:28:00 +0530"
+          },
+          {
+            "Avg" : 117.75,
+            "Min" : 107,
+            "date" : "2026-10-12 11:29:00 +0530",
+            "Max" : 134,
+            "units" : "count\/min"
+          },
+          {
+            "Avg" : 103.41666666666667,
+            "units" : "count\/min",
+            "date" : "2026-10-12 11:30:00 +0530",
+            "Min" : 100,
+            "Max" : 108
+          },
+          {
+            "Max" : 116,
+            "Avg" : 104.08333333333333,
+            "Min" : 97,
+            "date" : "2026-10-12 11:31:00 +0530",
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 128,
+            "Min" : 104,
+            "date" : "2026-10-12 11:32:00 +0530",
+            "units" : "count\/min",
+            "Avg" : 112.83333333333333
           },
           {
             "units" : "count\/min",
-            "Avg" : 109,
-            "Max" : 109,
-            "date" : "2026-10-09 10:00:17 +0530",
-            "Min" : 109
+            "date" : "2026-10-12 11:33:00 +0530",
+            "Min" : 95,
+            "Max" : 126,
+            "Avg" : 109.83333333333333
           },
           {
+            "Max" : 111,
+            "date" : "2026-10-12 11:34:00 +0530",
+            "units" : "count\/min",
+            "Avg" : 107.66666666666667,
+            "Min" : 105
+          },
+          {
+            "date" : "2026-10-12 11:35:00 +0530",
+            "Max" : 114,
+            "Min" : 103,
+            "Avg" : 106.25,
+            "units" : "count\/min"
+          },
+          {
+            "Max" : 145,
+            "date" : "2026-10-12 11:36:00 +0530",
+            "Min" : 103,
+            "Avg" : 122,
+            "units" : "count\/min"
+          },
+          {
+            "Avg" : 110.90909090909091,
+            "Min" : 103,
             "Max" : 119,
-            "Avg" : 119,
-            "date" : "2026-10-09 10:00:26 +0530",
+            "units" : "count\/min",
+            "date" : "2026-10-12 11:37:00 +0530"
+          },
+          {
+            "Max" : 140,
+            "date" : "2026-10-12 11:38:00 +0530",
+            "Min" : 102,
+            "Avg" : 118.41666666666667,
+            "units" : "count\/min"
+          },
+          {
+            "date" : "2026-10-12 11:39:00 +0530",
+            "Avg" : 125.61538461538461,
+            "Max" : 134,
             "units" : "count\/min",
             "Min" : 119
           },
           {
-            "Max" : 120,
-            "Avg" : 120,
-            "date" : "2026-10-09 10:00:27 +0530",
-            "units" : "count\/min",
-            "Min" : 120
-          },
-          {
-            "Avg" : 122,
             "Max" : 122,
-            "date" : "2026-10-09 10:00:32 +0530",
-            "Min" : 122,
+            "units" : "count\/min",
+            "Avg" : 115.18181818181819,
+            "date" : "2026-10-12 11:40:00 +0530",
+            "Min" : 110
+          },
+          {
+            "units" : "count\/min",
+            "Min" : 114,
+            "Avg" : 119.76923076923077,
+            "date" : "2026-10-12 11:41:00 +0530",
+            "Max" : 129
+          },
+          {
+            "units" : "count\/min",
+            "date" : "2026-10-12 11:42:00 +0530",
+            "Min" : 108,
+            "Avg" : 115.66666666666667,
+            "Max" : 124
+          },
+          {
+            "Max" : 115,
+            "date" : "2026-10-12 11:43:00 +0530",
+            "Avg" : 114.25,
+            "Min" : 113,
             "units" : "count\/min"
-          },
+          }
+        ],
+        "id" : "27E8A1CF-BCAD-4411-98D5-876CB76E090B",
+        "location" : "Indoor",
+        "heartRateRecovery" : [
           {
             "units" : "count\/min",
+            "Avg" : 114,
+            "Min" : 114,
+            "date" : "2026-10-12 11:43:42 +0530",
+            "Max" : 114
+          },
+          {
+            "Min" : 113,
+            "date" : "2026-10-12 11:43:47 +0530",
             "Avg" : 113,
-            "date" : "2026-10-09 10:00:39 +0530",
-            "Max" : 113,
-            "Min" : 113
+            "units" : "count\/min",
+            "Max" : 113
           },
           {
             "units" : "count\/min",
-            "date" : "2026-10-09 10:00:46 +0530",
             "Avg" : 108,
+            "date" : "2026-10-12 11:43:56 +0530",
+            "Max" : 108,
+            "Min" : 108
+          },
+          {
+            "Min" : 108,
+            "Avg" : 108,
+            "Max" : 108,
+            "units" : "count\/min",
+            "date" : "2026-10-12 11:43:57 +0530"
+          },
+          {
+            "date" : "2026-10-12 11:44:02 +0530",
+            "Avg" : 108,
+            "units" : "count\/min",
             "Min" : 108,
             "Max" : 108
           },
           {
-            "Min" : 108,
-            "Avg" : 108,
-            "Max" : 108,
-            "date" : "2026-10-09 10:00:47 +0530",
-            "units" : "count\/min"
-          },
-          {
-            "Min" : 109,
-            "date" : "2026-10-09 10:00:56 +0530",
-            "Avg" : 109,
+            "Min" : 105,
+            "date" : "2026-10-12 11:44:07 +0530",
             "units" : "count\/min",
-            "Max" : 109
+            "Avg" : 105,
+            "Max" : 105
           },
           {
-            "Min" : 110,
-            "date" : "2026-10-09 10:00:57 +0530",
-            "Avg" : 110,
-            "Max" : 110,
-            "units" : "count\/min"
+            "units" : "count\/min",
+            "Max" : 107,
+            "Avg" : 107,
+            "date" : "2026-10-12 11:44:14 +0530",
+            "Min" : 107
           },
           {
+            "units" : "count\/min",
+            "Avg" : 109,
             "Min" : 109,
             "Max" : 109,
-            "Avg" : 109,
-            "date" : "2026-10-09 10:01:02 +0530",
-            "units" : "count\/min"
-          },
-          {
-            "Max" : 108,
-            "Avg" : 108,
-            "date" : "2026-10-09 10:01:09 +0530",
-            "units" : "count\/min",
-            "Min" : 108
-          },
-          {
-            "date" : "2026-10-09 10:01:12 +0530",
-            "Min" : 109,
-            "Avg" : 109,
-            "units" : "count\/min",
-            "Max" : 109
-          },
-          {
-            "Min" : 109,
-            "Avg" : 109,
-            "units" : "count\/min",
-            "date" : "2026-10-09 10:01:17 +0530",
-            "Max" : 109
-          },
-          {
-            "Avg" : 113,
-            "Max" : 113,
-            "date" : "2026-10-09 10:01:22 +0530",
-            "units" : "count\/min",
-            "Min" : 113
-          },
-          {
-            "Min" : 111,
-            "date" : "2026-10-09 10:01:27 +0530",
-            "Avg" : 111,
-            "Max" : 111,
-            "units" : "count\/min"
-          },
-          {
-            "Min" : 111,
-            "Avg" : 111,
-            "units" : "count\/min",
-            "date" : "2026-10-09 10:01:32 +0530",
-            "Max" : 111
+            "date" : "2026-10-12 11:44:17 +0530"
           },
           {
             "units" : "count\/min",
+            "Min" : 110,
+            "Avg" : 110,
+            "date" : "2026-10-12 11:44:22 +0530",
+            "Max" : 110
+          },
+          {
             "Avg" : 112,
+            "units" : "count\/min",
             "Max" : 112,
             "Min" : 112,
-            "date" : "2026-10-09 10:01:39 +0530"
-          },
-          {
-            "Max" : 110,
-            "units" : "count\/min",
-            "Min" : 110,
-            "date" : "2026-10-09 10:01:44 +0530",
-            "Avg" : 110
-          },
-          {
-            "Max" : 109,
-            "date" : "2026-10-09 10:01:47 +0530",
-            "Min" : 109,
-            "Avg" : 109,
-            "units" : "count\/min"
+            "date" : "2026-10-12 11:44:27 +0530"
           }
         ],
-        "heartRate" : {
-          "min" : {
-            "units" : "count\/min",
-            "qty" : 76
+        "stepCount" : [
+          {
+            "units" : "count",
+            "qty" : 8.5002815617278333,
+            "date" : "2026-10-12 11:12:00 +0530",
+            "source" : "Hardik’s iPhone"
           },
-          "avg" : {
-            "qty" : 111.10440060646491,
-            "units" : "count\/min"
+          {
+            "qty" : 9.6773023643058824,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:13:00 +0530",
+            "units" : "count"
           },
-          "max" : {
-            "qty" : 153,
-            "units" : "count\/min"
+          {
+            "units" : "count",
+            "date" : "2026-10-12 11:14:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 9.6773023643058806
+          },
+          {
+            "qty" : 9.6773023643058806,
+            "source" : "Hardik’s iPhone",
+            "units" : "count",
+            "date" : "2026-10-12 11:15:00 +0530"
+          },
+          {
+            "units" : "count",
+            "qty" : 9.6773023643058824,
+            "date" : "2026-10-12 11:16:00 +0530",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "qty" : 9.6773023643058842,
+            "units" : "count",
+            "date" : "2026-10-12 11:17:00 +0530",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:18:00 +0530",
+            "units" : "count",
+            "qty" : 9.6773023643058824
+          },
+          {
+            "date" : "2026-10-12 11:19:00 +0530",
+            "qty" : 9.6773023643058824,
+            "units" : "count",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 3.7586018881309968,
+            "date" : "2026-10-12 11:20:00 +0530",
+            "units" : "count"
+          },
+          {
+            "date" : "2026-10-12 11:24:00 +0530",
+            "qty" : 1.4701741206713177,
+            "units" : "count",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-10-12 11:25:00 +0530",
+            "units" : "count",
+            "source" : "Hardik’s iPhone",
+            "qty" : 10.686025316282263
+          },
+          {
+            "date" : "2026-10-12 11:26:00 +0530",
+            "qty" : 10.686025316282262,
+            "source" : "Hardik’s iPhone",
+            "units" : "count"
+          },
+          {
+            "date" : "2026-10-12 11:27:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 10.686025316282262,
+            "units" : "count"
+          },
+          {
+            "date" : "2026-10-12 11:28:00 +0530",
+            "qty" : 10.686025316282262,
+            "units" : "count",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "qty" : 10.68602531628226,
+            "date" : "2026-10-12 11:29:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "count"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "count",
+            "date" : "2026-10-12 11:30:00 +0530",
+            "qty" : 10.686025316282262
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:31:00 +0530",
+            "qty" : 10.68602531628226,
+            "units" : "count"
+          },
+          {
+            "units" : "count",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:32:00 +0530",
+            "qty" : 10.686025316282258
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:33:00 +0530",
+            "qty" : 10.68602531628226,
+            "units" : "count"
+          },
+          {
+            "date" : "2026-10-12 11:34:00 +0530",
+            "qty" : 6.4492859195832466,
+            "source" : "Hardik’s iPhone",
+            "units" : "count"
+          },
+          {
+            "units" : "count",
+            "qty" : 12.587090658089862,
+            "date" : "2026-10-12 11:35:00 +0530",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "count",
+            "date" : "2026-10-12 11:36:00 +0530",
+            "qty" : 12.587090658089862
+          },
+          {
+            "qty" : 12.587090658089862,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:37:00 +0530",
+            "units" : "count"
+          },
+          {
+            "qty" : 12.58709065808986,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-12 11:38:00 +0530",
+            "units" : "count"
+          },
+          {
+            "date" : "2026-10-12 11:39:00 +0530",
+            "qty" : 12.58709065808986,
+            "source" : "Hardik’s iPhone",
+            "units" : "count"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "count",
+            "date" : "2026-10-12 11:40:00 +0530",
+            "qty" : 12.58709065808986
+          },
+          {
+            "qty" : 12.58709065808986,
+            "date" : "2026-10-12 11:41:00 +0530",
+            "units" : "count",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 12.587090658089858,
+            "units" : "count",
+            "date" : "2026-10-12 11:42:00 +0530"
+          },
+          {
+            "qty" : 12.587090658089858,
+            "date" : "2026-10-12 11:43:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "count"
+          },
+          {
+            "date" : "2026-10-12 11:44:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 2.6224961903963049,
+            "units" : "count"
           }
+        ]
+      },
+      {
+        "id" : "BBD5FB3F-4B62-4679-9D66-D3C4C708150E",
+        "activeEnergyBurned" : {
+          "qty" : 1176.0680079999959,
+          "units" : "kJ"
         },
-        "activities" : [
-          {
-            "configuration" : {
-              "locationType" : "indoor",
-              "swimmingLocationType" : "unknown"
-            },
-            "activeDuration" : 2875.6168599128723,
-            "boundaryKind" : "interval",
-            "id" : "BBD5FB3F-4B62-4679-9D66-D3C4C708150E",
-            "activityTypeCode" : 50,
-            "duration" : 2875.6168599128723,
-            "end" : "2026-10-09 09:59:48 +0530",
-            "elapsedDuration" : 2875.6168599128723,
-            "start" : "2026-10-09 09:11:53 +0530",
-            "metrics" : {
-              "activeEnergy" : {
-                "origin" : "activityStatistics",
-                "qty" : 281.08699999999902,
-                "units" : "kcal"
-              },
-              "heartRateAverage" : {
-                "origin" : "activityStatistics",
-                "units" : "bpm",
-                "qty" : 111.10440060646491
-              },
-              "heartRateMinimum" : {
-                "origin" : "activityStatistics",
-                "qty" : 76,
-                "units" : "bpm"
-              },
-              "heartRateMaximum" : {
-                "units" : "bpm",
-                "origin" : "activityStatistics",
-                "qty" : 153
-              }
-            },
-            "boundaryOrigin" : "recordedActivity",
-            "activityType" : "traditional_strength_training",
-            "index" : 1
-          }
-        ],
-        "avgHeartRate" : {
-          "qty" : 111.10440060646491,
-          "units" : "count\/min"
+        "maxHeartRate" : {
+          "units" : "count\/min",
+          "qty" : 153
         },
-        "activeEnergy" : [
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:17:00 +0530",
-            "units" : "kJ",
-            "qty" : 6.341639285566453
-          },
-          {
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:18:00 +0530",
-            "qty" : 25.691558006309339
-          },
-          {
-            "units" : "kJ",
-            "qty" : 23.19802940583391,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:19:00 +0530"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 23.20249722565265,
-            "date" : "2026-10-09 09:20:00 +0530"
-          },
-          {
-            "qty" : 28.115958877415128,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:21:00 +0530",
-            "units" : "kJ"
-          },
-          {
-            "date" : "2026-10-09 09:22:00 +0530",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "qty" : 19.922278103672568
-          },
-          {
-            "qty" : 21.448264706245368,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:23:00 +0530"
-          },
-          {
-            "qty" : 22.99044049249348,
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "date" : "2026-10-09 09:24:00 +0530"
-          },
-          {
-            "qty" : 19.402534116431642,
-            "date" : "2026-10-09 09:25:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:26:00 +0530",
-            "qty" : 21.298035629243952,
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 27.00262360149739,
-            "units" : "kJ",
-            "date" : "2026-10-09 09:27:00 +0530"
-          },
-          {
-            "units" : "kJ",
-            "qty" : 17.798331955115234,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:28:00 +0530"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "qty" : 20.72517476111933,
-            "date" : "2026-10-09 09:29:00 +0530",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:30:00 +0530",
-            "qty" : 20.722334652243127,
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "qty" : 19.475125851472644,
-            "date" : "2026-10-09 09:31:00 +0530"
-          },
-          {
-            "qty" : 19.35500655458128,
-            "units" : "kJ",
-            "date" : "2026-10-09 09:32:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:33:00 +0530",
-            "qty" : 19.921378931787558,
-            "units" : "kJ"
-          },
-          {
-            "date" : "2026-10-09 09:34:00 +0530",
-            "qty" : 22.333764896534387,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "units" : "kJ",
-            "qty" : 19.912495946420822,
-            "date" : "2026-10-09 09:35:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 19.550833160612719,
-            "date" : "2026-10-09 09:36:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-10-09 09:37:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "qty" : 20.369471578074542
-          },
-          {
-            "qty" : 19.306809735944022,
-            "date" : "2026-10-09 09:38:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "date" : "2026-10-09 09:39:00 +0530",
-            "qty" : 23.564776630727362,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 33.014924453073476,
-            "date" : "2026-10-09 09:40:00 +0530",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:41:00 +0530",
-            "units" : "kJ",
-            "qty" : 36.4481491556637
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "date" : "2026-10-09 09:42:00 +0530",
-            "qty" : 27.589708322078035
-          },
-          {
-            "date" : "2026-10-09 09:43:00 +0530",
-            "qty" : 34.784813065157444,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 38.422768211418585,
-            "date" : "2026-10-09 09:44:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "qty" : 23.570707009190663,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:45:00 +0530"
-          },
-          {
-            "date" : "2026-10-09 09:46:00 +0530",
-            "qty" : 19.332640909821784,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "date" : "2026-10-09 09:47:00 +0530",
-            "qty" : 23.461072628418485,
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "qty" : 40.864506441580779,
-            "date" : "2026-10-09 09:48:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-10-09 09:49:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "qty" : 25.891147238728198
-          },
-          {
-            "units" : "kJ",
-            "date" : "2026-10-09 09:50:00 +0530",
-            "qty" : 19.085231761603339,
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 20.866166913461932,
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:51:00 +0530",
-            "units" : "kJ"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ",
-            "date" : "2026-10-09 09:52:00 +0530",
-            "qty" : 32.787534683417412
-          },
-          {
-            "qty" : 33.784479348637973,
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:53:00 +0530"
-          },
-          {
-            "date" : "2026-10-09 09:54:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "qty" : 30.349812903657224,
-            "units" : "kJ"
-          },
-          {
-            "date" : "2026-10-09 09:55:00 +0530",
-            "units" : "kJ",
-            "source" : "Hardik’s iPhone",
-            "qty" : 20.230359118551011
-          },
-          {
-            "units" : "kJ",
-            "qty" : 32.245152714756031,
-            "date" : "2026-10-09 09:56:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "qty" : 36.184975698401047,
-            "date" : "2026-10-09 09:57:00 +0530",
-            "source" : "Hardik’s iPhone",
-            "units" : "kJ"
-          },
-          {
-            "qty" : 33.668927750732784,
-            "units" : "kJ",
-            "date" : "2026-10-09 09:58:00 +0530",
-            "source" : "Hardik’s iPhone"
-          },
-          {
-            "source" : "Hardik’s iPhone",
-            "date" : "2026-10-09 09:59:00 +0530",
-            "qty" : 18.106077566655241,
-            "units" : "kJ"
-          }
-        ],
-        "duration" : 2875.6168599128723,
+        "metadata" : {
+
+        },
+        "start" : "2026-10-09 09:11:53 +0530",
         "heartRateData" : [
           {
-            "Max" : 78,
-            "Avg" : 78,
-            "units" : "count\/min",
             "date" : "2026-10-09 09:11:00 +0530",
-            "Min" : 78
+            "units" : "count\/min",
+            "Min" : 78,
+            "Avg" : 78,
+            "Max" : 78
           },
           {
-            "Avg" : 84.299999999999997,
-            "Min" : 76,
             "Max" : 112,
+            "Min" : 76,
+            "units" : "count\/min",
             "date" : "2026-10-09 09:12:00 +0530",
-            "units" : "count\/min"
+            "Avg" : 84.299999999999997
           },
           {
-            "date" : "2026-10-09 09:13:00 +0530",
-            "Avg" : 104.91666666666667,
             "Min" : 88,
+            "date" : "2026-10-09 09:13:00 +0530",
             "Max" : 122,
+            "Avg" : 104.91666666666667,
             "units" : "count\/min"
           },
           {
             "Avg" : 92.15384615384616,
-            "date" : "2026-10-09 09:14:00 +0530",
+            "Max" : 118,
             "Min" : 87,
             "units" : "count\/min",
-            "Max" : 118
+            "date" : "2026-10-09 09:14:00 +0530"
           },
           {
-            "Min" : 87,
-            "date" : "2026-10-09 09:15:00 +0530",
             "Avg" : 95,
+            "units" : "count\/min",
+            "date" : "2026-10-09 09:15:00 +0530",
             "Max" : 104,
-            "units" : "count\/min"
+            "Min" : 87
           },
           {
-            "Max" : 108,
-            "Avg" : 98.25,
-            "date" : "2026-10-09 09:16:00 +0530",
             "Min" : 89,
-            "units" : "count\/min"
+            "units" : "count\/min",
+            "Max" : 108,
+            "date" : "2026-10-09 09:16:00 +0530",
+            "Avg" : 98.25
           },
           {
+            "Avg" : 93.166666666666671,
             "date" : "2026-10-09 09:17:00 +0530",
-            "Max" : 103,
-            "units" : "count\/min",
             "Min" : 86,
-            "Avg" : 93.166666666666671
+            "units" : "count\/min",
+            "Max" : 103
           },
           {
+            "units" : "count\/min",
             "Min" : 96,
+            "date" : "2026-10-09 09:18:00 +0530",
             "Avg" : 115.08333333333333,
-            "units" : "count\/min",
-            "Max" : 129,
-            "date" : "2026-10-09 09:18:00 +0530"
+            "Max" : 129
           },
           {
             "units" : "count\/min",
-            "date" : "2026-10-09 09:19:00 +0530",
-            "Min" : 107,
+            "Max" : 125,
             "Avg" : 112.33333333333333,
-            "Max" : 125
+            "Min" : 107,
+            "date" : "2026-10-09 09:19:00 +0530"
           },
           {
+            "Min" : 111,
             "Max" : 122,
-            "units" : "count\/min",
-            "Avg" : 116.75,
             "date" : "2026-10-09 09:20:00 +0530",
-            "Min" : 111
+            "Avg" : 116.75,
+            "units" : "count\/min"
           },
           {
-            "date" : "2026-10-09 09:21:00 +0530",
             "Avg" : 119.58333333333333,
-            "Min" : 112,
             "Max" : 124,
-            "units" : "count\/min"
+            "Min" : 112,
+            "units" : "count\/min",
+            "date" : "2026-10-09 09:21:00 +0530"
           },
           {
-            "Min" : 100,
+            "units" : "count\/min",
             "Avg" : 107.46153846153847,
+            "Min" : 100,
             "Max" : 114,
-            "date" : "2026-10-09 09:22:00 +0530",
-            "units" : "count\/min"
+            "date" : "2026-10-09 09:22:00 +0530"
           },
           {
-            "Min" : 95,
-            "date" : "2026-10-09 09:23:00 +0530",
             "Avg" : 104.09090909090909,
             "Max" : 122,
+            "units" : "count\/min",
+            "date" : "2026-10-09 09:23:00 +0530",
+            "Min" : 95
+          },
+          {
+            "date" : "2026-10-09 09:24:00 +0530",
+            "Min" : 103,
+            "Avg" : 113.25,
+            "Max" : 126,
             "units" : "count\/min"
           },
           {
-            "Min" : 103,
-            "Max" : 126,
-            "units" : "count\/min",
-            "date" : "2026-10-09 09:24:00 +0530",
-            "Avg" : 113.25
-          },
-          {
-            "units" : "count\/min",
-            "Avg" : 106,
-            "Max" : 110,
             "date" : "2026-10-09 09:25:00 +0530",
-            "Min" : 99
+            "units" : "count\/min",
+            "Min" : 99,
+            "Avg" : 106,
+            "Max" : 110
           },
           {
             "Min" : 97,
-            "Max" : 121,
-            "units" : "count\/min",
             "date" : "2026-10-09 09:26:00 +0530",
-            "Avg" : 106
-          },
-          {
-            "Min" : 104,
-            "Max" : 120,
-            "date" : "2026-10-09 09:27:00 +0530",
-            "Avg" : 112.54545454545455,
+            "Avg" : 106,
+            "Max" : 121,
             "units" : "count\/min"
           },
           {
             "units" : "count\/min",
-            "date" : "2026-10-09 09:28:00 +0530",
-            "Avg" : 103.58333333333333,
-            "Min" : 101,
-            "Max" : 109
+            "Min" : 104,
+            "Avg" : 112.54545454545455,
+            "date" : "2026-10-09 09:27:00 +0530",
+            "Max" : 120
           },
           {
-            "date" : "2026-10-09 09:29:00 +0530",
+            "units" : "count\/min",
+            "Max" : 109,
+            "date" : "2026-10-09 09:28:00 +0530",
+            "Min" : 101,
+            "Avg" : 103.58333333333333
+          },
+          {
+            "units" : "count\/min",
             "Avg" : 101.23076923076923,
-            "Min" : 89,
+            "date" : "2026-10-09 09:29:00 +0530",
+            "Max" : 105,
+            "Min" : 89
+          },
+          {
+            "Max" : 109,
+            "units" : "count\/min",
+            "Min" : 99,
+            "date" : "2026-10-09 09:30:00 +0530",
+            "Avg" : 104
+          },
+          {
+            "Max" : 106,
+            "date" : "2026-10-09 09:31:00 +0530",
+            "Min" : 94,
+            "Avg" : 101.58333333333333,
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 93,
+            "date" : "2026-10-09 09:32:00 +0530",
+            "Avg" : 100.58333333333333,
             "Max" : 105,
             "units" : "count\/min"
           },
           {
-            "Avg" : 104,
-            "units" : "count\/min",
-            "date" : "2026-10-09 09:30:00 +0530",
-            "Max" : 109,
-            "Min" : 99
-          },
-          {
-            "Min" : 94,
-            "Avg" : 101.58333333333333,
-            "Max" : 106,
-            "date" : "2026-10-09 09:31:00 +0530",
-            "units" : "count\/min"
-          },
-          {
-            "Min" : 93,
-            "Avg" : 100.58333333333333,
-            "date" : "2026-10-09 09:32:00 +0530",
-            "units" : "count\/min",
-            "Max" : 105
-          },
-          {
-            "Max" : 114,
             "Avg" : 102.91666666666667,
-            "Min" : 93,
             "units" : "count\/min",
+            "Max" : 114,
+            "Min" : 93,
             "date" : "2026-10-09 09:33:00 +0530"
           },
           {
-            "Max" : 123,
-            "Avg" : 114.08333333333333,
-            "units" : "count\/min",
             "Min" : 108,
-            "date" : "2026-10-09 09:34:00 +0530"
-          },
-          {
-            "Max" : 103,
-            "units" : "count\/min",
-            "date" : "2026-10-09 09:35:00 +0530",
-            "Avg" : 99.400000000000006,
-            "Min" : 93
-          },
-          {
-            "Max" : 104,
-            "date" : "2026-10-09 09:36:00 +0530",
-            "Min" : 95,
-            "Avg" : 101.23076923076923,
+            "date" : "2026-10-09 09:34:00 +0530",
+            "Avg" : 114.08333333333333,
+            "Max" : 123,
             "units" : "count\/min"
           },
           {
-            "date" : "2026-10-09 09:37:00 +0530",
+            "Min" : 93,
             "units" : "count\/min",
+            "Max" : 103,
+            "date" : "2026-10-09 09:35:00 +0530",
+            "Avg" : 99.400000000000006
+          },
+          {
+            "Avg" : 101.23076923076923,
+            "Min" : 95,
+            "Max" : 104,
+            "units" : "count\/min",
+            "date" : "2026-10-09 09:36:00 +0530"
+          },
+          {
+            "Min" : 101,
             "Avg" : 104.08333333333333,
             "Max" : 109,
-            "Min" : 101
+            "date" : "2026-10-09 09:37:00 +0530",
+            "units" : "count\/min"
           },
           {
             "Min" : 100,
             "Max" : 120,
-            "date" : "2026-10-09 09:38:00 +0530",
             "units" : "count\/min",
+            "date" : "2026-10-09 09:38:00 +0530",
             "Avg" : 109.45454545454545
           },
           {
+            "Min" : 96,
+            "date" : "2026-10-09 09:39:00 +0530",
             "units" : "count\/min",
             "Max" : 122,
-            "date" : "2026-10-09 09:39:00 +0530",
-            "Min" : 96,
             "Avg" : 109.16666666666667
           },
           {
             "Avg" : 125.81818181818181,
-            "Min" : 114,
-            "Max" : 137,
             "units" : "count\/min",
-            "date" : "2026-10-09 09:40:00 +0530"
+            "date" : "2026-10-09 09:40:00 +0530",
+            "Max" : 137,
+            "Min" : 114
           },
           {
+            "Min" : 106,
             "date" : "2026-10-09 09:41:00 +0530",
-            "Avg" : 128.25,
             "Max" : 144,
             "units" : "count\/min",
-            "Min" : 106
+            "Avg" : 128.25
           },
           {
             "units" : "count\/min",
@@ -2201,46 +1244,46 @@
             "date" : "2026-10-09 09:42:00 +0530"
           },
           {
-            "date" : "2026-10-09 09:43:00 +0530",
             "Avg" : 127.18181818181819,
+            "Max" : 141,
+            "date" : "2026-10-09 09:43:00 +0530",
             "Min" : 111,
-            "units" : "count\/min",
-            "Max" : 141
+            "units" : "count\/min"
           },
           {
-            "Max" : 145,
             "units" : "count\/min",
             "date" : "2026-10-09 09:44:00 +0530",
+            "Max" : 145,
             "Avg" : 131.84615384615384,
             "Min" : 118
           },
           {
+            "Avg" : 116.54545454545455,
+            "Max" : 123,
+            "units" : "count\/min",
             "date" : "2026-10-09 09:45:00 +0530",
-            "Min" : 108,
-            "Max" : 123,
-            "units" : "count\/min",
-            "Avg" : 116.54545454545455
+            "Min" : 108
           },
           {
-            "units" : "count\/min",
-            "Avg" : 114.66666666666667,
-            "Min" : 108,
             "date" : "2026-10-09 09:46:00 +0530",
-            "Max" : 118
+            "Avg" : 114.66666666666667,
+            "Max" : 118,
+            "Min" : 108,
+            "units" : "count\/min"
           },
           {
-            "units" : "count\/min",
             "Max" : 123,
-            "Avg" : 114.84615384615384,
+            "date" : "2026-10-09 09:47:00 +0530",
             "Min" : 110,
-            "date" : "2026-10-09 09:47:00 +0530"
+            "Avg" : 114.84615384615384,
+            "units" : "count\/min"
           },
           {
-            "Max" : 153,
-            "Avg" : 134.90909090909091,
-            "Min" : 125,
+            "date" : "2026-10-09 09:48:00 +0530",
             "units" : "count\/min",
-            "date" : "2026-10-09 09:48:00 +0530"
+            "Max" : 153,
+            "Min" : 125,
+            "Avg" : 134.90909090909091
           },
           {
             "Min" : 101,
@@ -2250,85 +1293,1042 @@
             "units" : "count\/min"
           },
           {
-            "Max" : 106,
-            "units" : "count\/min",
             "Min" : 96,
+            "Max" : 106,
+            "date" : "2026-10-09 09:50:00 +0530",
             "Avg" : 100.72727272727273,
-            "date" : "2026-10-09 09:50:00 +0530"
+            "units" : "count\/min"
           },
           {
-            "Avg" : 100.63636363636364,
-            "units" : "count\/min",
-            "Min" : 95,
             "date" : "2026-10-09 09:51:00 +0530",
-            "Max" : 108
+            "Max" : 108,
+            "Min" : 95,
+            "Avg" : 100.63636363636364,
+            "units" : "count\/min"
           },
           {
             "Avg" : 131,
             "Max" : 139,
+            "units" : "count\/min",
             "Min" : 115,
-            "date" : "2026-10-09 09:52:00 +0530",
-            "units" : "count\/min"
+            "date" : "2026-10-09 09:52:00 +0530"
           },
           {
             "date" : "2026-10-09 09:53:00 +0530",
-            "Min" : 116,
             "Avg" : 124.46153846153847,
+            "Min" : 116,
             "Max" : 130,
             "units" : "count\/min"
           },
           {
+            "Min" : 115,
             "units" : "count\/min",
-            "Avg" : 123.16666666666667,
-            "date" : "2026-10-09 09:54:00 +0530",
             "Max" : 135,
-            "Min" : 115
+            "date" : "2026-10-09 09:54:00 +0530",
+            "Avg" : 123.16666666666667
           },
           {
+            "units" : "count\/min",
             "Avg" : 116.36363636363636,
-            "Min" : 106,
-            "date" : "2026-10-09 09:55:00 +0530",
             "Max" : 120,
-            "units" : "count\/min"
+            "Min" : 106,
+            "date" : "2026-10-09 09:55:00 +0530"
           },
           {
+            "Min" : 116,
             "date" : "2026-10-09 09:56:00 +0530",
             "Avg" : 123.23076923076923,
             "units" : "count\/min",
-            "Max" : 135,
-            "Min" : 116
+            "Max" : 135
           },
           {
-            "date" : "2026-10-09 09:57:00 +0530",
-            "units" : "count\/min",
             "Avg" : 124.41666666666667,
             "Max" : 126,
-            "Min" : 121
+            "units" : "count\/min",
+            "Min" : 121,
+            "date" : "2026-10-09 09:57:00 +0530"
           },
           {
             "Min" : 114,
             "Avg" : 124,
             "Max" : 135,
+            "date" : "2026-10-09 09:58:00 +0530",
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 112,
+            "Avg" : 115.59999999999999,
+            "Max" : 125,
             "units" : "count\/min",
+            "date" : "2026-10-09 09:59:00 +0530"
+          }
+        ],
+        "duration" : 2875.6168599128723,
+        "isIndoor" : true,
+        "name" : "Traditional Strength Training",
+        "basalEnergy" : [
+          {
+            "qty" : 1.8326165324272141,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:17:00 +0530",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "qty" : 5.0536224493309199,
+            "date" : "2026-10-09 09:18:00 +0530"
+          },
+          {
+            "date" : "2026-10-09 09:19:00 +0530",
+            "qty" : 5.1007313376311219,
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "qty" : 5.0967032601740412,
+            "date" : "2026-10-09 09:20:00 +0530"
+          },
+          {
+            "qty" : 5.0868336253529627,
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:21:00 +0530"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:22:00 +0530",
+            "units" : "kJ",
+            "qty" : 5.0935176770791593
+          },
+          {
+            "date" : "2026-10-09 09:23:00 +0530",
+            "qty" : 5.1050644358886936,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "date" : "2026-10-09 09:24:00 +0530",
+            "qty" : 5.1006525589951224
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 5.0868101802822832,
+            "date" : "2026-10-09 09:25:00 +0530",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "date" : "2026-10-09 09:26:00 +0530",
+            "qty" : 5.1024257359504075
+          },
+          {
+            "date" : "2026-10-09 09:27:00 +0530",
+            "qty" : 5.0631388603179204,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-10-09 09:28:00 +0530",
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "qty" : 4.6608682546973981
+          },
+          {
+            "qty" : 5.1042153236014149,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "date" : "2026-10-09 09:29:00 +0530"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 5.1036005074867719,
+            "units" : "kJ",
+            "date" : "2026-10-09 09:30:00 +0530"
+          },
+          {
+            "qty" : 5.088731172867841,
+            "date" : "2026-10-09 09:31:00 +0530",
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-10-09 09:32:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 5.070991396756459
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:33:00 +0530",
+            "qty" : 5.1048105996085704
+          },
+          {
+            "date" : "2026-10-09 09:34:00 +0530",
+            "qty" : 5.0980780151559291,
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "qty" : 5.0834022543833086,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "date" : "2026-10-09 09:35:00 +0530"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:36:00 +0530",
+            "units" : "kJ",
+            "qty" : 5.0963789314122101
+          },
+          {
+            "qty" : 5.1001093251811529,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:37:00 +0530",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "date" : "2026-10-09 09:38:00 +0530",
+            "qty" : 5.0816269274378421
+          },
+          {
+            "date" : "2026-10-09 09:39:00 +0530",
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "qty" : 5.1056239307554474
+          },
+          {
+            "qty" : 5.0805687933715635,
+            "date" : "2026-10-09 09:40:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-10-09 09:41:00 +0530",
+            "qty" : 5.0973306469914244,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 5.0973510097455543,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:42:00 +0530",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 5.0931966286618078,
+            "units" : "kJ",
+            "date" : "2026-10-09 09:43:00 +0530",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "qty" : 5.0973528016837788,
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:44:00 +0530"
+          },
+          {
+            "date" : "2026-10-09 09:45:00 +0530",
+            "qty" : 5.0961652902572157,
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 5.0689980783516297,
+            "units" : "kJ",
+            "date" : "2026-10-09 09:46:00 +0530"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "date" : "2026-10-09 09:47:00 +0530",
+            "qty" : 5.0805594710683284
+          },
+          {
+            "date" : "2026-10-09 09:48:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 5.1057463736722717,
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-10-09 09:49:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "qty" : 5.0723396138669115
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "qty" : 5.0723811113591255,
+            "date" : "2026-10-09 09:50:00 +0530"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-10-09 09:51:00 +0530",
+            "qty" : 5.1016809455805996,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "units" : "kJ",
+            "qty" : 5.1017211286907731,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:52:00 +0530"
+          },
+          {
+            "date" : "2026-10-09 09:53:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 5.0935521397750456,
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "date" : "2026-10-09 09:54:00 +0530",
+            "qty" : 5.1057515143908763
+          },
+          {
+            "date" : "2026-10-09 09:55:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "qty" : 5.0934377166443845
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-10-09 09:56:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 5.0971116225991118
+          },
+          {
+            "units" : "kJ",
+            "qty" : 5.1058345785256902,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:57:00 +0530"
+          },
+          {
+            "qty" : 5.0933541043799595,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
             "date" : "2026-10-09 09:58:00 +0530"
           },
           {
-            "Max" : 125,
             "date" : "2026-10-09 09:59:00 +0530",
-            "Min" : 112,
-            "units" : "count\/min",
-            "Avg" : 115.59999999999999
+            "source" : "Hardik’s iPhone",
+            "qty" : 3.5604691376098203,
+            "units" : "kJ"
           }
         ],
-        "stepCadence" : {
-          "units" : "count\/min",
-          "qty" : 9.1475787375590514
+        "heartRate" : {
+          "min" : {
+            "qty" : 76,
+            "units" : "count\/min"
+          },
+          "avg" : {
+            "units" : "count\/min",
+            "qty" : 111.10440060646491
+          },
+          "max" : {
+            "qty" : 153,
+            "units" : "count\/min"
+          }
         },
-        "end" : "2026-10-09 09:59:48 +0530",
-        "activeEnergyBurned" : {
+        "activities" : [
+          {
+            "elapsedDuration" : 2875.6168599128723,
+            "end" : "2026-10-09 09:59:48 +0530",
+            "metrics" : {
+              "heartRateMinimum" : {
+                "origin" : "activityStatistics",
+                "units" : "bpm",
+                "qty" : 76
+              },
+              "heartRateAverage" : {
+                "qty" : 111.10440060646491,
+                "origin" : "activityStatistics",
+                "units" : "bpm"
+              },
+              "heartRateMaximum" : {
+                "units" : "bpm",
+                "qty" : 153,
+                "origin" : "activityStatistics"
+              },
+              "activeEnergy" : {
+                "units" : "kcal",
+                "origin" : "activityStatistics",
+                "qty" : 281.08699999999902
+              }
+            },
+            "boundaryOrigin" : "recordedActivity",
+            "id" : "BBD5FB3F-4B62-4679-9D66-D3C4C708150E",
+            "configuration" : {
+              "locationType" : "indoor",
+              "swimmingLocationType" : "unknown"
+            },
+            "activeDuration" : 2875.6168599128723,
+            "boundaryKind" : "interval",
+            "index" : 1,
+            "duration" : 2875.6168599128723,
+            "activityTypeCode" : 50,
+            "start" : "2026-10-09 09:11:53 +0530",
+            "activityType" : "traditional_strength_training"
+          }
+        ],
+        "avgHeartRate" : {
+          "units" : "count\/min",
+          "qty" : 111.10440060646491
+        },
+        "stepCount" : [
+          {
+            "qty" : 0.0079971519072601846,
+            "date" : "2026-10-09 09:18:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "count"
+          },
+          {
+            "qty" : 11.471046213614111,
+            "date" : "2026-10-09 09:19:00 +0530",
+            "units" : "count",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "qty" : 11.471046213614111,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:20:00 +0530",
+            "units" : "count"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 11.471046213614111,
+            "date" : "2026-10-09 09:21:00 +0530",
+            "units" : "count"
+          },
+          {
+            "units" : "count",
+            "date" : "2026-10-09 09:22:00 +0530",
+            "qty" : 11.471046213614109,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "units" : "count",
+            "qty" : 11.471046213614107,
+            "date" : "2026-10-09 09:23:00 +0530",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "qty" : 11.471046213614107,
+            "date" : "2026-10-09 09:24:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "count"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "count",
+            "qty" : 11.471046213614105,
+            "date" : "2026-10-09 09:25:00 +0530"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 11.471046213614107,
+            "units" : "count",
+            "date" : "2026-10-09 09:26:00 +0530"
+          },
+          {
+            "units" : "count",
+            "date" : "2026-10-09 09:27:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 11.471046213614107
+          },
+          {
+            "units" : "count",
+            "qty" : 9.2958326172132786,
+            "date" : "2026-10-09 09:28:00 +0530",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:29:00 +0530",
+            "units" : "count",
+            "qty" : 22.505072148201435
+          },
+          {
+            "units" : "count",
+            "qty" : 22.505072148201435,
+            "date" : "2026-10-09 09:30:00 +0530",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-10-09 09:31:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "count",
+            "qty" : 22.505072148201432
+          },
+          {
+            "date" : "2026-10-09 09:32:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 22.505072148201435,
+            "units" : "count"
+          },
+          {
+            "date" : "2026-10-09 09:33:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 22.505072148201435,
+            "units" : "count"
+          },
+          {
+            "date" : "2026-10-09 09:34:00 +0530",
+            "units" : "count",
+            "qty" : 22.505072148201432,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "units" : "count",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:35:00 +0530",
+            "qty" : 22.505072148201435
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:36:00 +0530",
+            "units" : "count",
+            "qty" : 22.505072148201432
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "count",
+            "date" : "2026-10-09 09:37:00 +0530",
+            "qty" : 5.4161771227409794
+          },
+          {
+            "date" : "2026-10-09 09:48:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 3.155302215701584,
+            "units" : "count"
+          },
+          {
+            "units" : "count",
+            "qty" : 9.3061479318253202,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:49:00 +0530"
+          },
+          {
+            "units" : "count",
+            "date" : "2026-10-09 09:50:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 9.306147931825322
+          },
+          {
+            "date" : "2026-10-09 09:51:00 +0530",
+            "units" : "count",
+            "qty" : 9.3061479318253202,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "units" : "count",
+            "qty" : 9.306147931825322,
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:52:00 +0530"
+          },
+          {
+            "qty" : 9.3061479318253202,
+            "date" : "2026-10-09 09:53:00 +0530",
+            "units" : "count",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 9.306147931825322,
+            "units" : "count",
+            "date" : "2026-10-09 09:54:00 +0530"
+          },
+          {
+            "qty" : 9.3061479318253202,
+            "date" : "2026-10-09 09:55:00 +0530",
+            "units" : "count",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "units" : "count",
+            "qty" : 9.3061479318253202,
+            "date" : "2026-10-09 09:56:00 +0530",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-10-09 09:57:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "count",
+            "qty" : 9.3061479318253202
+          },
+          {
+            "qty" : 5.0893663978705241,
+            "units" : "count",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:58:00 +0530"
+          },
+          {
+            "qty" : 23.482736259906503,
+            "date" : "2026-10-09 09:59:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "count"
+          },
+          {
+            "qty" : 24.93279115851562,
+            "units" : "count",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 10:00:00 +0530"
+          }
+        ],
+        "totalEnergy" : {
           "units" : "kJ",
-          "qty" : 1176.0680079999959
-        }
+          "qty" : 1389.803463999996
+        },
+        "heartRateRecovery" : [
+          {
+            "Avg" : 114,
+            "units" : "count\/min",
+            "Min" : 114,
+            "Max" : 114,
+            "date" : "2026-10-09 09:59:52 +0530"
+          },
+          {
+            "Max" : 113,
+            "Avg" : 113,
+            "units" : "count\/min",
+            "Min" : 113,
+            "date" : "2026-10-09 09:59:57 +0530"
+          },
+          {
+            "Min" : 105,
+            "Avg" : 105,
+            "Max" : 105,
+            "units" : "count\/min",
+            "date" : "2026-10-09 10:00:04 +0530"
+          },
+          {
+            "Avg" : 110,
+            "Max" : 110,
+            "units" : "count\/min",
+            "Min" : 110,
+            "date" : "2026-10-09 10:00:11 +0530"
+          },
+          {
+            "Max" : 109,
+            "units" : "count\/min",
+            "Min" : 109,
+            "date" : "2026-10-09 10:00:12 +0530",
+            "Avg" : 109
+          },
+          {
+            "date" : "2026-10-09 10:00:17 +0530",
+            "Max" : 109,
+            "units" : "count\/min",
+            "Avg" : 109,
+            "Min" : 109
+          },
+          {
+            "units" : "count\/min",
+            "Min" : 119,
+            "Max" : 119,
+            "date" : "2026-10-09 10:00:26 +0530",
+            "Avg" : 119
+          },
+          {
+            "Min" : 120,
+            "Avg" : 120,
+            "Max" : 120,
+            "units" : "count\/min",
+            "date" : "2026-10-09 10:00:27 +0530"
+          },
+          {
+            "Min" : 122,
+            "Max" : 122,
+            "date" : "2026-10-09 10:00:32 +0530",
+            "Avg" : 122,
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 113,
+            "date" : "2026-10-09 10:00:39 +0530",
+            "units" : "count\/min",
+            "Max" : 113,
+            "Avg" : 113
+          },
+          {
+            "Min" : 108,
+            "date" : "2026-10-09 10:00:46 +0530",
+            "Max" : 108,
+            "units" : "count\/min",
+            "Avg" : 108
+          },
+          {
+            "Avg" : 108,
+            "Max" : 108,
+            "units" : "count\/min",
+            "Min" : 108,
+            "date" : "2026-10-09 10:00:47 +0530"
+          },
+          {
+            "Avg" : 109,
+            "units" : "count\/min",
+            "Min" : 109,
+            "date" : "2026-10-09 10:00:56 +0530",
+            "Max" : 109
+          },
+          {
+            "Avg" : 110,
+            "Min" : 110,
+            "Max" : 110,
+            "date" : "2026-10-09 10:00:57 +0530",
+            "units" : "count\/min"
+          },
+          {
+            "date" : "2026-10-09 10:01:02 +0530",
+            "Min" : 109,
+            "Avg" : 109,
+            "units" : "count\/min",
+            "Max" : 109
+          },
+          {
+            "Avg" : 108,
+            "Max" : 108,
+            "date" : "2026-10-09 10:01:09 +0530",
+            "Min" : 108,
+            "units" : "count\/min"
+          },
+          {
+            "Avg" : 109,
+            "Max" : 109,
+            "Min" : 109,
+            "units" : "count\/min",
+            "date" : "2026-10-09 10:01:12 +0530"
+          },
+          {
+            "Avg" : 109,
+            "date" : "2026-10-09 10:01:17 +0530",
+            "Min" : 109,
+            "units" : "count\/min",
+            "Max" : 109
+          },
+          {
+            "date" : "2026-10-09 10:01:22 +0530",
+            "Max" : 113,
+            "Min" : 113,
+            "Avg" : 113,
+            "units" : "count\/min"
+          },
+          {
+            "date" : "2026-10-09 10:01:27 +0530",
+            "Avg" : 111,
+            "Min" : 111,
+            "Max" : 111,
+            "units" : "count\/min"
+          },
+          {
+            "Min" : 111,
+            "Max" : 111,
+            "units" : "count\/min",
+            "date" : "2026-10-09 10:01:32 +0530",
+            "Avg" : 111
+          },
+          {
+            "Min" : 112,
+            "date" : "2026-10-09 10:01:39 +0530",
+            "Avg" : 112,
+            "Max" : 112,
+            "units" : "count\/min"
+          },
+          {
+            "date" : "2026-10-09 10:01:44 +0530",
+            "Max" : 110,
+            "units" : "count\/min",
+            "Avg" : 110,
+            "Min" : 110
+          },
+          {
+            "date" : "2026-10-09 10:01:47 +0530",
+            "units" : "count\/min",
+            "Min" : 109,
+            "Max" : 109,
+            "Avg" : 109
+          }
+        ],
+        "activeEnergy" : [
+          {
+            "date" : "2026-10-09 09:17:00 +0530",
+            "qty" : 6.341639285566453,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-10-09 09:18:00 +0530",
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "qty" : 25.691558006309339
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:19:00 +0530",
+            "qty" : 23.19802940583391
+          },
+          {
+            "qty" : 23.20249722565265,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "date" : "2026-10-09 09:20:00 +0530"
+          },
+          {
+            "date" : "2026-10-09 09:21:00 +0530",
+            "units" : "kJ",
+            "qty" : 28.115958877415128,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "qty" : 19.922278103672568,
+            "date" : "2026-10-09 09:22:00 +0530"
+          },
+          {
+            "date" : "2026-10-09 09:23:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 21.448264706245368,
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "date" : "2026-10-09 09:24:00 +0530",
+            "qty" : 22.99044049249348,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "qty" : 19.402534116431642,
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:25:00 +0530"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:26:00 +0530",
+            "qty" : 21.298035629243952
+          },
+          {
+            "date" : "2026-10-09 09:27:00 +0530",
+            "qty" : 27.00262360149739,
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-10-09 09:28:00 +0530",
+            "qty" : 17.798331955115234,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:29:00 +0530",
+            "qty" : 20.72517476111933,
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "qty" : 20.722334652243127,
+            "date" : "2026-10-09 09:30:00 +0530"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:31:00 +0530",
+            "qty" : 19.475125851472644,
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "qty" : 19.35500655458128,
+            "date" : "2026-10-09 09:32:00 +0530"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:33:00 +0530",
+            "qty" : 19.921378931787558
+          },
+          {
+            "qty" : 22.333764896534387,
+            "units" : "kJ",
+            "date" : "2026-10-09 09:34:00 +0530",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "qty" : 19.912495946420822,
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:35:00 +0530"
+          },
+          {
+            "qty" : 19.550833160612719,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "date" : "2026-10-09 09:36:00 +0530"
+          },
+          {
+            "qty" : 20.369471578074542,
+            "date" : "2026-10-09 09:37:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:38:00 +0530",
+            "qty" : 19.306809735944022
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:39:00 +0530",
+            "qty" : 23.564776630727362
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 33.014924453073476,
+            "date" : "2026-10-09 09:40:00 +0530",
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-10-09 09:41:00 +0530",
+            "qty" : 36.4481491556637,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ"
+          },
+          {
+            "qty" : 27.589708322078035,
+            "date" : "2026-10-09 09:42:00 +0530",
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-10-09 09:43:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 34.784813065157444,
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-10-09 09:44:00 +0530",
+            "qty" : 38.422768211418585,
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "qty" : 23.570707009190663,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "date" : "2026-10-09 09:45:00 +0530"
+          },
+          {
+            "date" : "2026-10-09 09:46:00 +0530",
+            "qty" : 19.332640909821784,
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "qty" : 23.461072628418485,
+            "date" : "2026-10-09 09:47:00 +0530"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "qty" : 40.864506441580779,
+            "date" : "2026-10-09 09:48:00 +0530"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "qty" : 25.891147238728198,
+            "date" : "2026-10-09 09:49:00 +0530"
+          },
+          {
+            "qty" : 19.085231761603339,
+            "units" : "kJ",
+            "date" : "2026-10-09 09:50:00 +0530",
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "qty" : 20.866166913461932,
+            "date" : "2026-10-09 09:51:00 +0530",
+            "units" : "kJ"
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:52:00 +0530",
+            "qty" : 32.787534683417412,
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-10-09 09:53:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "qty" : 33.784479348637973,
+            "units" : "kJ"
+          },
+          {
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:54:00 +0530",
+            "qty" : 30.349812903657224
+          },
+          {
+            "source" : "Hardik’s iPhone",
+            "date" : "2026-10-09 09:55:00 +0530",
+            "qty" : 20.230359118551011,
+            "units" : "kJ"
+          },
+          {
+            "date" : "2026-10-09 09:56:00 +0530",
+            "units" : "kJ",
+            "qty" : 32.245152714756031,
+            "source" : "Hardik’s iPhone"
+          },
+          {
+            "date" : "2026-10-09 09:57:00 +0530",
+            "units" : "kJ",
+            "source" : "Hardik’s iPhone",
+            "qty" : 36.184975698401047
+          },
+          {
+            "date" : "2026-10-09 09:58:00 +0530",
+            "source" : "Hardik’s iPhone",
+            "units" : "kJ",
+            "qty" : 33.668927750732784
+          },
+          {
+            "units" : "kJ",
+            "qty" : 18.106077566655241,
+            "date" : "2026-10-09 09:59:00 +0530",
+            "source" : "Hardik’s iPhone"
+          }
+        ],
+        "end" : "2026-10-09 09:59:48 +0530",
+        "stepCadence" : {
+          "qty" : 9.1475787375590514,
+          "units" : "count\/min"
+        },
+        "source" : {
+          "identifier" : "com.hevyapp.hevy",
+          "name" : "Hevy"
+        },
+        "location" : "Indoor"
       }
     ]
   }
